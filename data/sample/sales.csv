@@ -1,0 +1,2858 @@
+date,product,category,units_sold,unit_price
+2026-04-01,Milk 2L,Dairy,31,5.49
+2026-04-02,Milk 2L,Dairy,34,5.49
+2026-04-03,Milk 2L,Dairy,35,5.49
+2026-04-04,Milk 2L,Dairy,41,5.49
+2026-04-05,Milk 2L,Dairy,41,5.49
+2026-04-06,Milk 2L,Dairy,25,5.49
+2026-04-07,Milk 2L,Dairy,38,5.49
+2026-04-08,Milk 2L,Dairy,20,5.49
+2026-04-09,Milk 2L,Dairy,33,5.49
+2026-04-10,Milk 2L,Dairy,42,5.49
+2026-04-11,Milk 2L,Dairy,44,5.49
+2026-04-12,Milk 2L,Dairy,36,5.49
+2026-04-13,Milk 2L,Dairy,18,5.49
+2026-04-14,Milk 2L,Dairy,21,5.49
+2026-04-15,Milk 2L,Dairy,33,5.49
+2026-04-16,Milk 2L,Dairy,26,5.49
+2026-04-17,Milk 2L,Dairy,34,5.49
+2026-04-18,Milk 2L,Dairy,45,5.49
+2026-04-19,Milk 2L,Dairy,33,5.49
+2026-04-20,Milk 2L,Dairy,27,5.49
+2026-04-21,Milk 2L,Dairy,32,5.49
+2026-04-22,Milk 2L,Dairy,30,5.49
+2026-04-23,Milk 2L,Dairy,29,5.49
+2026-04-24,Milk 2L,Dairy,43,5.49
+2026-04-25,Milk 2L,Dairy,43,5.49
+2026-04-26,Milk 2L,Dairy,30,5.49
+2026-04-27,Milk 2L,Dairy,27,5.49
+2026-04-28,Milk 2L,Dairy,36,5.49
+2026-04-29,Milk 2L,Dairy,27,5.49
+2026-04-30,Milk 2L,Dairy,27,5.49
+2026-05-01,Milk 2L,Dairy,45,5.49
+2026-05-02,Milk 2L,Dairy,36,5.49
+2026-05-03,Milk 2L,Dairy,28,5.49
+2026-05-04,Milk 2L,Dairy,31,5.49
+2026-05-05,Milk 2L,Dairy,18,5.49
+2026-05-06,Milk 2L,Dairy,35,5.49
+2026-05-07,Milk 2L,Dairy,28,5.49
+2026-05-08,Milk 2L,Dairy,31,5.49
+2026-05-09,Milk 2L,Dairy,42,5.49
+2026-05-10,Milk 2L,Dairy,30,5.49
+2026-05-11,Milk 2L,Dairy,21,5.49
+2026-05-12,Milk 2L,Dairy,27,5.49
+2026-05-13,Milk 2L,Dairy,32,5.49
+2026-05-14,Milk 2L,Dairy,40,5.49
+2026-05-15,Milk 2L,Dairy,36,5.49
+2026-05-16,Milk 2L,Dairy,43,5.49
+2026-05-17,Milk 2L,Dairy,32,5.49
+2026-05-18,Milk 2L,Dairy,21,5.49
+2026-05-19,Milk 2L,Dairy,26,5.49
+2026-05-20,Milk 2L,Dairy,19,5.49
+2026-05-21,Milk 2L,Dairy,27,5.49
+2026-05-22,Milk 2L,Dairy,29,5.49
+2026-05-23,Milk 2L,Dairy,27,5.49
+2026-05-24,Milk 2L,Dairy,34,5.49
+2026-05-25,Milk 2L,Dairy,13,5.49
+2026-05-26,Milk 2L,Dairy,23,5.49
+2026-05-27,Milk 2L,Dairy,33,5.49
+2026-05-28,Milk 2L,Dairy,35,5.49
+2026-05-29,Milk 2L,Dairy,36,5.49
+2026-05-30,Milk 2L,Dairy,36,5.49
+2026-05-31,Milk 2L,Dairy,31,5.49
+2026-06-01,Milk 2L,Dairy,34,5.49
+2026-06-02,Milk 2L,Dairy,24,5.49
+2026-06-03,Milk 2L,Dairy,31,5.49
+2026-06-04,Milk 2L,Dairy,21,5.49
+2026-06-05,Milk 2L,Dairy,48,5.49
+2026-06-06,Milk 2L,Dairy,36,5.49
+2026-06-07,Milk 2L,Dairy,35,5.49
+2026-06-08,Milk 2L,Dairy,25,5.49
+2026-06-09,Milk 2L,Dairy,16,5.49
+2026-06-10,Milk 2L,Dairy,35,5.49
+2026-06-11,Milk 2L,Dairy,28,5.49
+2026-06-12,Milk 2L,Dairy,35,5.49
+2026-06-13,Milk 2L,Dairy,32,5.49
+2026-06-14,Milk 2L,Dairy,36,5.49
+2026-06-15,Milk 2L,Dairy,25,5.49
+2026-06-16,Milk 2L,Dairy,31,5.49
+2026-06-17,Milk 2L,Dairy,30,5.49
+2026-06-18,Milk 2L,Dairy,38,5.49
+2026-06-19,Milk 2L,Dairy,39,5.49
+2026-06-20,Milk 2L,Dairy,47,5.49
+2026-06-21,Milk 2L,Dairy,43,5.49
+2026-06-22,Milk 2L,Dairy,19,5.49
+2026-06-23,Milk 2L,Dairy,19,5.49
+2026-06-24,Milk 2L,Dairy,30,5.49
+2026-06-25,Milk 2L,Dairy,29,5.49
+2026-06-26,Milk 2L,Dairy,32,5.49
+2026-06-27,Milk 2L,Dairy,39,5.49
+2026-06-28,Milk 2L,Dairy,25,5.49
+2026-06-29,Milk 2L,Dairy,27,5.49
+2026-06-30,Milk 2L,Dairy,21,5.49
+2026-07-01,Milk 2L,Dairy,28,5.49
+2026-07-02,Milk 2L,Dairy,35,5.49
+2026-07-03,Milk 2L,Dairy,36,5.49
+2026-07-04,Milk 2L,Dairy,37,5.49
+2026-07-05,Milk 2L,Dairy,40,5.49
+2026-07-06,Milk 2L,Dairy,23,5.49
+2026-07-07,Milk 2L,Dairy,30,5.49
+2026-07-08,Milk 2L,Dairy,28,5.49
+2026-07-09,Milk 2L,Dairy,33,5.49
+2026-07-10,Milk 2L,Dairy,30,5.49
+2026-07-11,Milk 2L,Dairy,32,5.49
+2026-07-12,Milk 2L,Dairy,32,5.49
+2026-07-13,Milk 2L,Dairy,13,5.49
+2026-07-14,Milk 2L,Dairy,16,5.49
+2026-07-15,Milk 2L,Dairy,16,5.49
+2026-07-16,Milk 2L,Dairy,30,5.49
+2026-07-17,Milk 2L,Dairy,33,5.49
+2026-07-18,Milk 2L,Dairy,51,5.49
+2026-07-19,Milk 2L,Dairy,30,5.49
+2026-07-20,Milk 2L,Dairy,35,5.49
+2026-07-21,Milk 2L,Dairy,27,5.49
+2026-07-22,Milk 2L,Dairy,35,5.49
+2026-07-23,Milk 2L,Dairy,29,5.49
+2026-07-24,Milk 2L,Dairy,41,5.49
+2026-07-25,Milk 2L,Dairy,39,5.49
+2026-07-26,Milk 2L,Dairy,34,5.49
+2026-07-27,Milk 2L,Dairy,14,5.49
+2026-07-28,Milk 2L,Dairy,26,5.49
+2026-07-29,Milk 2L,Dairy,27,5.49
+2026-07-30,Milk 2L,Dairy,28,5.49
+2026-07-31,Milk 2L,Dairy,33,5.49
+2026-08-01,Milk 2L,Dairy,42,5.49
+2026-08-02,Milk 2L,Dairy,41,5.49
+2026-08-03,Milk 2L,Dairy,23,5.49
+2026-08-04,Milk 2L,Dairy,27,5.49
+2026-08-05,Milk 2L,Dairy,25,5.49
+2026-08-06,Milk 2L,Dairy,32,5.49
+2026-08-07,Milk 2L,Dairy,45,5.49
+2026-08-08,Milk 2L,Dairy,45,5.49
+2026-08-09,Milk 2L,Dairy,30,5.49
+2026-08-10,Milk 2L,Dairy,30,5.49
+2026-08-11,Milk 2L,Dairy,28,5.49
+2026-08-12,Milk 2L,Dairy,39,5.49
+2026-08-13,Milk 2L,Dairy,22,5.49
+2026-08-14,Milk 2L,Dairy,24,5.49
+2026-08-15,Milk 2L,Dairy,31,5.49
+2026-08-16,Milk 2L,Dairy,36,5.49
+2026-08-17,Milk 2L,Dairy,32,5.49
+2026-08-18,Milk 2L,Dairy,20,5.49
+2026-08-19,Milk 2L,Dairy,27,5.49
+2026-08-20,Milk 2L,Dairy,27,5.49
+2026-08-21,Milk 2L,Dairy,35,5.49
+2026-08-22,Milk 2L,Dairy,26,5.49
+2026-08-23,Milk 2L,Dairy,16,5.49
+2026-08-24,Milk 2L,Dairy,27,5.49
+2026-08-25,Milk 2L,Dairy,30,5.49
+2026-08-26,Milk 2L,Dairy,31,5.49
+2026-08-27,Milk 2L,Dairy,39,5.49
+2026-08-28,Milk 2L,Dairy,33,5.49
+2026-08-29,Milk 2L,Dairy,37,5.49
+2026-08-30,Milk 2L,Dairy,30,5.49
+2026-08-31,Milk 2L,Dairy,29,5.49
+2026-09-01,Milk 2L,Dairy,27,5.49
+2026-09-02,Milk 2L,Dairy,34,5.49
+2026-09-03,Milk 2L,Dairy,31,5.49
+2026-09-04,Milk 2L,Dairy,31,5.49
+2026-09-05,Milk 2L,Dairy,43,5.49
+2026-09-06,Milk 2L,Dairy,34,5.49
+2026-09-07,Milk 2L,Dairy,30,5.49
+2026-09-08,Milk 2L,Dairy,22,5.49
+2026-09-09,Milk 2L,Dairy,40,5.49
+2026-09-10,Milk 2L,Dairy,25,5.49
+2026-09-11,Milk 2L,Dairy,40,5.49
+2026-09-12,Milk 2L,Dairy,31,5.49
+2026-09-13,Milk 2L,Dairy,31,5.49
+2026-09-14,Milk 2L,Dairy,27,5.49
+2026-09-15,Milk 2L,Dairy,22,5.49
+2026-09-16,Milk 2L,Dairy,30,5.49
+2026-09-17,Milk 2L,Dairy,26,5.49
+2026-09-18,Milk 2L,Dairy,36,5.49
+2026-09-19,Milk 2L,Dairy,56,5.49
+2026-09-20,Milk 2L,Dairy,29,5.49
+2026-09-21,Milk 2L,Dairy,22,5.49
+2026-09-22,Milk 2L,Dairy,30,5.49
+2026-09-23,Milk 2L,Dairy,21,5.49
+2026-09-24,Milk 2L,Dairy,28,5.49
+2026-09-25,Milk 2L,Dairy,28,5.49
+2026-09-26,Milk 2L,Dairy,36,5.49
+2026-09-27,Milk 2L,Dairy,31,5.49
+2026-09-28,Milk 2L,Dairy,32,5.49
+2026-09-29,Milk 2L,Dairy,28,5.49
+2026-09-30,Milk 2L,Dairy,26,5.49
+2026-04-01,Eggs (dozen),Dairy,25,4.99
+2026-04-02,Eggs (dozen),Dairy,14,4.99
+2026-04-03,Eggs (dozen),Dairy,19,4.99
+2026-04-04,Eggs (dozen),Dairy,23,4.99
+2026-04-05,Eggs (dozen),Dairy,23,4.99
+2026-04-06,Eggs (dozen),Dairy,22,4.99
+2026-04-07,Eggs (dozen),Dairy,12,4.99
+2026-04-08,Eggs (dozen),Dairy,19,4.99
+2026-04-09,Eggs (dozen),Dairy,25,4.99
+2026-04-10,Eggs (dozen),Dairy,18,4.99
+2026-04-11,Eggs (dozen),Dairy,18,4.99
+2026-04-12,Eggs (dozen),Dairy,18,4.99
+2026-04-13,Eggs (dozen),Dairy,18,4.99
+2026-04-14,Eggs (dozen),Dairy,23,4.99
+2026-04-15,Eggs (dozen),Dairy,18,4.99
+2026-04-16,Eggs (dozen),Dairy,17,4.99
+2026-04-17,Eggs (dozen),Dairy,19,4.99
+2026-04-18,Eggs (dozen),Dairy,28,4.99
+2026-04-19,Eggs (dozen),Dairy,23,4.99
+2026-04-20,Eggs (dozen),Dairy,13,4.99
+2026-04-21,Eggs (dozen),Dairy,9,4.99
+2026-04-22,Eggs (dozen),Dairy,18,4.99
+2026-04-23,Eggs (dozen),Dairy,16,4.99
+2026-04-24,Eggs (dozen),Dairy,24,4.99
+2026-04-25,Eggs (dozen),Dairy,18,4.99
+2026-04-26,Eggs (dozen),Dairy,27,4.99
+2026-04-27,Eggs (dozen),Dairy,17,4.99
+2026-04-28,Eggs (dozen),Dairy,13,4.99
+2026-04-29,Eggs (dozen),Dairy,15,4.99
+2026-04-30,Eggs (dozen),Dairy,17,4.99
+2026-05-01,Eggs (dozen),Dairy,21,4.99
+2026-05-02,Eggs (dozen),Dairy,28,4.99
+2026-05-03,Eggs (dozen),Dairy,19,4.99
+2026-05-04,Eggs (dozen),Dairy,13,4.99
+2026-05-05,Eggs (dozen),Dairy,10,4.99
+2026-05-06,Eggs (dozen),Dairy,11,4.99
+2026-05-07,Eggs (dozen),Dairy,14,4.99
+2026-05-08,Eggs (dozen),Dairy,16,4.99
+2026-05-09,Eggs (dozen),Dairy,31,4.99
+2026-05-10,Eggs (dozen),Dairy,25,4.99
+2026-05-11,Eggs (dozen),Dairy,16,4.99
+2026-05-12,Eggs (dozen),Dairy,14,4.99
+2026-05-13,Eggs (dozen),Dairy,18,4.99
+2026-05-14,Eggs (dozen),Dairy,17,4.99
+2026-05-15,Eggs (dozen),Dairy,28,4.99
+2026-05-16,Eggs (dozen),Dairy,25,4.99
+2026-05-17,Eggs (dozen),Dairy,24,4.99
+2026-05-18,Eggs (dozen),Dairy,19,4.99
+2026-05-19,Eggs (dozen),Dairy,15,4.99
+2026-05-20,Eggs (dozen),Dairy,15,4.99
+2026-05-21,Eggs (dozen),Dairy,21,4.99
+2026-05-22,Eggs (dozen),Dairy,17,4.99
+2026-05-23,Eggs (dozen),Dairy,19,4.99
+2026-05-24,Eggs (dozen),Dairy,14,4.99
+2026-05-25,Eggs (dozen),Dairy,14,4.99
+2026-05-26,Eggs (dozen),Dairy,16,4.99
+2026-05-27,Eggs (dozen),Dairy,17,4.99
+2026-05-28,Eggs (dozen),Dairy,17,4.99
+2026-05-29,Eggs (dozen),Dairy,18,4.99
+2026-05-30,Eggs (dozen),Dairy,25,4.99
+2026-05-31,Eggs (dozen),Dairy,26,4.99
+2026-06-01,Eggs (dozen),Dairy,21,4.99
+2026-06-02,Eggs (dozen),Dairy,22,4.99
+2026-06-03,Eggs (dozen),Dairy,17,4.99
+2026-06-04,Eggs (dozen),Dairy,14,4.99
+2026-06-05,Eggs (dozen),Dairy,20,4.99
+2026-06-06,Eggs (dozen),Dairy,30,4.99
+2026-06-07,Eggs (dozen),Dairy,10,4.99
+2026-06-08,Eggs (dozen),Dairy,17,4.99
+2026-06-09,Eggs (dozen),Dairy,9,4.99
+2026-06-10,Eggs (dozen),Dairy,20,4.99
+2026-06-11,Eggs (dozen),Dairy,16,4.99
+2026-06-12,Eggs (dozen),Dairy,26,4.99
+2026-06-13,Eggs (dozen),Dairy,39,4.99
+2026-06-14,Eggs (dozen),Dairy,21,4.99
+2026-06-15,Eggs (dozen),Dairy,11,4.99
+2026-06-16,Eggs (dozen),Dairy,13,4.99
+2026-06-17,Eggs (dozen),Dairy,23,4.99
+2026-06-18,Eggs (dozen),Dairy,16,4.99
+2026-06-19,Eggs (dozen),Dairy,21,4.99
+2026-06-20,Eggs (dozen),Dairy,22,4.99
+2026-06-21,Eggs (dozen),Dairy,13,4.99
+2026-06-22,Eggs (dozen),Dairy,16,4.99
+2026-06-23,Eggs (dozen),Dairy,15,4.99
+2026-06-24,Eggs (dozen),Dairy,25,4.99
+2026-06-25,Eggs (dozen),Dairy,19,4.99
+2026-06-26,Eggs (dozen),Dairy,21,4.99
+2026-06-27,Eggs (dozen),Dairy,22,4.99
+2026-06-28,Eggs (dozen),Dairy,15,4.99
+2026-06-29,Eggs (dozen),Dairy,11,4.99
+2026-06-30,Eggs (dozen),Dairy,18,4.99
+2026-07-01,Eggs (dozen),Dairy,15,4.99
+2026-07-02,Eggs (dozen),Dairy,12,4.99
+2026-07-03,Eggs (dozen),Dairy,28,4.99
+2026-07-04,Eggs (dozen),Dairy,24,4.99
+2026-07-05,Eggs (dozen),Dairy,22,4.99
+2026-07-06,Eggs (dozen),Dairy,15,4.99
+2026-07-07,Eggs (dozen),Dairy,10,4.99
+2026-07-08,Eggs (dozen),Dairy,25,4.99
+2026-07-09,Eggs (dozen),Dairy,24,4.99
+2026-07-10,Eggs (dozen),Dairy,21,4.99
+2026-07-11,Eggs (dozen),Dairy,21,4.99
+2026-07-12,Eggs (dozen),Dairy,28,4.99
+2026-07-13,Eggs (dozen),Dairy,11,4.99
+2026-07-14,Eggs (dozen),Dairy,14,4.99
+2026-07-15,Eggs (dozen),Dairy,10,4.99
+2026-07-16,Eggs (dozen),Dairy,19,4.99
+2026-07-17,Eggs (dozen),Dairy,21,4.99
+2026-07-18,Eggs (dozen),Dairy,23,4.99
+2026-07-19,Eggs (dozen),Dairy,24,4.99
+2026-07-20,Eggs (dozen),Dairy,11,4.99
+2026-07-21,Eggs (dozen),Dairy,11,4.99
+2026-07-22,Eggs (dozen),Dairy,8,4.99
+2026-07-23,Eggs (dozen),Dairy,25,4.99
+2026-07-24,Eggs (dozen),Dairy,17,4.99
+2026-07-25,Eggs (dozen),Dairy,22,4.99
+2026-07-26,Eggs (dozen),Dairy,19,4.99
+2026-07-27,Eggs (dozen),Dairy,19,4.99
+2026-07-28,Eggs (dozen),Dairy,12,4.99
+2026-07-29,Eggs (dozen),Dairy,15,4.99
+2026-07-30,Eggs (dozen),Dairy,14,4.99
+2026-07-31,Eggs (dozen),Dairy,22,4.99
+2026-08-01,Eggs (dozen),Dairy,24,4.99
+2026-08-02,Eggs (dozen),Dairy,21,4.99
+2026-08-03,Eggs (dozen),Dairy,15,4.99
+2026-08-04,Eggs (dozen),Dairy,16,4.99
+2026-08-05,Eggs (dozen),Dairy,18,4.99
+2026-08-06,Eggs (dozen),Dairy,16,4.99
+2026-08-07,Eggs (dozen),Dairy,21,4.99
+2026-08-08,Eggs (dozen),Dairy,26,4.99
+2026-08-09,Eggs (dozen),Dairy,30,4.99
+2026-08-10,Eggs (dozen),Dairy,13,4.99
+2026-08-11,Eggs (dozen),Dairy,13,4.99
+2026-08-12,Eggs (dozen),Dairy,13,4.99
+2026-08-13,Eggs (dozen),Dairy,19,4.99
+2026-08-14,Eggs (dozen),Dairy,21,4.99
+2026-08-15,Eggs (dozen),Dairy,30,4.99
+2026-08-16,Eggs (dozen),Dairy,15,4.99
+2026-08-17,Eggs (dozen),Dairy,12,4.99
+2026-08-18,Eggs (dozen),Dairy,12,4.99
+2026-08-19,Eggs (dozen),Dairy,14,4.99
+2026-08-20,Eggs (dozen),Dairy,18,4.99
+2026-08-21,Eggs (dozen),Dairy,29,4.99
+2026-08-22,Eggs (dozen),Dairy,16,4.99
+2026-08-23,Eggs (dozen),Dairy,20,4.99
+2026-08-24,Eggs (dozen),Dairy,16,4.99
+2026-08-25,Eggs (dozen),Dairy,11,4.99
+2026-08-26,Eggs (dozen),Dairy,15,4.99
+2026-08-27,Eggs (dozen),Dairy,26,4.99
+2026-08-28,Eggs (dozen),Dairy,19,4.99
+2026-08-29,Eggs (dozen),Dairy,23,4.99
+2026-08-30,Eggs (dozen),Dairy,15,4.99
+2026-08-31,Eggs (dozen),Dairy,10,4.99
+2026-09-01,Eggs (dozen),Dairy,25,4.99
+2026-09-02,Eggs (dozen),Dairy,15,4.99
+2026-09-03,Eggs (dozen),Dairy,23,4.99
+2026-09-04,Eggs (dozen),Dairy,10,4.99
+2026-09-05,Eggs (dozen),Dairy,29,4.99
+2026-09-06,Eggs (dozen),Dairy,23,4.99
+2026-09-07,Eggs (dozen),Dairy,11,4.99
+2026-09-08,Eggs (dozen),Dairy,19,4.99
+2026-09-09,Eggs (dozen),Dairy,15,4.99
+2026-09-10,Eggs (dozen),Dairy,21,4.99
+2026-09-11,Eggs (dozen),Dairy,21,4.99
+2026-09-12,Eggs (dozen),Dairy,24,4.99
+2026-09-13,Eggs (dozen),Dairy,17,4.99
+2026-09-14,Eggs (dozen),Dairy,23,4.99
+2026-09-15,Eggs (dozen),Dairy,19,4.99
+2026-09-16,Eggs (dozen),Dairy,11,4.99
+2026-09-17,Eggs (dozen),Dairy,14,4.99
+2026-09-18,Eggs (dozen),Dairy,25,4.99
+2026-09-19,Eggs (dozen),Dairy,31,4.99
+2026-09-20,Eggs (dozen),Dairy,17,4.99
+2026-09-21,Eggs (dozen),Dairy,15,4.99
+2026-09-22,Eggs (dozen),Dairy,21,4.99
+2026-09-23,Eggs (dozen),Dairy,12,4.99
+2026-09-24,Eggs (dozen),Dairy,20,4.99
+2026-09-25,Eggs (dozen),Dairy,28,4.99
+2026-09-26,Eggs (dozen),Dairy,31,4.99
+2026-09-27,Eggs (dozen),Dairy,22,4.99
+2026-09-28,Eggs (dozen),Dairy,12,4.99
+2026-09-29,Eggs (dozen),Dairy,13,4.99
+2026-09-30,Eggs (dozen),Dairy,15,4.99
+2026-04-01,Greek Yogurt 750g,Dairy,10,6.49
+2026-04-02,Greek Yogurt 750g,Dairy,13,6.49
+2026-04-03,Greek Yogurt 750g,Dairy,8,6.49
+2026-04-04,Greek Yogurt 750g,Dairy,6,6.49
+2026-04-05,Greek Yogurt 750g,Dairy,12,6.49
+2026-04-06,Greek Yogurt 750g,Dairy,8,6.49
+2026-04-07,Greek Yogurt 750g,Dairy,8,6.49
+2026-04-08,Greek Yogurt 750g,Dairy,7,6.49
+2026-04-09,Greek Yogurt 750g,Dairy,13,6.49
+2026-04-10,Greek Yogurt 750g,Dairy,8,6.49
+2026-04-11,Greek Yogurt 750g,Dairy,11,6.49
+2026-04-12,Greek Yogurt 750g,Dairy,14,6.49
+2026-04-13,Greek Yogurt 750g,Dairy,12,6.49
+2026-04-14,Greek Yogurt 750g,Dairy,9,6.49
+2026-04-15,Greek Yogurt 750g,Dairy,6,6.49
+2026-04-16,Greek Yogurt 750g,Dairy,5,6.49
+2026-04-17,Greek Yogurt 750g,Dairy,10,6.49
+2026-04-18,Greek Yogurt 750g,Dairy,18,6.49
+2026-04-19,Greek Yogurt 750g,Dairy,10,6.49
+2026-04-20,Greek Yogurt 750g,Dairy,8,6.49
+2026-04-21,Greek Yogurt 750g,Dairy,4,6.49
+2026-04-22,Greek Yogurt 750g,Dairy,3,6.49
+2026-04-23,Greek Yogurt 750g,Dairy,11,6.49
+2026-04-24,Greek Yogurt 750g,Dairy,9,6.49
+2026-04-25,Greek Yogurt 750g,Dairy,15,6.49
+2026-04-26,Greek Yogurt 750g,Dairy,10,6.49
+2026-04-27,Greek Yogurt 750g,Dairy,11,6.49
+2026-04-28,Greek Yogurt 750g,Dairy,4,6.49
+2026-04-29,Greek Yogurt 750g,Dairy,6,6.49
+2026-04-30,Greek Yogurt 750g,Dairy,6,6.49
+2026-05-01,Greek Yogurt 750g,Dairy,9,6.49
+2026-05-02,Greek Yogurt 750g,Dairy,15,6.49
+2026-05-03,Greek Yogurt 750g,Dairy,7,6.49
+2026-05-04,Greek Yogurt 750g,Dairy,6,6.49
+2026-05-05,Greek Yogurt 750g,Dairy,9,6.49
+2026-05-06,Greek Yogurt 750g,Dairy,5,6.49
+2026-05-07,Greek Yogurt 750g,Dairy,11,6.49
+2026-05-08,Greek Yogurt 750g,Dairy,6,6.49
+2026-05-09,Greek Yogurt 750g,Dairy,19,6.49
+2026-05-10,Greek Yogurt 750g,Dairy,6,6.49
+2026-05-11,Greek Yogurt 750g,Dairy,3,6.49
+2026-05-12,Greek Yogurt 750g,Dairy,5,6.49
+2026-05-13,Greek Yogurt 750g,Dairy,16,6.49
+2026-05-14,Greek Yogurt 750g,Dairy,7,6.49
+2026-05-15,Greek Yogurt 750g,Dairy,10,6.49
+2026-05-16,Greek Yogurt 750g,Dairy,11,6.49
+2026-05-17,Greek Yogurt 750g,Dairy,10,6.49
+2026-05-18,Greek Yogurt 750g,Dairy,10,6.49
+2026-05-19,Greek Yogurt 750g,Dairy,5,6.49
+2026-05-20,Greek Yogurt 750g,Dairy,10,6.49
+2026-05-21,Greek Yogurt 750g,Dairy,10,6.49
+2026-05-22,Greek Yogurt 750g,Dairy,12,6.49
+2026-05-23,Greek Yogurt 750g,Dairy,8,6.49
+2026-05-24,Greek Yogurt 750g,Dairy,7,6.49
+2026-05-25,Greek Yogurt 750g,Dairy,12,6.49
+2026-05-26,Greek Yogurt 750g,Dairy,11,6.49
+2026-05-27,Greek Yogurt 750g,Dairy,8,6.49
+2026-05-28,Greek Yogurt 750g,Dairy,7,6.49
+2026-05-29,Greek Yogurt 750g,Dairy,13,6.49
+2026-05-30,Greek Yogurt 750g,Dairy,11,6.49
+2026-05-31,Greek Yogurt 750g,Dairy,9,6.49
+2026-06-01,Greek Yogurt 750g,Dairy,3,6.49
+2026-06-02,Greek Yogurt 750g,Dairy,8,6.49
+2026-06-03,Greek Yogurt 750g,Dairy,6,6.49
+2026-06-04,Greek Yogurt 750g,Dairy,4,6.49
+2026-06-05,Greek Yogurt 750g,Dairy,15,6.49
+2026-06-06,Greek Yogurt 750g,Dairy,11,6.49
+2026-06-07,Greek Yogurt 750g,Dairy,11,6.49
+2026-06-08,Greek Yogurt 750g,Dairy,7,6.49
+2026-06-09,Greek Yogurt 750g,Dairy,4,6.49
+2026-06-10,Greek Yogurt 750g,Dairy,7,6.49
+2026-06-11,Greek Yogurt 750g,Dairy,12,6.49
+2026-06-12,Greek Yogurt 750g,Dairy,10,6.49
+2026-06-13,Greek Yogurt 750g,Dairy,7,6.49
+2026-06-14,Greek Yogurt 750g,Dairy,8,6.49
+2026-06-15,Greek Yogurt 750g,Dairy,12,6.49
+2026-06-16,Greek Yogurt 750g,Dairy,9,6.49
+2026-06-17,Greek Yogurt 750g,Dairy,10,6.49
+2026-06-18,Greek Yogurt 750g,Dairy,7,6.49
+2026-06-19,Greek Yogurt 750g,Dairy,6,6.49
+2026-06-20,Greek Yogurt 750g,Dairy,16,6.49
+2026-06-21,Greek Yogurt 750g,Dairy,12,6.49
+2026-06-22,Greek Yogurt 750g,Dairy,5,6.49
+2026-06-23,Greek Yogurt 750g,Dairy,6,6.49
+2026-06-24,Greek Yogurt 750g,Dairy,11,6.49
+2026-06-25,Greek Yogurt 750g,Dairy,9,6.49
+2026-06-26,Greek Yogurt 750g,Dairy,11,6.49
+2026-06-27,Greek Yogurt 750g,Dairy,12,6.49
+2026-06-28,Greek Yogurt 750g,Dairy,7,6.49
+2026-06-29,Greek Yogurt 750g,Dairy,8,6.49
+2026-06-30,Greek Yogurt 750g,Dairy,2,6.49
+2026-07-01,Greek Yogurt 750g,Dairy,8,6.49
+2026-07-02,Greek Yogurt 750g,Dairy,9,6.49
+2026-07-03,Greek Yogurt 750g,Dairy,14,6.49
+2026-07-04,Greek Yogurt 750g,Dairy,9,6.49
+2026-07-05,Greek Yogurt 750g,Dairy,10,6.49
+2026-07-06,Greek Yogurt 750g,Dairy,12,6.49
+2026-07-07,Greek Yogurt 750g,Dairy,8,6.49
+2026-07-08,Greek Yogurt 750g,Dairy,9,6.49
+2026-07-09,Greek Yogurt 750g,Dairy,12,6.49
+2026-07-10,Greek Yogurt 750g,Dairy,18,6.49
+2026-07-11,Greek Yogurt 750g,Dairy,12,6.49
+2026-07-12,Greek Yogurt 750g,Dairy,9,6.49
+2026-07-13,Greek Yogurt 750g,Dairy,6,6.49
+2026-07-14,Greek Yogurt 750g,Dairy,5,6.49
+2026-07-15,Greek Yogurt 750g,Dairy,8,6.49
+2026-07-16,Greek Yogurt 750g,Dairy,6,6.49
+2026-07-17,Greek Yogurt 750g,Dairy,13,6.49
+2026-07-18,Greek Yogurt 750g,Dairy,7,6.49
+2026-07-19,Greek Yogurt 750g,Dairy,13,6.49
+2026-07-20,Greek Yogurt 750g,Dairy,5,6.49
+2026-07-21,Greek Yogurt 750g,Dairy,12,6.49
+2026-07-22,Greek Yogurt 750g,Dairy,6,6.49
+2026-07-23,Greek Yogurt 750g,Dairy,5,6.49
+2026-07-24,Greek Yogurt 750g,Dairy,9,6.49
+2026-07-25,Greek Yogurt 750g,Dairy,15,6.49
+2026-07-26,Greek Yogurt 750g,Dairy,11,6.49
+2026-07-27,Greek Yogurt 750g,Dairy,4,6.49
+2026-07-28,Greek Yogurt 750g,Dairy,11,6.49
+2026-07-29,Greek Yogurt 750g,Dairy,6,6.49
+2026-07-30,Greek Yogurt 750g,Dairy,4,6.49
+2026-07-31,Greek Yogurt 750g,Dairy,11,6.49
+2026-08-01,Greek Yogurt 750g,Dairy,7,6.49
+2026-08-02,Greek Yogurt 750g,Dairy,5,6.49
+2026-08-03,Greek Yogurt 750g,Dairy,11,6.49
+2026-08-04,Greek Yogurt 750g,Dairy,8,6.49
+2026-08-05,Greek Yogurt 750g,Dairy,5,6.49
+2026-08-06,Greek Yogurt 750g,Dairy,11,6.49
+2026-08-07,Greek Yogurt 750g,Dairy,9,6.49
+2026-08-08,Greek Yogurt 750g,Dairy,9,6.49
+2026-08-09,Greek Yogurt 750g,Dairy,12,6.49
+2026-08-10,Greek Yogurt 750g,Dairy,8,6.49
+2026-08-11,Greek Yogurt 750g,Dairy,9,6.49
+2026-08-12,Greek Yogurt 750g,Dairy,4,6.49
+2026-08-13,Greek Yogurt 750g,Dairy,11,6.49
+2026-08-14,Greek Yogurt 750g,Dairy,13,6.49
+2026-08-15,Greek Yogurt 750g,Dairy,10,6.49
+2026-08-16,Greek Yogurt 750g,Dairy,10,6.49
+2026-08-17,Greek Yogurt 750g,Dairy,8,6.49
+2026-08-18,Greek Yogurt 750g,Dairy,12,6.49
+2026-08-19,Greek Yogurt 750g,Dairy,7,6.49
+2026-08-20,Greek Yogurt 750g,Dairy,10,6.49
+2026-08-21,Greek Yogurt 750g,Dairy,8,6.49
+2026-08-22,Greek Yogurt 750g,Dairy,10,6.49
+2026-08-23,Greek Yogurt 750g,Dairy,11,6.49
+2026-08-24,Greek Yogurt 750g,Dairy,10,6.49
+2026-08-25,Greek Yogurt 750g,Dairy,6,6.49
+2026-08-26,Greek Yogurt 750g,Dairy,8,6.49
+2026-08-27,Greek Yogurt 750g,Dairy,6,6.49
+2026-08-28,Greek Yogurt 750g,Dairy,7,6.49
+2026-08-29,Greek Yogurt 750g,Dairy,8,6.49
+2026-08-30,Greek Yogurt 750g,Dairy,10,6.49
+2026-08-31,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-01,Greek Yogurt 750g,Dairy,3,6.49
+2026-09-02,Greek Yogurt 750g,Dairy,6,6.49
+2026-09-03,Greek Yogurt 750g,Dairy,8,6.49
+2026-09-04,Greek Yogurt 750g,Dairy,6,6.49
+2026-09-05,Greek Yogurt 750g,Dairy,14,6.49
+2026-09-06,Greek Yogurt 750g,Dairy,8,6.49
+2026-09-07,Greek Yogurt 750g,Dairy,6,6.49
+2026-09-08,Greek Yogurt 750g,Dairy,8,6.49
+2026-09-09,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-10,Greek Yogurt 750g,Dairy,5,6.49
+2026-09-11,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-12,Greek Yogurt 750g,Dairy,13,6.49
+2026-09-13,Greek Yogurt 750g,Dairy,7,6.49
+2026-09-14,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-15,Greek Yogurt 750g,Dairy,6,6.49
+2026-09-16,Greek Yogurt 750g,Dairy,7,6.49
+2026-09-17,Greek Yogurt 750g,Dairy,4,6.49
+2026-09-18,Greek Yogurt 750g,Dairy,10,6.49
+2026-09-19,Greek Yogurt 750g,Dairy,10,6.49
+2026-09-20,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-21,Greek Yogurt 750g,Dairy,6,6.49
+2026-09-22,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-23,Greek Yogurt 750g,Dairy,7,6.49
+2026-09-24,Greek Yogurt 750g,Dairy,9,6.49
+2026-09-25,Greek Yogurt 750g,Dairy,10,6.49
+2026-09-26,Greek Yogurt 750g,Dairy,18,6.49
+2026-09-27,Greek Yogurt 750g,Dairy,12,6.49
+2026-09-28,Greek Yogurt 750g,Dairy,6,6.49
+2026-09-29,Greek Yogurt 750g,Dairy,8,6.49
+2026-09-30,Greek Yogurt 750g,Dairy,4,6.49
+2026-04-01,Cheddar Block 400g,Dairy,2,7.99
+2026-04-02,Cheddar Block 400g,Dairy,7,7.99
+2026-04-03,Cheddar Block 400g,Dairy,8,7.99
+2026-04-04,Cheddar Block 400g,Dairy,12,7.99
+2026-04-05,Cheddar Block 400g,Dairy,11,7.99
+2026-04-06,Cheddar Block 400g,Dairy,7,7.99
+2026-04-08,Cheddar Block 400g,Dairy,13,7.99
+2026-04-09,Cheddar Block 400g,Dairy,7,7.99
+2026-04-10,Cheddar Block 400g,Dairy,3,7.99
+2026-04-11,Cheddar Block 400g,Dairy,8,7.99
+2026-04-12,Cheddar Block 400g,Dairy,8,7.99
+2026-04-13,Cheddar Block 400g,Dairy,9,7.99
+2026-04-14,Cheddar Block 400g,Dairy,8,7.99
+2026-04-15,Cheddar Block 400g,Dairy,5,7.99
+2026-04-16,Cheddar Block 400g,Dairy,10,7.99
+2026-04-17,Cheddar Block 400g,Dairy,7,7.99
+2026-04-18,Cheddar Block 400g,Dairy,4,7.99
+2026-04-19,Cheddar Block 400g,Dairy,8,7.99
+2026-04-20,Cheddar Block 400g,Dairy,9,7.99
+2026-04-21,Cheddar Block 400g,Dairy,4,7.99
+2026-04-22,Cheddar Block 400g,Dairy,5,7.99
+2026-04-23,Cheddar Block 400g,Dairy,4,7.99
+2026-04-24,Cheddar Block 400g,Dairy,6,7.99
+2026-04-25,Cheddar Block 400g,Dairy,8,7.99
+2026-04-26,Cheddar Block 400g,Dairy,5,7.99
+2026-04-27,Cheddar Block 400g,Dairy,6,7.99
+2026-04-28,Cheddar Block 400g,Dairy,3,7.99
+2026-04-29,Cheddar Block 400g,Dairy,4,7.99
+2026-04-30,Cheddar Block 400g,Dairy,5,7.99
+2026-05-01,Cheddar Block 400g,Dairy,6,7.99
+2026-05-02,Cheddar Block 400g,Dairy,21,7.99
+2026-05-03,Cheddar Block 400g,Dairy,10,7.99
+2026-05-04,Cheddar Block 400g,Dairy,6,7.99
+2026-05-05,Cheddar Block 400g,Dairy,4,7.99
+2026-05-06,Cheddar Block 400g,Dairy,5,7.99
+2026-05-07,Cheddar Block 400g,Dairy,4,7.99
+2026-05-08,Cheddar Block 400g,Dairy,11,7.99
+2026-05-09,Cheddar Block 400g,Dairy,9,7.99
+2026-05-10,Cheddar Block 400g,Dairy,7,7.99
+2026-05-11,Cheddar Block 400g,Dairy,2,7.99
+2026-05-12,Cheddar Block 400g,Dairy,7,7.99
+2026-05-13,Cheddar Block 400g,Dairy,8,7.99
+2026-05-14,Cheddar Block 400g,Dairy,8,7.99
+2026-05-15,Cheddar Block 400g,Dairy,8,7.99
+2026-05-16,Cheddar Block 400g,Dairy,8,7.99
+2026-05-17,Cheddar Block 400g,Dairy,4,7.99
+2026-05-18,Cheddar Block 400g,Dairy,6,7.99
+2026-05-19,Cheddar Block 400g,Dairy,2,7.99
+2026-05-20,Cheddar Block 400g,Dairy,5,7.99
+2026-05-21,Cheddar Block 400g,Dairy,6,7.99
+2026-05-22,Cheddar Block 400g,Dairy,7,7.99
+2026-05-23,Cheddar Block 400g,Dairy,14,7.99
+2026-05-24,Cheddar Block 400g,Dairy,8,7.99
+2026-05-25,Cheddar Block 400g,Dairy,6,7.99
+2026-05-26,Cheddar Block 400g,Dairy,4,7.99
+2026-05-27,Cheddar Block 400g,Dairy,3,7.99
+2026-05-28,Cheddar Block 400g,Dairy,4,7.99
+2026-05-29,Cheddar Block 400g,Dairy,7,7.99
+2026-05-30,Cheddar Block 400g,Dairy,5,7.99
+2026-05-31,Cheddar Block 400g,Dairy,3,7.99
+2026-06-01,Cheddar Block 400g,Dairy,5,7.99
+2026-06-02,Cheddar Block 400g,Dairy,2,7.99
+2026-06-03,Cheddar Block 400g,Dairy,2,7.99
+2026-06-04,Cheddar Block 400g,Dairy,6,7.99
+2026-06-05,Cheddar Block 400g,Dairy,5,7.99
+2026-06-06,Cheddar Block 400g,Dairy,6,7.99
+2026-06-07,Cheddar Block 400g,Dairy,10,7.99
+2026-06-08,Cheddar Block 400g,Dairy,4,7.99
+2026-06-09,Cheddar Block 400g,Dairy,5,7.99
+2026-06-10,Cheddar Block 400g,Dairy,9,7.99
+2026-06-11,Cheddar Block 400g,Dairy,6,7.99
+2026-06-12,Cheddar Block 400g,Dairy,6,7.99
+2026-06-13,Cheddar Block 400g,Dairy,9,7.99
+2026-06-14,Cheddar Block 400g,Dairy,3,7.99
+2026-06-15,Cheddar Block 400g,Dairy,5,7.99
+2026-06-16,Cheddar Block 400g,Dairy,6,7.99
+2026-06-17,Cheddar Block 400g,Dairy,9,7.99
+2026-06-18,Cheddar Block 400g,Dairy,9,7.99
+2026-06-19,Cheddar Block 400g,Dairy,7,7.99
+2026-06-20,Cheddar Block 400g,Dairy,7,7.99
+2026-06-21,Cheddar Block 400g,Dairy,8,7.99
+2026-06-22,Cheddar Block 400g,Dairy,6,7.99
+2026-06-23,Cheddar Block 400g,Dairy,9,7.99
+2026-06-24,Cheddar Block 400g,Dairy,6,7.99
+2026-06-25,Cheddar Block 400g,Dairy,3,7.99
+2026-06-26,Cheddar Block 400g,Dairy,6,7.99
+2026-06-27,Cheddar Block 400g,Dairy,7,7.99
+2026-06-28,Cheddar Block 400g,Dairy,5,7.99
+2026-06-29,Cheddar Block 400g,Dairy,4,7.99
+2026-06-30,Cheddar Block 400g,Dairy,4,7.99
+2026-07-01,Cheddar Block 400g,Dairy,5,7.99
+2026-07-02,Cheddar Block 400g,Dairy,11,7.99
+2026-07-03,Cheddar Block 400g,Dairy,6,7.99
+2026-07-04,Cheddar Block 400g,Dairy,17,7.99
+2026-07-05,Cheddar Block 400g,Dairy,4,7.99
+2026-07-06,Cheddar Block 400g,Dairy,5,7.99
+2026-07-07,Cheddar Block 400g,Dairy,1,7.99
+2026-07-08,Cheddar Block 400g,Dairy,9,7.99
+2026-07-09,Cheddar Block 400g,Dairy,7,7.99
+2026-07-10,Cheddar Block 400g,Dairy,5,7.99
+2026-07-11,Cheddar Block 400g,Dairy,5,7.99
+2026-07-12,Cheddar Block 400g,Dairy,7,7.99
+2026-07-13,Cheddar Block 400g,Dairy,3,7.99
+2026-07-14,Cheddar Block 400g,Dairy,8,7.99
+2026-07-15,Cheddar Block 400g,Dairy,6,7.99
+2026-07-16,Cheddar Block 400g,Dairy,7,7.99
+2026-07-17,Cheddar Block 400g,Dairy,5,7.99
+2026-07-18,Cheddar Block 400g,Dairy,6,7.99
+2026-07-19,Cheddar Block 400g,Dairy,8,7.99
+2026-07-20,Cheddar Block 400g,Dairy,4,7.99
+2026-07-21,Cheddar Block 400g,Dairy,3,7.99
+2026-07-22,Cheddar Block 400g,Dairy,6,7.99
+2026-07-23,Cheddar Block 400g,Dairy,4,7.99
+2026-07-24,Cheddar Block 400g,Dairy,7,7.99
+2026-07-25,Cheddar Block 400g,Dairy,7,7.99
+2026-07-26,Cheddar Block 400g,Dairy,3,7.99
+2026-07-27,Cheddar Block 400g,Dairy,6,7.99
+2026-07-28,Cheddar Block 400g,Dairy,7,7.99
+2026-07-29,Cheddar Block 400g,Dairy,6,7.99
+2026-07-30,Cheddar Block 400g,Dairy,6,7.99
+2026-07-31,Cheddar Block 400g,Dairy,11,7.99
+2026-08-01,Cheddar Block 400g,Dairy,9,7.99
+2026-08-02,Cheddar Block 400g,Dairy,5,7.99
+2026-08-03,Cheddar Block 400g,Dairy,5,7.99
+2026-08-04,Cheddar Block 400g,Dairy,4,7.99
+2026-08-05,Cheddar Block 400g,Dairy,10,7.99
+2026-08-06,Cheddar Block 400g,Dairy,5,7.99
+2026-08-07,Cheddar Block 400g,Dairy,3,7.99
+2026-08-08,Cheddar Block 400g,Dairy,7,7.99
+2026-08-09,Cheddar Block 400g,Dairy,7,7.99
+2026-08-10,Cheddar Block 400g,Dairy,4,7.99
+2026-08-11,Cheddar Block 400g,Dairy,5,7.99
+2026-08-12,Cheddar Block 400g,Dairy,3,7.99
+2026-08-13,Cheddar Block 400g,Dairy,12,7.99
+2026-08-14,Cheddar Block 400g,Dairy,11,7.99
+2026-08-15,Cheddar Block 400g,Dairy,8,7.99
+2026-08-16,Cheddar Block 400g,Dairy,9,7.99
+2026-08-17,Cheddar Block 400g,Dairy,4,7.99
+2026-08-18,Cheddar Block 400g,Dairy,3,7.99
+2026-08-19,Cheddar Block 400g,Dairy,1,7.99
+2026-08-20,Cheddar Block 400g,Dairy,4,7.99
+2026-08-21,Cheddar Block 400g,Dairy,8,7.99
+2026-08-22,Cheddar Block 400g,Dairy,8,7.99
+2026-08-23,Cheddar Block 400g,Dairy,3,7.99
+2026-08-24,Cheddar Block 400g,Dairy,3,7.99
+2026-08-25,Cheddar Block 400g,Dairy,6,7.99
+2026-08-26,Cheddar Block 400g,Dairy,9,7.99
+2026-08-27,Cheddar Block 400g,Dairy,7,7.99
+2026-08-28,Cheddar Block 400g,Dairy,8,7.99
+2026-08-29,Cheddar Block 400g,Dairy,7,7.99
+2026-08-30,Cheddar Block 400g,Dairy,7,7.99
+2026-08-31,Cheddar Block 400g,Dairy,2,7.99
+2026-09-01,Cheddar Block 400g,Dairy,3,7.99
+2026-09-02,Cheddar Block 400g,Dairy,5,7.99
+2026-09-03,Cheddar Block 400g,Dairy,8,7.99
+2026-09-04,Cheddar Block 400g,Dairy,7,7.99
+2026-09-05,Cheddar Block 400g,Dairy,2,7.99
+2026-09-06,Cheddar Block 400g,Dairy,10,7.99
+2026-09-07,Cheddar Block 400g,Dairy,2,7.99
+2026-09-08,Cheddar Block 400g,Dairy,5,7.99
+2026-09-09,Cheddar Block 400g,Dairy,9,7.99
+2026-09-10,Cheddar Block 400g,Dairy,8,7.99
+2026-09-11,Cheddar Block 400g,Dairy,10,7.99
+2026-09-12,Cheddar Block 400g,Dairy,7,7.99
+2026-09-13,Cheddar Block 400g,Dairy,6,7.99
+2026-09-14,Cheddar Block 400g,Dairy,4,7.99
+2026-09-15,Cheddar Block 400g,Dairy,5,7.99
+2026-09-16,Cheddar Block 400g,Dairy,7,7.99
+2026-09-17,Cheddar Block 400g,Dairy,6,7.99
+2026-09-18,Cheddar Block 400g,Dairy,7,7.99
+2026-09-19,Cheddar Block 400g,Dairy,11,7.99
+2026-09-20,Cheddar Block 400g,Dairy,4,7.99
+2026-09-21,Cheddar Block 400g,Dairy,8,7.99
+2026-09-22,Cheddar Block 400g,Dairy,6,7.99
+2026-09-23,Cheddar Block 400g,Dairy,5,7.99
+2026-09-24,Cheddar Block 400g,Dairy,6,7.99
+2026-09-25,Cheddar Block 400g,Dairy,9,7.99
+2026-09-26,Cheddar Block 400g,Dairy,6,7.99
+2026-09-27,Cheddar Block 400g,Dairy,2,7.99
+2026-09-28,Cheddar Block 400g,Dairy,5,7.99
+2026-09-29,Cheddar Block 400g,Dairy,6,7.99
+2026-09-30,Cheddar Block 400g,Dairy,5,7.99
+2026-04-01,Sourdough Loaf,Bakery,11,6.99
+2026-04-02,Sourdough Loaf,Bakery,12,6.99
+2026-04-03,Sourdough Loaf,Bakery,12,6.99
+2026-04-04,Sourdough Loaf,Bakery,15,6.99
+2026-04-05,Sourdough Loaf,Bakery,13,6.99
+2026-04-06,Sourdough Loaf,Bakery,13,6.99
+2026-04-07,Sourdough Loaf,Bakery,15,6.99
+2026-04-08,Sourdough Loaf,Bakery,16,6.99
+2026-04-09,Sourdough Loaf,Bakery,12,6.99
+2026-04-10,Sourdough Loaf,Bakery,13,6.99
+2026-04-11,Sourdough Loaf,Bakery,16,6.99
+2026-04-12,Sourdough Loaf,Bakery,11,6.99
+2026-04-13,Sourdough Loaf,Bakery,18,6.99
+2026-04-14,Sourdough Loaf,Bakery,10,6.99
+2026-04-15,Sourdough Loaf,Bakery,8,6.99
+2026-04-16,Sourdough Loaf,Bakery,13,6.99
+2026-04-17,Sourdough Loaf,Bakery,14,6.99
+2026-04-18,Sourdough Loaf,Bakery,20,6.99
+2026-04-19,Sourdough Loaf,Bakery,17,6.99
+2026-04-20,Sourdough Loaf,Bakery,12,6.99
+2026-04-21,Sourdough Loaf,Bakery,12,6.99
+2026-04-22,Sourdough Loaf,Bakery,13,6.99
+2026-04-23,Sourdough Loaf,Bakery,15,6.99
+2026-04-24,Sourdough Loaf,Bakery,12,6.99
+2026-04-25,Sourdough Loaf,Bakery,15,6.99
+2026-04-26,Sourdough Loaf,Bakery,13,6.99
+2026-04-27,Sourdough Loaf,Bakery,6,6.99
+2026-04-28,Sourdough Loaf,Bakery,9,6.99
+2026-04-29,Sourdough Loaf,Bakery,20,6.99
+2026-04-30,Sourdough Loaf,Bakery,9,6.99
+2026-05-01,Sourdough Loaf,Bakery,8,6.99
+2026-05-02,Sourdough Loaf,Bakery,19,6.99
+2026-05-03,Sourdough Loaf,Bakery,21,6.99
+2026-05-04,Sourdough Loaf,Bakery,11,6.99
+2026-05-05,Sourdough Loaf,Bakery,11,6.99
+2026-05-06,Sourdough Loaf,Bakery,6,6.99
+2026-05-07,Sourdough Loaf,Bakery,20,6.99
+2026-05-08,Sourdough Loaf,Bakery,14,6.99
+2026-05-09,Sourdough Loaf,Bakery,20,6.99
+2026-05-10,Sourdough Loaf,Bakery,15,6.99
+2026-05-11,Sourdough Loaf,Bakery,9,6.99
+2026-05-12,Sourdough Loaf,Bakery,10,6.99
+2026-05-13,Sourdough Loaf,Bakery,10,6.99
+2026-05-14,Sourdough Loaf,Bakery,14,6.99
+2026-05-15,Sourdough Loaf,Bakery,21,6.99
+2026-05-16,Sourdough Loaf,Bakery,15,6.99
+2026-05-17,Sourdough Loaf,Bakery,11,6.99
+2026-05-18,Sourdough Loaf,Bakery,10,6.99
+2026-05-19,Sourdough Loaf,Bakery,12,6.99
+2026-05-20,Sourdough Loaf,Bakery,11,6.99
+2026-05-21,Sourdough Loaf,Bakery,17,6.99
+2026-05-22,Sourdough Loaf,Bakery,22,6.99
+2026-05-23,Sourdough Loaf,Bakery,12,6.99
+2026-05-24,Sourdough Loaf,Bakery,13,6.99
+2026-05-25,Sourdough Loaf,Bakery,10,6.99
+2026-05-26,Sourdough Loaf,Bakery,10,6.99
+2026-05-27,Sourdough Loaf,Bakery,4,6.99
+2026-05-28,Sourdough Loaf,Bakery,13,6.99
+2026-05-29,Sourdough Loaf,Bakery,15,6.99
+2026-05-30,Sourdough Loaf,Bakery,20,6.99
+2026-05-31,Sourdough Loaf,Bakery,18,6.99
+2026-06-01,Sourdough Loaf,Bakery,15,6.99
+2026-06-02,Sourdough Loaf,Bakery,5,6.99
+2026-06-03,Sourdough Loaf,Bakery,14,6.99
+2026-06-04,Sourdough Loaf,Bakery,10,6.99
+2026-06-05,Sourdough Loaf,Bakery,20,6.99
+2026-06-06,Sourdough Loaf,Bakery,20,6.99
+2026-06-07,Sourdough Loaf,Bakery,13,6.99
+2026-06-08,Sourdough Loaf,Bakery,14,6.99
+2026-06-09,Sourdough Loaf,Bakery,10,6.99
+2026-06-10,Sourdough Loaf,Bakery,16,6.99
+2026-06-11,Sourdough Loaf,Bakery,9,6.99
+2026-06-12,Sourdough Loaf,Bakery,24,6.99
+2026-06-13,Sourdough Loaf,Bakery,21,6.99
+2026-06-14,Sourdough Loaf,Bakery,12,6.99
+2026-06-15,Sourdough Loaf,Bakery,20,6.99
+2026-06-16,Sourdough Loaf,Bakery,14,6.99
+2026-06-17,Sourdough Loaf,Bakery,9,6.99
+2026-06-18,Sourdough Loaf,Bakery,17,6.99
+2026-06-19,Sourdough Loaf,Bakery,10,6.99
+2026-06-20,Sourdough Loaf,Bakery,28,6.99
+2026-06-21,Sourdough Loaf,Bakery,15,6.99
+2026-06-22,Sourdough Loaf,Bakery,10,6.99
+2026-06-23,Sourdough Loaf,Bakery,9,6.99
+2026-06-24,Sourdough Loaf,Bakery,10,6.99
+2026-06-25,Sourdough Loaf,Bakery,9,6.99
+2026-06-26,Sourdough Loaf,Bakery,21,6.99
+2026-06-27,Sourdough Loaf,Bakery,19,6.99
+2026-06-28,Sourdough Loaf,Bakery,11,6.99
+2026-06-29,Sourdough Loaf,Bakery,13,6.99
+2026-06-30,Sourdough Loaf,Bakery,9,6.99
+2026-07-01,Sourdough Loaf,Bakery,10,6.99
+2026-07-02,Sourdough Loaf,Bakery,14,6.99
+2026-07-03,Sourdough Loaf,Bakery,18,6.99
+2026-07-04,Sourdough Loaf,Bakery,17,6.99
+2026-07-05,Sourdough Loaf,Bakery,17,6.99
+2026-07-06,Sourdough Loaf,Bakery,18,6.99
+2026-07-07,Sourdough Loaf,Bakery,7,6.99
+2026-07-08,Sourdough Loaf,Bakery,15,6.99
+2026-07-09,Sourdough Loaf,Bakery,15,6.99
+2026-07-10,Sourdough Loaf,Bakery,18,6.99
+2026-07-11,Sourdough Loaf,Bakery,19,6.99
+2026-07-12,Sourdough Loaf,Bakery,16,6.99
+2026-07-13,Sourdough Loaf,Bakery,13,6.99
+2026-07-14,Sourdough Loaf,Bakery,9,6.99
+2026-07-15,Sourdough Loaf,Bakery,17,6.99
+2026-07-16,Sourdough Loaf,Bakery,13,6.99
+2026-07-17,Sourdough Loaf,Bakery,8,6.99
+2026-07-18,Sourdough Loaf,Bakery,11,6.99
+2026-07-19,Sourdough Loaf,Bakery,14,6.99
+2026-07-20,Sourdough Loaf,Bakery,13,6.99
+2026-07-21,Sourdough Loaf,Bakery,10,6.99
+2026-07-22,Sourdough Loaf,Bakery,8,6.99
+2026-07-23,Sourdough Loaf,Bakery,9,6.99
+2026-07-24,Sourdough Loaf,Bakery,18,6.99
+2026-07-25,Sourdough Loaf,Bakery,14,6.99
+2026-07-26,Sourdough Loaf,Bakery,16,6.99
+2026-07-27,Sourdough Loaf,Bakery,5,6.99
+2026-07-28,Sourdough Loaf,Bakery,15,6.99
+2026-07-29,Sourdough Loaf,Bakery,17,6.99
+2026-07-30,Sourdough Loaf,Bakery,17,6.99
+2026-07-31,Sourdough Loaf,Bakery,20,6.99
+2026-08-01,Sourdough Loaf,Bakery,12,6.99
+2026-08-02,Sourdough Loaf,Bakery,21,6.99
+2026-08-03,Sourdough Loaf,Bakery,17,6.99
+2026-08-04,Sourdough Loaf,Bakery,5,6.99
+2026-08-05,Sourdough Loaf,Bakery,7,6.99
+2026-08-06,Sourdough Loaf,Bakery,14,6.99
+2026-08-07,Sourdough Loaf,Bakery,16,6.99
+2026-08-08,Sourdough Loaf,Bakery,15,6.99
+2026-08-09,Sourdough Loaf,Bakery,16,6.99
+2026-08-10,Sourdough Loaf,Bakery,11,6.99
+2026-08-11,Sourdough Loaf,Bakery,13,6.99
+2026-08-12,Sourdough Loaf,Bakery,16,6.99
+2026-08-13,Sourdough Loaf,Bakery,15,6.99
+2026-08-14,Sourdough Loaf,Bakery,9,6.99
+2026-08-15,Sourdough Loaf,Bakery,22,6.99
+2026-08-16,Sourdough Loaf,Bakery,14,6.99
+2026-08-17,Sourdough Loaf,Bakery,8,6.99
+2026-08-18,Sourdough Loaf,Bakery,13,6.99
+2026-08-19,Sourdough Loaf,Bakery,17,6.99
+2026-08-20,Sourdough Loaf,Bakery,12,6.99
+2026-08-21,Sourdough Loaf,Bakery,22,6.99
+2026-08-22,Sourdough Loaf,Bakery,20,6.99
+2026-08-23,Sourdough Loaf,Bakery,18,6.99
+2026-08-24,Sourdough Loaf,Bakery,13,6.99
+2026-08-25,Sourdough Loaf,Bakery,11,6.99
+2026-08-26,Sourdough Loaf,Bakery,15,6.99
+2026-08-27,Sourdough Loaf,Bakery,23,6.99
+2026-08-28,Sourdough Loaf,Bakery,14,6.99
+2026-08-29,Sourdough Loaf,Bakery,20,6.99
+2026-08-30,Sourdough Loaf,Bakery,10,6.99
+2026-08-31,Sourdough Loaf,Bakery,15,6.99
+2026-09-01,Sourdough Loaf,Bakery,6,6.99
+2026-09-02,Sourdough Loaf,Bakery,17,6.99
+2026-09-03,Sourdough Loaf,Bakery,12,6.99
+2026-09-04,Sourdough Loaf,Bakery,22,6.99
+2026-09-05,Sourdough Loaf,Bakery,16,6.99
+2026-09-06,Sourdough Loaf,Bakery,20,6.99
+2026-09-07,Sourdough Loaf,Bakery,5,6.99
+2026-09-08,Sourdough Loaf,Bakery,13,6.99
+2026-09-09,Sourdough Loaf,Bakery,14,6.99
+2026-09-10,Sourdough Loaf,Bakery,9,6.99
+2026-09-11,Sourdough Loaf,Bakery,14,6.99
+2026-09-12,Sourdough Loaf,Bakery,15,6.99
+2026-09-13,Sourdough Loaf,Bakery,15,6.99
+2026-09-14,Sourdough Loaf,Bakery,4,6.99
+2026-09-15,Sourdough Loaf,Bakery,17,6.99
+2026-09-16,Sourdough Loaf,Bakery,16,6.99
+2026-09-17,Sourdough Loaf,Bakery,15,6.99
+2026-09-18,Sourdough Loaf,Bakery,17,6.99
+2026-09-19,Sourdough Loaf,Bakery,13,6.99
+2026-09-20,Sourdough Loaf,Bakery,21,6.99
+2026-09-21,Sourdough Loaf,Bakery,18,6.99
+2026-09-22,Sourdough Loaf,Bakery,17,6.99
+2026-09-23,Sourdough Loaf,Bakery,11,6.99
+2026-09-24,Sourdough Loaf,Bakery,11,6.99
+2026-09-25,Sourdough Loaf,Bakery,6,6.99
+2026-09-26,Sourdough Loaf,Bakery,18,6.99
+2026-09-27,Sourdough Loaf,Bakery,7,6.99
+2026-09-28,Sourdough Loaf,Bakery,15,6.99
+2026-09-29,Sourdough Loaf,Bakery,8,6.99
+2026-09-30,Sourdough Loaf,Bakery,16,6.99
+2026-04-01,Bagels (6 pack),Bakery,6,4.49
+2026-04-02,Bagels (6 pack),Bakery,10,4.49
+2026-04-03,Bagels (6 pack),Bakery,7,4.49
+2026-04-04,Bagels (6 pack),Bakery,9,4.49
+2026-04-05,Bagels (6 pack),Bakery,3,4.49
+2026-04-06,Bagels (6 pack),Bakery,7,4.49
+2026-04-07,Bagels (6 pack),Bakery,10,4.49
+2026-04-08,Bagels (6 pack),Bakery,4,4.49
+2026-04-09,Bagels (6 pack),Bakery,14,4.49
+2026-04-10,Bagels (6 pack),Bakery,10,4.49
+2026-04-11,Bagels (6 pack),Bakery,11,4.49
+2026-04-12,Bagels (6 pack),Bakery,9,4.49
+2026-04-13,Bagels (6 pack),Bakery,3,4.49
+2026-04-14,Bagels (6 pack),Bakery,6,4.49
+2026-04-15,Bagels (6 pack),Bakery,8,4.49
+2026-04-16,Bagels (6 pack),Bakery,7,4.49
+2026-04-17,Bagels (6 pack),Bakery,13,4.49
+2026-04-18,Bagels (6 pack),Bakery,13,4.49
+2026-04-19,Bagels (6 pack),Bakery,3,4.49
+2026-04-20,Bagels (6 pack),Bakery,6,4.49
+2026-04-21,Bagels (6 pack),Bakery,13,4.49
+2026-04-22,Bagels (6 pack),Bakery,8,4.49
+2026-04-23,Bagels (6 pack),Bakery,9,4.49
+2026-04-24,Bagels (6 pack),Bakery,12,4.49
+2026-04-25,Bagels (6 pack),Bakery,13,4.49
+2026-04-26,Bagels (6 pack),Bakery,10,4.49
+2026-04-27,Bagels (6 pack),Bakery,7,4.49
+2026-04-28,Bagels (6 pack),Bakery,9,4.49
+2026-04-29,Bagels (6 pack),Bakery,5,4.49
+2026-04-30,Bagels (6 pack),Bakery,4,4.49
+2026-05-01,Bagels (6 pack),Bakery,9,4.49
+2026-05-02,Bagels (6 pack),Bakery,13,4.49
+2026-05-03,Bagels (6 pack),Bakery,3,4.49
+2026-05-04,Bagels (6 pack),Bakery,8,4.49
+2026-05-05,Bagels (6 pack),Bakery,8,4.49
+2026-05-06,Bagels (6 pack),Bakery,12,4.49
+2026-05-07,Bagels (6 pack),Bakery,8,4.49
+2026-05-08,Bagels (6 pack),Bakery,7,4.49
+2026-05-09,Bagels (6 pack),Bakery,10,4.49
+2026-05-10,Bagels (6 pack),Bakery,8,4.49
+2026-05-11,Bagels (6 pack),Bakery,8,4.49
+2026-05-12,Bagels (6 pack),Bakery,4,4.49
+2026-05-13,Bagels (6 pack),Bakery,5,4.49
+2026-05-14,Bagels (6 pack),Bakery,8,4.49
+2026-05-15,Bagels (6 pack),Bakery,9,4.49
+2026-05-16,Bagels (6 pack),Bakery,18,4.49
+2026-05-17,Bagels (6 pack),Bakery,17,4.49
+2026-05-18,Bagels (6 pack),Bakery,10,4.49
+2026-05-19,Bagels (6 pack),Bakery,2,4.49
+2026-05-20,Bagels (6 pack),Bakery,5,4.49
+2026-05-21,Bagels (6 pack),Bakery,8,4.49
+2026-05-22,Bagels (6 pack),Bakery,4,4.49
+2026-05-23,Bagels (6 pack),Bakery,13,4.49
+2026-05-24,Bagels (6 pack),Bakery,8,4.49
+2026-05-25,Bagels (6 pack),Bakery,3,4.49
+2026-05-26,Bagels (6 pack),Bakery,10,4.49
+2026-05-27,Bagels (6 pack),Bakery,9,4.49
+2026-05-28,Bagels (6 pack),Bakery,8,4.49
+2026-05-29,Bagels (6 pack),Bakery,9,4.49
+2026-05-30,Bagels (6 pack),Bakery,11,4.49
+2026-05-31,Bagels (6 pack),Bakery,12,4.49
+2026-06-01,Bagels (6 pack),Bakery,5,4.49
+2026-06-02,Bagels (6 pack),Bakery,4,4.49
+2026-06-03,Bagels (6 pack),Bakery,1,4.49
+2026-06-04,Bagels (6 pack),Bakery,5,4.49
+2026-06-05,Bagels (6 pack),Bakery,9,4.49
+2026-06-06,Bagels (6 pack),Bakery,14,4.49
+2026-06-07,Bagels (6 pack),Bakery,12,4.49
+2026-06-08,Bagels (6 pack),Bakery,11,4.49
+2026-06-09,Bagels (6 pack),Bakery,10,4.49
+2026-06-10,Bagels (6 pack),Bakery,5,4.49
+2026-06-11,Bagels (6 pack),Bakery,7,4.49
+2026-06-12,Bagels (6 pack),Bakery,12,4.49
+2026-06-13,Bagels (6 pack),Bakery,10,4.49
+2026-06-14,Bagels (6 pack),Bakery,6,4.49
+2026-06-15,Bagels (6 pack),Bakery,6,4.49
+2026-06-16,Bagels (6 pack),Bakery,3,4.49
+2026-06-17,Bagels (6 pack),Bakery,8,4.49
+2026-06-18,Bagels (6 pack),Bakery,6,4.49
+2026-06-19,Bagels (6 pack),Bakery,13,4.49
+2026-06-20,Bagels (6 pack),Bakery,9,4.49
+2026-06-21,Bagels (6 pack),Bakery,11,4.49
+2026-06-22,Bagels (6 pack),Bakery,8,4.49
+2026-06-23,Bagels (6 pack),Bakery,10,4.49
+2026-06-24,Bagels (6 pack),Bakery,6,4.49
+2026-06-25,Bagels (6 pack),Bakery,8,4.49
+2026-06-26,Bagels (6 pack),Bakery,10,4.49
+2026-06-27,Bagels (6 pack),Bakery,6,4.49
+2026-06-28,Bagels (6 pack),Bakery,12,4.49
+2026-06-29,Bagels (6 pack),Bakery,2,4.49
+2026-06-30,Bagels (6 pack),Bakery,8,4.49
+2026-07-01,Bagels (6 pack),Bakery,4,4.49
+2026-07-02,Bagels (6 pack),Bakery,8,4.49
+2026-07-03,Bagels (6 pack),Bakery,8,4.49
+2026-07-04,Bagels (6 pack),Bakery,8,4.49
+2026-07-05,Bagels (6 pack),Bakery,13,4.49
+2026-07-06,Bagels (6 pack),Bakery,9,4.49
+2026-07-07,Bagels (6 pack),Bakery,2,4.49
+2026-07-08,Bagels (6 pack),Bakery,3,4.49
+2026-07-09,Bagels (6 pack),Bakery,12,4.49
+2026-07-10,Bagels (6 pack),Bakery,10,4.49
+2026-07-11,Bagels (6 pack),Bakery,13,4.49
+2026-07-12,Bagels (6 pack),Bakery,17,4.49
+2026-07-13,Bagels (6 pack),Bakery,9,4.49
+2026-07-14,Bagels (6 pack),Bakery,2,4.49
+2026-07-15,Bagels (6 pack),Bakery,6,4.49
+2026-07-16,Bagels (6 pack),Bakery,12,4.49
+2026-07-17,Bagels (6 pack),Bakery,12,4.49
+2026-07-18,Bagels (6 pack),Bakery,8,4.49
+2026-07-19,Bagels (6 pack),Bakery,5,4.49
+2026-07-20,Bagels (6 pack),Bakery,9,4.49
+2026-07-21,Bagels (6 pack),Bakery,8,4.49
+2026-07-22,Bagels (6 pack),Bakery,4,4.49
+2026-07-23,Bagels (6 pack),Bakery,9,4.49
+2026-07-24,Bagels (6 pack),Bakery,8,4.49
+2026-07-25,Bagels (6 pack),Bakery,9,4.49
+2026-07-26,Bagels (6 pack),Bakery,11,4.49
+2026-07-27,Bagels (6 pack),Bakery,8,4.49
+2026-07-28,Bagels (6 pack),Bakery,8,4.49
+2026-07-29,Bagels (6 pack),Bakery,9,4.49
+2026-07-30,Bagels (6 pack),Bakery,5,4.49
+2026-07-31,Bagels (6 pack),Bakery,13,4.49
+2026-08-01,Bagels (6 pack),Bakery,17,4.49
+2026-08-02,Bagels (6 pack),Bakery,8,4.49
+2026-08-03,Bagels (6 pack),Bakery,4,4.49
+2026-08-04,Bagels (6 pack),Bakery,10,4.49
+2026-08-05,Bagels (6 pack),Bakery,9,4.49
+2026-08-06,Bagels (6 pack),Bakery,7,4.49
+2026-08-07,Bagels (6 pack),Bakery,3,4.49
+2026-08-08,Bagels (6 pack),Bakery,13,4.49
+2026-08-09,Bagels (6 pack),Bakery,13,4.49
+2026-08-10,Bagels (6 pack),Bakery,3,4.49
+2026-08-11,Bagels (6 pack),Bakery,7,4.49
+2026-08-12,Bagels (6 pack),Bakery,9,4.49
+2026-08-13,Bagels (6 pack),Bakery,8,4.49
+2026-08-14,Bagels (6 pack),Bakery,14,4.49
+2026-08-15,Bagels (6 pack),Bakery,4,4.49
+2026-08-16,Bagels (6 pack),Bakery,6,4.49
+2026-08-17,Bagels (6 pack),Bakery,5,4.49
+2026-08-18,Bagels (6 pack),Bakery,5,4.49
+2026-08-19,Bagels (6 pack),Bakery,11,4.49
+2026-08-20,Bagels (6 pack),Bakery,9,4.49
+2026-08-21,Bagels (6 pack),Bakery,4,4.49
+2026-08-22,Bagels (6 pack),Bakery,7,4.49
+2026-08-23,Bagels (6 pack),Bakery,20,4.49
+2026-08-24,Bagels (6 pack),Bakery,13,4.49
+2026-08-25,Bagels (6 pack),Bakery,4,4.49
+2026-08-26,Bagels (6 pack),Bakery,3,4.49
+2026-08-27,Bagels (6 pack),Bakery,6,4.49
+2026-08-28,Bagels (6 pack),Bakery,10,4.49
+2026-08-29,Bagels (6 pack),Bakery,7,4.49
+2026-08-30,Bagels (6 pack),Bakery,15,4.49
+2026-08-31,Bagels (6 pack),Bakery,4,4.49
+2026-09-01,Bagels (6 pack),Bakery,6,4.49
+2026-09-02,Bagels (6 pack),Bakery,8,4.49
+2026-09-03,Bagels (6 pack),Bakery,7,4.49
+2026-09-04,Bagels (6 pack),Bakery,9,4.49
+2026-09-05,Bagels (6 pack),Bakery,14,4.49
+2026-09-06,Bagels (6 pack),Bakery,17,4.49
+2026-09-07,Bagels (6 pack),Bakery,7,4.49
+2026-09-08,Bagels (6 pack),Bakery,5,4.49
+2026-09-09,Bagels (6 pack),Bakery,9,4.49
+2026-09-10,Bagels (6 pack),Bakery,9,4.49
+2026-09-11,Bagels (6 pack),Bakery,8,4.49
+2026-09-12,Bagels (6 pack),Bakery,11,4.49
+2026-09-13,Bagels (6 pack),Bakery,10,4.49
+2026-09-14,Bagels (6 pack),Bakery,9,4.49
+2026-09-15,Bagels (6 pack),Bakery,8,4.49
+2026-09-16,Bagels (6 pack),Bakery,6,4.49
+2026-09-17,Bagels (6 pack),Bakery,4,4.49
+2026-09-18,Bagels (6 pack),Bakery,9,4.49
+2026-09-19,Bagels (6 pack),Bakery,9,4.49
+2026-09-20,Bagels (6 pack),Bakery,9,4.49
+2026-09-21,Bagels (6 pack),Bakery,10,4.49
+2026-09-22,Bagels (6 pack),Bakery,7,4.49
+2026-09-23,Bagels (6 pack),Bakery,3,4.49
+2026-09-24,Bagels (6 pack),Bakery,6,4.49
+2026-09-25,Bagels (6 pack),Bakery,12,4.49
+2026-09-26,Bagels (6 pack),Bakery,7,4.49
+2026-09-27,Bagels (6 pack),Bakery,6,4.49
+2026-09-28,Bagels (6 pack),Bakery,18,4.49
+2026-09-29,Bagels (6 pack),Bakery,7,4.49
+2026-09-30,Bagels (6 pack),Bakery,6,4.49
+2026-04-01,Bananas (bunch),Produce,16,1.99
+2026-04-02,Bananas (bunch),Produce,19,1.99
+2026-04-03,Bananas (bunch),Produce,25,1.99
+2026-04-04,Bananas (bunch),Produce,34,1.99
+2026-04-05,Bananas (bunch),Produce,17,1.99
+2026-04-06,Bananas (bunch),Produce,20,1.99
+2026-04-07,Bananas (bunch),Produce,18,1.99
+2026-04-08,Bananas (bunch),Produce,17,1.99
+2026-04-09,Bananas (bunch),Produce,16,1.99
+2026-04-10,Bananas (bunch),Produce,26,1.99
+2026-04-11,Bananas (bunch),Produce,20,1.99
+2026-04-12,Bananas (bunch),Produce,14,1.99
+2026-04-13,Bananas (bunch),Produce,21,1.99
+2026-04-14,Bananas (bunch),Produce,21,1.99
+2026-04-15,Bananas (bunch),Produce,22,1.99
+2026-04-16,Bananas (bunch),Produce,19,1.99
+2026-04-17,Bananas (bunch),Produce,23,1.99
+2026-04-18,Bananas (bunch),Produce,33,1.99
+2026-04-19,Bananas (bunch),Produce,20,1.99
+2026-04-20,Bananas (bunch),Produce,19,1.99
+2026-04-21,Bananas (bunch),Produce,17,1.99
+2026-04-22,Bananas (bunch),Produce,17,1.99
+2026-04-23,Bananas (bunch),Produce,19,1.99
+2026-04-24,Bananas (bunch),Produce,27,1.99
+2026-04-25,Bananas (bunch),Produce,36,1.99
+2026-04-26,Bananas (bunch),Produce,27,1.99
+2026-04-27,Bananas (bunch),Produce,17,1.99
+2026-04-28,Bananas (bunch),Produce,23,1.99
+2026-04-29,Bananas (bunch),Produce,15,1.99
+2026-04-30,Bananas (bunch),Produce,20,1.99
+2026-05-01,Bananas (bunch),Produce,28,1.99
+2026-05-02,Bananas (bunch),Produce,30,1.99
+2026-05-03,Bananas (bunch),Produce,20,1.99
+2026-05-04,Bananas (bunch),Produce,20,1.99
+2026-05-05,Bananas (bunch),Produce,18,1.99
+2026-05-06,Bananas (bunch),Produce,29,1.99
+2026-05-07,Bananas (bunch),Produce,13,1.99
+2026-05-08,Bananas (bunch),Produce,24,1.99
+2026-05-09,Bananas (bunch),Produce,25,1.99
+2026-05-10,Bananas (bunch),Produce,34,1.99
+2026-05-11,Bananas (bunch),Produce,18,1.99
+2026-05-12,Bananas (bunch),Produce,25,1.99
+2026-05-13,Bananas (bunch),Produce,13,1.99
+2026-05-14,Bananas (bunch),Produce,21,1.99
+2026-05-15,Bananas (bunch),Produce,24,1.99
+2026-05-16,Bananas (bunch),Produce,34,1.99
+2026-05-17,Bananas (bunch),Produce,20,1.99
+2026-05-18,Bananas (bunch),Produce,19,1.99
+2026-05-19,Bananas (bunch),Produce,19,1.99
+2026-05-20,Bananas (bunch),Produce,25,1.99
+2026-05-21,Bananas (bunch),Produce,25,1.99
+2026-05-22,Bananas (bunch),Produce,22,1.99
+2026-05-23,Bananas (bunch),Produce,24,1.99
+2026-05-24,Bananas (bunch),Produce,29,1.99
+2026-05-25,Bananas (bunch),Produce,18,1.99
+2026-05-26,Bananas (bunch),Produce,23,1.99
+2026-05-27,Bananas (bunch),Produce,18,1.99
+2026-05-28,Bananas (bunch),Produce,25,1.99
+2026-05-29,Bananas (bunch),Produce,28,1.99
+2026-05-30,Bananas (bunch),Produce,36,1.99
+2026-05-31,Bananas (bunch),Produce,22,1.99
+2026-06-01,Bananas (bunch),Produce,24,1.99
+2026-06-02,Bananas (bunch),Produce,19,1.99
+2026-06-03,Bananas (bunch),Produce,27,1.99
+2026-06-04,Bananas (bunch),Produce,20,1.99
+2026-06-05,Bananas (bunch),Produce,30,1.99
+2026-06-06,Bananas (bunch),Produce,49,1.99
+2026-06-07,Bananas (bunch),Produce,27,1.99
+2026-06-08,Bananas (bunch),Produce,19,1.99
+2026-06-09,Bananas (bunch),Produce,18,1.99
+2026-06-10,Bananas (bunch),Produce,25,1.99
+2026-06-11,Bananas (bunch),Produce,26,1.99
+2026-06-12,Bananas (bunch),Produce,36,1.99
+2026-06-13,Bananas (bunch),Produce,24,1.99
+2026-06-14,Bananas (bunch),Produce,22,1.99
+2026-06-15,Bananas (bunch),Produce,14,1.99
+2026-06-16,Bananas (bunch),Produce,17,1.99
+2026-06-17,Bananas (bunch),Produce,9,1.99
+2026-06-18,Bananas (bunch),Produce,33,1.99
+2026-06-19,Bananas (bunch),Produce,25,1.99
+2026-06-20,Bananas (bunch),Produce,36,1.99
+2026-06-21,Bananas (bunch),Produce,29,1.99
+2026-06-22,Bananas (bunch),Produce,16,1.99
+2026-06-23,Bananas (bunch),Produce,19,1.99
+2026-06-24,Bananas (bunch),Produce,22,1.99
+2026-06-25,Bananas (bunch),Produce,21,1.99
+2026-06-26,Bananas (bunch),Produce,27,1.99
+2026-06-27,Bananas (bunch),Produce,32,1.99
+2026-06-28,Bananas (bunch),Produce,29,1.99
+2026-06-29,Bananas (bunch),Produce,14,1.99
+2026-06-30,Bananas (bunch),Produce,19,1.99
+2026-07-01,Bananas (bunch),Produce,22,1.99
+2026-07-02,Bananas (bunch),Produce,31,1.99
+2026-07-03,Bananas (bunch),Produce,20,1.99
+2026-07-04,Bananas (bunch),Produce,28,1.99
+2026-07-05,Bananas (bunch),Produce,27,1.99
+2026-07-06,Bananas (bunch),Produce,15,1.99
+2026-07-07,Bananas (bunch),Produce,11,1.99
+2026-07-08,Bananas (bunch),Produce,15,1.99
+2026-07-09,Bananas (bunch),Produce,19,1.99
+2026-07-10,Bananas (bunch),Produce,28,1.99
+2026-07-11,Bananas (bunch),Produce,31,1.99
+2026-07-12,Bananas (bunch),Produce,22,1.99
+2026-07-13,Bananas (bunch),Produce,18,1.99
+2026-07-14,Bananas (bunch),Produce,21,1.99
+2026-07-15,Bananas (bunch),Produce,16,1.99
+2026-07-16,Bananas (bunch),Produce,23,1.99
+2026-07-17,Bananas (bunch),Produce,25,1.99
+2026-07-18,Bananas (bunch),Produce,27,1.99
+2026-07-19,Bananas (bunch),Produce,19,1.99
+2026-07-20,Bananas (bunch),Produce,23,1.99
+2026-07-21,Bananas (bunch),Produce,15,1.99
+2026-07-22,Bananas (bunch),Produce,14,1.99
+2026-07-23,Bananas (bunch),Produce,14,1.99
+2026-07-24,Bananas (bunch),Produce,23,1.99
+2026-07-25,Bananas (bunch),Produce,44,1.99
+2026-07-26,Bananas (bunch),Produce,22,1.99
+2026-07-27,Bananas (bunch),Produce,19,1.99
+2026-07-28,Bananas (bunch),Produce,12,1.99
+2026-07-29,Bananas (bunch),Produce,30,1.99
+2026-07-30,Bananas (bunch),Produce,29,1.99
+2026-07-31,Bananas (bunch),Produce,28,1.99
+2026-08-01,Bananas (bunch),Produce,34,1.99
+2026-08-02,Bananas (bunch),Produce,19,1.99
+2026-08-03,Bananas (bunch),Produce,13,1.99
+2026-08-04,Bananas (bunch),Produce,14,1.99
+2026-08-05,Bananas (bunch),Produce,13,1.99
+2026-08-06,Bananas (bunch),Produce,29,1.99
+2026-08-07,Bananas (bunch),Produce,37,1.99
+2026-08-08,Bananas (bunch),Produce,30,1.99
+2026-08-09,Bananas (bunch),Produce,26,1.99
+2026-08-10,Bananas (bunch),Produce,23,1.99
+2026-08-11,Bananas (bunch),Produce,15,1.99
+2026-08-12,Bananas (bunch),Produce,24,1.99
+2026-08-13,Bananas (bunch),Produce,21,1.99
+2026-08-14,Bananas (bunch),Produce,25,1.99
+2026-08-15,Bananas (bunch),Produce,34,1.99
+2026-08-16,Bananas (bunch),Produce,23,1.99
+2026-08-17,Bananas (bunch),Produce,16,1.99
+2026-08-18,Bananas (bunch),Produce,26,1.99
+2026-08-19,Bananas (bunch),Produce,24,1.99
+2026-08-20,Bananas (bunch),Produce,25,1.99
+2026-08-21,Bananas (bunch),Produce,23,1.99
+2026-08-22,Bananas (bunch),Produce,32,1.99
+2026-08-23,Bananas (bunch),Produce,26,1.99
+2026-08-24,Bananas (bunch),Produce,14,1.99
+2026-08-25,Bananas (bunch),Produce,10,1.99
+2026-08-26,Bananas (bunch),Produce,24,1.99
+2026-08-27,Bananas (bunch),Produce,28,1.99
+2026-08-28,Bananas (bunch),Produce,24,1.99
+2026-08-29,Bananas (bunch),Produce,13,1.99
+2026-08-30,Bananas (bunch),Produce,27,1.99
+2026-08-31,Bananas (bunch),Produce,23,1.99
+2026-09-01,Bananas (bunch),Produce,17,1.99
+2026-09-02,Bananas (bunch),Produce,17,1.99
+2026-09-03,Bananas (bunch),Produce,28,1.99
+2026-09-04,Bananas (bunch),Produce,19,1.99
+2026-09-05,Bananas (bunch),Produce,27,1.99
+2026-09-06,Bananas (bunch),Produce,23,1.99
+2026-09-07,Bananas (bunch),Produce,19,1.99
+2026-09-08,Bananas (bunch),Produce,19,1.99
+2026-09-09,Bananas (bunch),Produce,18,1.99
+2026-09-10,Bananas (bunch),Produce,17,1.99
+2026-09-11,Bananas (bunch),Produce,21,1.99
+2026-09-12,Bananas (bunch),Produce,21,1.99
+2026-09-13,Bananas (bunch),Produce,21,1.99
+2026-09-14,Bananas (bunch),Produce,20,1.99
+2026-09-15,Bananas (bunch),Produce,15,1.99
+2026-09-16,Bananas (bunch),Produce,20,1.99
+2026-09-17,Bananas (bunch),Produce,17,1.99
+2026-09-18,Bananas (bunch),Produce,23,1.99
+2026-09-19,Bananas (bunch),Produce,31,1.99
+2026-09-20,Bananas (bunch),Produce,32,1.99
+2026-09-21,Bananas (bunch),Produce,14,1.99
+2026-09-22,Bananas (bunch),Produce,16,1.99
+2026-09-23,Bananas (bunch),Produce,17,1.99
+2026-09-24,Bananas (bunch),Produce,14,1.99
+2026-09-25,Bananas (bunch),Produce,24,1.99
+2026-09-26,Bananas (bunch),Produce,19,1.99
+2026-09-27,Bananas (bunch),Produce,19,1.99
+2026-09-28,Bananas (bunch),Produce,18,1.99
+2026-09-29,Bananas (bunch),Produce,15,1.99
+2026-09-30,Bananas (bunch),Produce,23,1.99
+2026-04-01,Spinach 312g,Produce,4,4.49
+2026-04-02,Spinach 312g,Produce,8,4.49
+2026-04-03,Spinach 312g,Produce,11,4.49
+2026-04-04,Spinach 312g,Produce,14,4.49
+2026-04-05,Spinach 312g,Produce,12,4.49
+2026-04-06,Spinach 312g,Produce,8,4.49
+2026-04-07,Spinach 312g,Produce,4,4.49
+2026-04-08,Spinach 312g,Produce,7,4.49
+2026-04-09,Spinach 312g,Produce,8,4.49
+2026-04-10,Spinach 312g,Produce,7,4.49
+2026-04-11,Spinach 312g,Produce,11,4.49
+2026-04-12,Spinach 312g,Produce,7,4.49
+2026-04-13,Spinach 312g,Produce,6,4.49
+2026-04-14,Spinach 312g,Produce,9,4.49
+2026-04-15,Spinach 312g,Produce,6,4.49
+2026-04-16,Spinach 312g,Produce,6,4.49
+2026-04-17,Spinach 312g,Produce,13,4.49
+2026-04-18,Spinach 312g,Produce,10,4.49
+2026-04-19,Spinach 312g,Produce,11,4.49
+2026-04-20,Spinach 312g,Produce,6,4.49
+2026-04-21,Spinach 312g,Produce,4,4.49
+2026-04-22,Spinach 312g,Produce,6,4.49
+2026-04-23,Spinach 312g,Produce,10,4.49
+2026-04-24,Spinach 312g,Produce,9,4.49
+2026-04-25,Spinach 312g,Produce,21,4.49
+2026-04-26,Spinach 312g,Produce,8,4.49
+2026-04-27,Spinach 312g,Produce,6,4.49
+2026-04-28,Spinach 312g,Produce,7,4.49
+2026-04-29,Spinach 312g,Produce,8,4.49
+2026-04-30,Spinach 312g,Produce,5,4.49
+2026-05-01,Spinach 312g,Produce,9,4.49
+2026-05-02,Spinach 312g,Produce,9,4.49
+2026-05-03,Spinach 312g,Produce,6,4.49
+2026-05-04,Spinach 312g,Produce,8,4.49
+2026-05-05,Spinach 312g,Produce,7,4.49
+2026-05-06,Spinach 312g,Produce,6,4.49
+2026-05-07,Spinach 312g,Produce,9,4.49
+2026-05-08,Spinach 312g,Produce,9,4.49
+2026-05-09,Spinach 312g,Produce,10,4.49
+2026-05-10,Spinach 312g,Produce,10,4.49
+2026-05-11,Spinach 312g,Produce,11,4.49
+2026-05-12,Spinach 312g,Produce,3,4.49
+2026-05-13,Spinach 312g,Produce,5,4.49
+2026-05-14,Spinach 312g,Produce,5,4.49
+2026-05-15,Spinach 312g,Produce,12,4.49
+2026-05-16,Spinach 312g,Produce,14,4.49
+2026-05-17,Spinach 312g,Produce,10,4.49
+2026-05-18,Spinach 312g,Produce,11,4.49
+2026-05-19,Spinach 312g,Produce,6,4.49
+2026-05-20,Spinach 312g,Produce,8,4.49
+2026-05-21,Spinach 312g,Produce,9,4.49
+2026-05-22,Spinach 312g,Produce,3,4.49
+2026-05-23,Spinach 312g,Produce,12,4.49
+2026-05-24,Spinach 312g,Produce,6,4.49
+2026-05-25,Spinach 312g,Produce,6,4.49
+2026-05-26,Spinach 312g,Produce,3,4.49
+2026-05-27,Spinach 312g,Produce,7,4.49
+2026-05-28,Spinach 312g,Produce,10,4.49
+2026-05-29,Spinach 312g,Produce,8,4.49
+2026-05-30,Spinach 312g,Produce,11,4.49
+2026-05-31,Spinach 312g,Produce,2,4.49
+2026-06-01,Spinach 312g,Produce,7,4.49
+2026-06-02,Spinach 312g,Produce,5,4.49
+2026-06-03,Spinach 312g,Produce,13,4.49
+2026-06-04,Spinach 312g,Produce,8,4.49
+2026-06-05,Spinach 312g,Produce,5,4.49
+2026-06-06,Spinach 312g,Produce,11,4.49
+2026-06-07,Spinach 312g,Produce,8,4.49
+2026-06-08,Spinach 312g,Produce,4,4.49
+2026-06-09,Spinach 312g,Produce,5,4.49
+2026-06-10,Spinach 312g,Produce,7,4.49
+2026-06-11,Spinach 312g,Produce,4,4.49
+2026-06-12,Spinach 312g,Produce,9,4.49
+2026-06-13,Spinach 312g,Produce,9,4.49
+2026-06-14,Spinach 312g,Produce,8,4.49
+2026-06-15,Spinach 312g,Produce,7,4.49
+2026-06-16,Spinach 312g,Produce,11,4.49
+2026-06-17,Spinach 312g,Produce,9,4.49
+2026-06-18,Spinach 312g,Produce,5,4.49
+2026-06-19,Spinach 312g,Produce,9,4.49
+2026-06-20,Spinach 312g,Produce,11,4.49
+2026-06-21,Spinach 312g,Produce,10,4.49
+2026-06-22,Spinach 312g,Produce,9,4.49
+2026-06-23,Spinach 312g,Produce,3,4.49
+2026-06-24,Spinach 312g,Produce,3,4.49
+2026-06-25,Spinach 312g,Produce,4,4.49
+2026-06-26,Spinach 312g,Produce,7,4.49
+2026-06-27,Spinach 312g,Produce,10,4.49
+2026-06-28,Spinach 312g,Produce,10,4.49
+2026-06-29,Spinach 312g,Produce,5,4.49
+2026-06-30,Spinach 312g,Produce,3,4.49
+2026-07-01,Spinach 312g,Produce,6,4.49
+2026-07-02,Spinach 312g,Produce,11,4.49
+2026-07-03,Spinach 312g,Produce,3,4.49
+2026-07-04,Spinach 312g,Produce,13,4.49
+2026-07-05,Spinach 312g,Produce,8,4.49
+2026-07-06,Spinach 312g,Produce,3,4.49
+2026-07-07,Spinach 312g,Produce,3,4.49
+2026-07-08,Spinach 312g,Produce,8,4.49
+2026-07-09,Spinach 312g,Produce,9,4.49
+2026-07-10,Spinach 312g,Produce,12,4.49
+2026-07-11,Spinach 312g,Produce,9,4.49
+2026-07-12,Spinach 312g,Produce,13,4.49
+2026-07-13,Spinach 312g,Produce,7,4.49
+2026-07-14,Spinach 312g,Produce,1,4.49
+2026-07-15,Spinach 312g,Produce,6,4.49
+2026-07-16,Spinach 312g,Produce,11,4.49
+2026-07-17,Spinach 312g,Produce,14,4.49
+2026-07-18,Spinach 312g,Produce,14,4.49
+2026-07-19,Spinach 312g,Produce,7,4.49
+2026-07-20,Spinach 312g,Produce,8,4.49
+2026-07-21,Spinach 312g,Produce,7,4.49
+2026-07-22,Spinach 312g,Produce,4,4.49
+2026-07-23,Spinach 312g,Produce,7,4.49
+2026-07-24,Spinach 312g,Produce,6,4.49
+2026-07-25,Spinach 312g,Produce,11,4.49
+2026-07-26,Spinach 312g,Produce,10,4.49
+2026-07-27,Spinach 312g,Produce,6,4.49
+2026-07-28,Spinach 312g,Produce,6,4.49
+2026-07-29,Spinach 312g,Produce,5,4.49
+2026-07-30,Spinach 312g,Produce,9,4.49
+2026-07-31,Spinach 312g,Produce,7,4.49
+2026-08-01,Spinach 312g,Produce,12,4.49
+2026-08-02,Spinach 312g,Produce,9,4.49
+2026-08-03,Spinach 312g,Produce,9,4.49
+2026-08-04,Spinach 312g,Produce,6,4.49
+2026-08-05,Spinach 312g,Produce,9,4.49
+2026-08-06,Spinach 312g,Produce,10,4.49
+2026-08-07,Spinach 312g,Produce,11,4.49
+2026-08-08,Spinach 312g,Produce,5,4.49
+2026-08-09,Spinach 312g,Produce,10,4.49
+2026-08-10,Spinach 312g,Produce,8,4.49
+2026-08-11,Spinach 312g,Produce,12,4.49
+2026-08-12,Spinach 312g,Produce,8,4.49
+2026-08-13,Spinach 312g,Produce,6,4.49
+2026-08-14,Spinach 312g,Produce,13,4.49
+2026-08-15,Spinach 312g,Produce,15,4.49
+2026-08-16,Spinach 312g,Produce,9,4.49
+2026-08-17,Spinach 312g,Produce,9,4.49
+2026-08-18,Spinach 312g,Produce,2,4.49
+2026-08-19,Spinach 312g,Produce,11,4.49
+2026-08-20,Spinach 312g,Produce,9,4.49
+2026-08-21,Spinach 312g,Produce,12,4.49
+2026-08-22,Spinach 312g,Produce,10,4.49
+2026-08-23,Spinach 312g,Produce,10,4.49
+2026-08-24,Spinach 312g,Produce,5,4.49
+2026-08-25,Spinach 312g,Produce,5,4.49
+2026-08-26,Spinach 312g,Produce,7,4.49
+2026-08-27,Spinach 312g,Produce,7,4.49
+2026-08-28,Spinach 312g,Produce,10,4.49
+2026-08-29,Spinach 312g,Produce,12,4.49
+2026-08-30,Spinach 312g,Produce,10,4.49
+2026-08-31,Spinach 312g,Produce,8,4.49
+2026-09-01,Spinach 312g,Produce,8,4.49
+2026-09-02,Spinach 312g,Produce,9,4.49
+2026-09-03,Spinach 312g,Produce,7,4.49
+2026-09-04,Spinach 312g,Produce,6,4.49
+2026-09-05,Spinach 312g,Produce,12,4.49
+2026-09-06,Spinach 312g,Produce,4,4.49
+2026-09-07,Spinach 312g,Produce,9,4.49
+2026-09-08,Spinach 312g,Produce,10,4.49
+2026-09-09,Spinach 312g,Produce,6,4.49
+2026-09-10,Spinach 312g,Produce,9,4.49
+2026-09-11,Spinach 312g,Produce,6,4.49
+2026-09-12,Spinach 312g,Produce,14,4.49
+2026-09-13,Spinach 312g,Produce,12,4.49
+2026-09-14,Spinach 312g,Produce,12,4.49
+2026-09-15,Spinach 312g,Produce,6,4.49
+2026-09-16,Spinach 312g,Produce,5,4.49
+2026-09-17,Spinach 312g,Produce,8,4.49
+2026-09-18,Spinach 312g,Produce,14,4.49
+2026-09-19,Spinach 312g,Produce,9,4.49
+2026-09-20,Spinach 312g,Produce,8,4.49
+2026-09-21,Spinach 312g,Produce,8,4.49
+2026-09-22,Spinach 312g,Produce,8,4.49
+2026-09-23,Spinach 312g,Produce,4,4.49
+2026-09-24,Spinach 312g,Produce,4,4.49
+2026-09-25,Spinach 312g,Produce,10,4.49
+2026-09-26,Spinach 312g,Produce,12,4.49
+2026-09-27,Spinach 312g,Produce,7,4.49
+2026-09-28,Spinach 312g,Produce,3,4.49
+2026-09-29,Spinach 312g,Produce,5,4.49
+2026-09-30,Spinach 312g,Produce,6,4.49
+2026-04-01,Gala Apples 3lb,Produce,6,5.99
+2026-04-02,Gala Apples 3lb,Produce,9,5.99
+2026-04-03,Gala Apples 3lb,Produce,8,5.99
+2026-04-04,Gala Apples 3lb,Produce,9,5.99
+2026-04-05,Gala Apples 3lb,Produce,8,5.99
+2026-04-06,Gala Apples 3lb,Produce,5,5.99
+2026-04-07,Gala Apples 3lb,Produce,3,5.99
+2026-04-08,Gala Apples 3lb,Produce,9,5.99
+2026-04-09,Gala Apples 3lb,Produce,15,5.99
+2026-04-10,Gala Apples 3lb,Produce,7,5.99
+2026-04-11,Gala Apples 3lb,Produce,8,5.99
+2026-04-12,Gala Apples 3lb,Produce,11,5.99
+2026-04-13,Gala Apples 3lb,Produce,4,5.99
+2026-04-14,Gala Apples 3lb,Produce,6,5.99
+2026-04-15,Gala Apples 3lb,Produce,4,5.99
+2026-04-16,Gala Apples 3lb,Produce,8,5.99
+2026-04-17,Gala Apples 3lb,Produce,9,5.99
+2026-04-18,Gala Apples 3lb,Produce,16,5.99
+2026-04-19,Gala Apples 3lb,Produce,8,5.99
+2026-04-20,Gala Apples 3lb,Produce,9,5.99
+2026-04-21,Gala Apples 3lb,Produce,6,5.99
+2026-04-22,Gala Apples 3lb,Produce,11,5.99
+2026-04-23,Gala Apples 3lb,Produce,6,5.99
+2026-04-24,Gala Apples 3lb,Produce,10,5.99
+2026-04-25,Gala Apples 3lb,Produce,9,5.99
+2026-04-26,Gala Apples 3lb,Produce,4,5.99
+2026-04-27,Gala Apples 3lb,Produce,7,5.99
+2026-04-28,Gala Apples 3lb,Produce,2,5.99
+2026-04-29,Gala Apples 3lb,Produce,11,5.99
+2026-04-30,Gala Apples 3lb,Produce,3,5.99
+2026-05-01,Gala Apples 3lb,Produce,11,5.99
+2026-05-02,Gala Apples 3lb,Produce,9,5.99
+2026-05-03,Gala Apples 3lb,Produce,3,5.99
+2026-05-04,Gala Apples 3lb,Produce,5,5.99
+2026-05-05,Gala Apples 3lb,Produce,5,5.99
+2026-05-06,Gala Apples 3lb,Produce,8,5.99
+2026-05-07,Gala Apples 3lb,Produce,5,5.99
+2026-05-08,Gala Apples 3lb,Produce,13,5.99
+2026-05-09,Gala Apples 3lb,Produce,4,5.99
+2026-05-10,Gala Apples 3lb,Produce,7,5.99
+2026-05-11,Gala Apples 3lb,Produce,9,5.99
+2026-05-12,Gala Apples 3lb,Produce,10,5.99
+2026-05-13,Gala Apples 3lb,Produce,11,5.99
+2026-05-14,Gala Apples 3lb,Produce,10,5.99
+2026-05-15,Gala Apples 3lb,Produce,8,5.99
+2026-05-16,Gala Apples 3lb,Produce,11,5.99
+2026-05-17,Gala Apples 3lb,Produce,8,5.99
+2026-05-18,Gala Apples 3lb,Produce,2,5.99
+2026-05-19,Gala Apples 3lb,Produce,6,5.99
+2026-05-20,Gala Apples 3lb,Produce,10,5.99
+2026-05-21,Gala Apples 3lb,Produce,10,5.99
+2026-05-22,Gala Apples 3lb,Produce,12,5.99
+2026-05-23,Gala Apples 3lb,Produce,13,5.99
+2026-05-24,Gala Apples 3lb,Produce,13,5.99
+2026-05-25,Gala Apples 3lb,Produce,10,5.99
+2026-05-26,Gala Apples 3lb,Produce,11,5.99
+2026-05-27,Gala Apples 3lb,Produce,11,5.99
+2026-05-28,Gala Apples 3lb,Produce,6,5.99
+2026-05-29,Gala Apples 3lb,Produce,12,5.99
+2026-05-30,Gala Apples 3lb,Produce,11,5.99
+2026-05-31,Gala Apples 3lb,Produce,7,5.99
+2026-06-01,Gala Apples 3lb,Produce,12,5.99
+2026-06-02,Gala Apples 3lb,Produce,7,5.99
+2026-06-03,Gala Apples 3lb,Produce,11,5.99
+2026-06-04,Gala Apples 3lb,Produce,5,5.99
+2026-06-05,Gala Apples 3lb,Produce,10,5.99
+2026-06-06,Gala Apples 3lb,Produce,14,5.99
+2026-06-07,Gala Apples 3lb,Produce,9,5.99
+2026-06-08,Gala Apples 3lb,Produce,6,5.99
+2026-06-09,Gala Apples 3lb,Produce,8,5.99
+2026-06-10,Gala Apples 3lb,Produce,16,5.99
+2026-06-11,Gala Apples 3lb,Produce,10,5.99
+2026-06-12,Gala Apples 3lb,Produce,8,5.99
+2026-06-13,Gala Apples 3lb,Produce,10,5.99
+2026-06-14,Gala Apples 3lb,Produce,14,5.99
+2026-06-15,Gala Apples 3lb,Produce,6,5.99
+2026-06-16,Gala Apples 3lb,Produce,11,5.99
+2026-06-17,Gala Apples 3lb,Produce,5,5.99
+2026-06-18,Gala Apples 3lb,Produce,5,5.99
+2026-06-19,Gala Apples 3lb,Produce,12,5.99
+2026-06-20,Gala Apples 3lb,Produce,10,5.99
+2026-06-21,Gala Apples 3lb,Produce,6,5.99
+2026-06-22,Gala Apples 3lb,Produce,7,5.99
+2026-06-23,Gala Apples 3lb,Produce,19,5.99
+2026-06-24,Gala Apples 3lb,Produce,15,5.99
+2026-06-25,Gala Apples 3lb,Produce,9,5.99
+2026-06-26,Gala Apples 3lb,Produce,8,5.99
+2026-06-27,Gala Apples 3lb,Produce,15,5.99
+2026-06-28,Gala Apples 3lb,Produce,8,5.99
+2026-06-29,Gala Apples 3lb,Produce,6,5.99
+2026-06-30,Gala Apples 3lb,Produce,6,5.99
+2026-07-01,Gala Apples 3lb,Produce,8,5.99
+2026-07-02,Gala Apples 3lb,Produce,8,5.99
+2026-07-03,Gala Apples 3lb,Produce,19,5.99
+2026-07-04,Gala Apples 3lb,Produce,18,5.99
+2026-07-05,Gala Apples 3lb,Produce,8,5.99
+2026-07-06,Gala Apples 3lb,Produce,7,5.99
+2026-07-07,Gala Apples 3lb,Produce,8,5.99
+2026-07-08,Gala Apples 3lb,Produce,8,5.99
+2026-07-09,Gala Apples 3lb,Produce,12,5.99
+2026-07-10,Gala Apples 3lb,Produce,13,5.99
+2026-07-11,Gala Apples 3lb,Produce,11,5.99
+2026-07-12,Gala Apples 3lb,Produce,11,5.99
+2026-07-13,Gala Apples 3lb,Produce,8,5.99
+2026-07-14,Gala Apples 3lb,Produce,8,5.99
+2026-07-15,Gala Apples 3lb,Produce,7,5.99
+2026-07-16,Gala Apples 3lb,Produce,11,5.99
+2026-07-17,Gala Apples 3lb,Produce,11,5.99
+2026-07-18,Gala Apples 3lb,Produce,11,5.99
+2026-07-19,Gala Apples 3lb,Produce,13,5.99
+2026-07-20,Gala Apples 3lb,Produce,8,5.99
+2026-07-21,Gala Apples 3lb,Produce,4,5.99
+2026-07-22,Gala Apples 3lb,Produce,11,5.99
+2026-07-23,Gala Apples 3lb,Produce,4,5.99
+2026-07-24,Gala Apples 3lb,Produce,7,5.99
+2026-07-25,Gala Apples 3lb,Produce,9,5.99
+2026-07-26,Gala Apples 3lb,Produce,14,5.99
+2026-07-27,Gala Apples 3lb,Produce,11,5.99
+2026-07-28,Gala Apples 3lb,Produce,6,5.99
+2026-07-29,Gala Apples 3lb,Produce,15,5.99
+2026-07-30,Gala Apples 3lb,Produce,4,5.99
+2026-07-31,Gala Apples 3lb,Produce,14,5.99
+2026-08-01,Gala Apples 3lb,Produce,12,5.99
+2026-08-02,Gala Apples 3lb,Produce,6,5.99
+2026-08-03,Gala Apples 3lb,Produce,7,5.99
+2026-08-04,Gala Apples 3lb,Produce,12,5.99
+2026-08-05,Gala Apples 3lb,Produce,8,5.99
+2026-08-06,Gala Apples 3lb,Produce,12,5.99
+2026-08-07,Gala Apples 3lb,Produce,9,5.99
+2026-08-08,Gala Apples 3lb,Produce,13,5.99
+2026-08-09,Gala Apples 3lb,Produce,8,5.99
+2026-08-10,Gala Apples 3lb,Produce,8,5.99
+2026-08-11,Gala Apples 3lb,Produce,9,5.99
+2026-08-12,Gala Apples 3lb,Produce,10,5.99
+2026-08-13,Gala Apples 3lb,Produce,8,5.99
+2026-08-14,Gala Apples 3lb,Produce,11,5.99
+2026-08-15,Gala Apples 3lb,Produce,13,5.99
+2026-08-16,Gala Apples 3lb,Produce,6,5.99
+2026-08-17,Gala Apples 3lb,Produce,10,5.99
+2026-08-18,Gala Apples 3lb,Produce,7,5.99
+2026-08-19,Gala Apples 3lb,Produce,4,5.99
+2026-08-20,Gala Apples 3lb,Produce,9,5.99
+2026-08-21,Gala Apples 3lb,Produce,5,5.99
+2026-08-22,Gala Apples 3lb,Produce,11,5.99
+2026-08-23,Gala Apples 3lb,Produce,13,5.99
+2026-08-24,Gala Apples 3lb,Produce,6,5.99
+2026-08-25,Gala Apples 3lb,Produce,5,5.99
+2026-08-26,Gala Apples 3lb,Produce,11,5.99
+2026-08-27,Gala Apples 3lb,Produce,2,5.99
+2026-08-28,Gala Apples 3lb,Produce,10,5.99
+2026-08-29,Gala Apples 3lb,Produce,17,5.99
+2026-08-30,Gala Apples 3lb,Produce,7,5.99
+2026-08-31,Gala Apples 3lb,Produce,4,5.99
+2026-09-01,Gala Apples 3lb,Produce,6,5.99
+2026-09-02,Gala Apples 3lb,Produce,6,5.99
+2026-09-03,Gala Apples 3lb,Produce,8,5.99
+2026-09-04,Gala Apples 3lb,Produce,11,5.99
+2026-09-05,Gala Apples 3lb,Produce,11,5.99
+2026-09-06,Gala Apples 3lb,Produce,10,5.99
+2026-09-07,Gala Apples 3lb,Produce,10,5.99
+2026-09-08,Gala Apples 3lb,Produce,7,5.99
+2026-09-09,Gala Apples 3lb,Produce,10,5.99
+2026-09-10,Gala Apples 3lb,Produce,14,5.99
+2026-09-11,Gala Apples 3lb,Produce,6,5.99
+2026-09-12,Gala Apples 3lb,Produce,15,5.99
+2026-09-13,Gala Apples 3lb,Produce,16,5.99
+2026-09-14,Gala Apples 3lb,Produce,5,5.99
+2026-09-15,Gala Apples 3lb,Produce,5,5.99
+2026-09-16,Gala Apples 3lb,Produce,6,5.99
+2026-09-17,Gala Apples 3lb,Produce,8,5.99
+2026-09-18,Gala Apples 3lb,Produce,8,5.99
+2026-09-19,Gala Apples 3lb,Produce,8,5.99
+2026-09-20,Gala Apples 3lb,Produce,7,5.99
+2026-09-21,Gala Apples 3lb,Produce,14,5.99
+2026-09-22,Gala Apples 3lb,Produce,6,5.99
+2026-09-23,Gala Apples 3lb,Produce,6,5.99
+2026-09-24,Gala Apples 3lb,Produce,12,5.99
+2026-09-25,Gala Apples 3lb,Produce,9,5.99
+2026-09-26,Gala Apples 3lb,Produce,14,5.99
+2026-09-27,Gala Apples 3lb,Produce,8,5.99
+2026-09-28,Gala Apples 3lb,Produce,5,5.99
+2026-09-29,Gala Apples 3lb,Produce,2,5.99
+2026-09-30,Gala Apples 3lb,Produce,10,5.99
+2026-04-01,Chicken Breast 1kg,Meat,2,14.99
+2026-04-02,Chicken Breast 1kg,Meat,7,14.99
+2026-04-03,Chicken Breast 1kg,Meat,8,14.99
+2026-04-04,Chicken Breast 1kg,Meat,8,14.99
+2026-04-05,Chicken Breast 1kg,Meat,8,14.99
+2026-04-06,Chicken Breast 1kg,Meat,4,14.99
+2026-04-07,Chicken Breast 1kg,Meat,5,14.99
+2026-04-08,Chicken Breast 1kg,Meat,7,14.99
+2026-04-09,Chicken Breast 1kg,Meat,8,14.99
+2026-04-10,Chicken Breast 1kg,Meat,4,14.99
+2026-04-11,Chicken Breast 1kg,Meat,10,14.99
+2026-04-12,Chicken Breast 1kg,Meat,8,14.99
+2026-04-13,Chicken Breast 1kg,Meat,6,14.99
+2026-04-14,Chicken Breast 1kg,Meat,2,14.99
+2026-04-15,Chicken Breast 1kg,Meat,9,14.99
+2026-04-16,Chicken Breast 1kg,Meat,4,14.99
+2026-04-17,Chicken Breast 1kg,Meat,10,14.99
+2026-04-18,Chicken Breast 1kg,Meat,9,14.99
+2026-04-19,Chicken Breast 1kg,Meat,8,14.99
+2026-04-20,Chicken Breast 1kg,Meat,3,14.99
+2026-04-21,Chicken Breast 1kg,Meat,4,14.99
+2026-04-22,Chicken Breast 1kg,Meat,5,14.99
+2026-04-23,Chicken Breast 1kg,Meat,5,14.99
+2026-04-24,Chicken Breast 1kg,Meat,10,14.99
+2026-04-25,Chicken Breast 1kg,Meat,10,14.99
+2026-04-26,Chicken Breast 1kg,Meat,7,14.99
+2026-04-27,Chicken Breast 1kg,Meat,3,14.99
+2026-04-29,Chicken Breast 1kg,Meat,2,14.99
+2026-04-30,Chicken Breast 1kg,Meat,7,14.99
+2026-05-01,Chicken Breast 1kg,Meat,5,14.99
+2026-05-02,Chicken Breast 1kg,Meat,5,14.99
+2026-05-03,Chicken Breast 1kg,Meat,1,14.99
+2026-05-04,Chicken Breast 1kg,Meat,5,14.99
+2026-05-05,Chicken Breast 1kg,Meat,8,14.99
+2026-05-06,Chicken Breast 1kg,Meat,8,14.99
+2026-05-07,Chicken Breast 1kg,Meat,3,14.99
+2026-05-08,Chicken Breast 1kg,Meat,8,14.99
+2026-05-09,Chicken Breast 1kg,Meat,7,14.99
+2026-05-10,Chicken Breast 1kg,Meat,8,14.99
+2026-05-11,Chicken Breast 1kg,Meat,3,14.99
+2026-05-12,Chicken Breast 1kg,Meat,2,14.99
+2026-05-13,Chicken Breast 1kg,Meat,4,14.99
+2026-05-14,Chicken Breast 1kg,Meat,10,14.99
+2026-05-15,Chicken Breast 1kg,Meat,6,14.99
+2026-05-16,Chicken Breast 1kg,Meat,6,14.99
+2026-05-17,Chicken Breast 1kg,Meat,6,14.99
+2026-05-18,Chicken Breast 1kg,Meat,2,14.99
+2026-05-19,Chicken Breast 1kg,Meat,5,14.99
+2026-05-20,Chicken Breast 1kg,Meat,3,14.99
+2026-05-21,Chicken Breast 1kg,Meat,8,14.99
+2026-05-22,Chicken Breast 1kg,Meat,10,14.99
+2026-05-23,Chicken Breast 1kg,Meat,10,14.99
+2026-05-24,Chicken Breast 1kg,Meat,4,14.99
+2026-05-25,Chicken Breast 1kg,Meat,6,14.99
+2026-05-26,Chicken Breast 1kg,Meat,2,14.99
+2026-05-27,Chicken Breast 1kg,Meat,4,14.99
+2026-05-28,Chicken Breast 1kg,Meat,7,14.99
+2026-05-29,Chicken Breast 1kg,Meat,9,14.99
+2026-05-30,Chicken Breast 1kg,Meat,9,14.99
+2026-05-31,Chicken Breast 1kg,Meat,11,14.99
+2026-06-01,Chicken Breast 1kg,Meat,3,14.99
+2026-06-02,Chicken Breast 1kg,Meat,3,14.99
+2026-06-03,Chicken Breast 1kg,Meat,6,14.99
+2026-06-04,Chicken Breast 1kg,Meat,6,14.99
+2026-06-05,Chicken Breast 1kg,Meat,4,14.99
+2026-06-06,Chicken Breast 1kg,Meat,13,14.99
+2026-06-07,Chicken Breast 1kg,Meat,3,14.99
+2026-06-08,Chicken Breast 1kg,Meat,6,14.99
+2026-06-09,Chicken Breast 1kg,Meat,5,14.99
+2026-06-10,Chicken Breast 1kg,Meat,3,14.99
+2026-06-11,Chicken Breast 1kg,Meat,9,14.99
+2026-06-12,Chicken Breast 1kg,Meat,6,14.99
+2026-06-13,Chicken Breast 1kg,Meat,7,14.99
+2026-06-14,Chicken Breast 1kg,Meat,9,14.99
+2026-06-15,Chicken Breast 1kg,Meat,9,14.99
+2026-06-16,Chicken Breast 1kg,Meat,4,14.99
+2026-06-17,Chicken Breast 1kg,Meat,6,14.99
+2026-06-18,Chicken Breast 1kg,Meat,5,14.99
+2026-06-19,Chicken Breast 1kg,Meat,5,14.99
+2026-06-20,Chicken Breast 1kg,Meat,6,14.99
+2026-06-21,Chicken Breast 1kg,Meat,8,14.99
+2026-06-22,Chicken Breast 1kg,Meat,5,14.99
+2026-06-23,Chicken Breast 1kg,Meat,3,14.99
+2026-06-24,Chicken Breast 1kg,Meat,4,14.99
+2026-06-25,Chicken Breast 1kg,Meat,6,14.99
+2026-06-26,Chicken Breast 1kg,Meat,7,14.99
+2026-06-27,Chicken Breast 1kg,Meat,5,14.99
+2026-06-28,Chicken Breast 1kg,Meat,8,14.99
+2026-06-29,Chicken Breast 1kg,Meat,2,14.99
+2026-06-30,Chicken Breast 1kg,Meat,3,14.99
+2026-07-01,Chicken Breast 1kg,Meat,4,14.99
+2026-07-02,Chicken Breast 1kg,Meat,6,14.99
+2026-07-03,Chicken Breast 1kg,Meat,12,14.99
+2026-07-04,Chicken Breast 1kg,Meat,7,14.99
+2026-07-05,Chicken Breast 1kg,Meat,4,14.99
+2026-07-06,Chicken Breast 1kg,Meat,2,14.99
+2026-07-07,Chicken Breast 1kg,Meat,6,14.99
+2026-07-08,Chicken Breast 1kg,Meat,7,14.99
+2026-07-09,Chicken Breast 1kg,Meat,5,14.99
+2026-07-10,Chicken Breast 1kg,Meat,5,14.99
+2026-07-11,Chicken Breast 1kg,Meat,8,14.99
+2026-07-12,Chicken Breast 1kg,Meat,8,14.99
+2026-07-13,Chicken Breast 1kg,Meat,9,14.99
+2026-07-14,Chicken Breast 1kg,Meat,2,14.99
+2026-07-15,Chicken Breast 1kg,Meat,3,14.99
+2026-07-16,Chicken Breast 1kg,Meat,3,14.99
+2026-07-17,Chicken Breast 1kg,Meat,4,14.99
+2026-07-18,Chicken Breast 1kg,Meat,5,14.99
+2026-07-19,Chicken Breast 1kg,Meat,5,14.99
+2026-07-20,Chicken Breast 1kg,Meat,5,14.99
+2026-07-21,Chicken Breast 1kg,Meat,7,14.99
+2026-07-22,Chicken Breast 1kg,Meat,11,14.99
+2026-07-23,Chicken Breast 1kg,Meat,8,14.99
+2026-07-24,Chicken Breast 1kg,Meat,8,14.99
+2026-07-25,Chicken Breast 1kg,Meat,12,14.99
+2026-07-26,Chicken Breast 1kg,Meat,6,14.99
+2026-07-27,Chicken Breast 1kg,Meat,5,14.99
+2026-07-28,Chicken Breast 1kg,Meat,2,14.99
+2026-07-29,Chicken Breast 1kg,Meat,5,14.99
+2026-07-30,Chicken Breast 1kg,Meat,9,14.99
+2026-07-31,Chicken Breast 1kg,Meat,9,14.99
+2026-08-01,Chicken Breast 1kg,Meat,9,14.99
+2026-08-02,Chicken Breast 1kg,Meat,7,14.99
+2026-08-03,Chicken Breast 1kg,Meat,4,14.99
+2026-08-04,Chicken Breast 1kg,Meat,6,14.99
+2026-08-05,Chicken Breast 1kg,Meat,8,14.99
+2026-08-06,Chicken Breast 1kg,Meat,6,14.99
+2026-08-07,Chicken Breast 1kg,Meat,12,14.99
+2026-08-08,Chicken Breast 1kg,Meat,9,14.99
+2026-08-09,Chicken Breast 1kg,Meat,3,14.99
+2026-08-10,Chicken Breast 1kg,Meat,9,14.99
+2026-08-11,Chicken Breast 1kg,Meat,9,14.99
+2026-08-12,Chicken Breast 1kg,Meat,5,14.99
+2026-08-13,Chicken Breast 1kg,Meat,11,14.99
+2026-08-14,Chicken Breast 1kg,Meat,9,14.99
+2026-08-15,Chicken Breast 1kg,Meat,12,14.99
+2026-08-17,Chicken Breast 1kg,Meat,4,14.99
+2026-08-18,Chicken Breast 1kg,Meat,5,14.99
+2026-08-19,Chicken Breast 1kg,Meat,10,14.99
+2026-08-20,Chicken Breast 1kg,Meat,10,14.99
+2026-08-21,Chicken Breast 1kg,Meat,15,14.99
+2026-08-22,Chicken Breast 1kg,Meat,8,14.99
+2026-08-23,Chicken Breast 1kg,Meat,11,14.99
+2026-08-24,Chicken Breast 1kg,Meat,5,14.99
+2026-08-25,Chicken Breast 1kg,Meat,4,14.99
+2026-08-26,Chicken Breast 1kg,Meat,3,14.99
+2026-08-27,Chicken Breast 1kg,Meat,5,14.99
+2026-08-28,Chicken Breast 1kg,Meat,11,14.99
+2026-08-29,Chicken Breast 1kg,Meat,5,14.99
+2026-08-30,Chicken Breast 1kg,Meat,11,14.99
+2026-08-31,Chicken Breast 1kg,Meat,7,14.99
+2026-09-01,Chicken Breast 1kg,Meat,8,14.99
+2026-09-02,Chicken Breast 1kg,Meat,10,14.99
+2026-09-03,Chicken Breast 1kg,Meat,9,14.99
+2026-09-04,Chicken Breast 1kg,Meat,10,14.99
+2026-09-05,Chicken Breast 1kg,Meat,14,14.99
+2026-09-06,Chicken Breast 1kg,Meat,5,14.99
+2026-09-07,Chicken Breast 1kg,Meat,1,14.99
+2026-09-08,Chicken Breast 1kg,Meat,4,14.99
+2026-09-09,Chicken Breast 1kg,Meat,6,14.99
+2026-09-10,Chicken Breast 1kg,Meat,4,14.99
+2026-09-11,Chicken Breast 1kg,Meat,6,14.99
+2026-09-12,Chicken Breast 1kg,Meat,6,14.99
+2026-09-13,Chicken Breast 1kg,Meat,6,14.99
+2026-09-14,Chicken Breast 1kg,Meat,11,14.99
+2026-09-15,Chicken Breast 1kg,Meat,4,14.99
+2026-09-16,Chicken Breast 1kg,Meat,5,14.99
+2026-09-17,Chicken Breast 1kg,Meat,5,14.99
+2026-09-18,Chicken Breast 1kg,Meat,7,14.99
+2026-09-19,Chicken Breast 1kg,Meat,12,14.99
+2026-09-20,Chicken Breast 1kg,Meat,6,14.99
+2026-09-21,Chicken Breast 1kg,Meat,2,14.99
+2026-09-22,Chicken Breast 1kg,Meat,5,14.99
+2026-09-23,Chicken Breast 1kg,Meat,3,14.99
+2026-09-24,Chicken Breast 1kg,Meat,6,14.99
+2026-09-25,Chicken Breast 1kg,Meat,12,14.99
+2026-09-26,Chicken Breast 1kg,Meat,8,14.99
+2026-09-27,Chicken Breast 1kg,Meat,5,14.99
+2026-09-28,Chicken Breast 1kg,Meat,5,14.99
+2026-09-29,Chicken Breast 1kg,Meat,9,14.99
+2026-09-30,Chicken Breast 1kg,Meat,6,14.99
+2026-04-01,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-02,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-03,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-04,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-05,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-06,Basmati Rice 2kg,Pantry,4,8.99
+2026-04-07,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-08,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-09,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-10,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-11,Basmati Rice 2kg,Pantry,2,8.99
+2026-04-12,Basmati Rice 2kg,Pantry,4,8.99
+2026-04-13,Basmati Rice 2kg,Pantry,6,8.99
+2026-04-14,Basmati Rice 2kg,Pantry,2,8.99
+2026-04-15,Basmati Rice 2kg,Pantry,7,8.99
+2026-04-16,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-17,Basmati Rice 2kg,Pantry,8,8.99
+2026-04-18,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-19,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-20,Basmati Rice 2kg,Pantry,6,8.99
+2026-04-21,Basmati Rice 2kg,Pantry,1,8.99
+2026-04-22,Basmati Rice 2kg,Pantry,7,8.99
+2026-04-23,Basmati Rice 2kg,Pantry,5,8.99
+2026-04-24,Basmati Rice 2kg,Pantry,2,8.99
+2026-04-25,Basmati Rice 2kg,Pantry,2,8.99
+2026-04-26,Basmati Rice 2kg,Pantry,4,8.99
+2026-04-27,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-28,Basmati Rice 2kg,Pantry,6,8.99
+2026-04-29,Basmati Rice 2kg,Pantry,4,8.99
+2026-04-30,Basmati Rice 2kg,Pantry,3,8.99
+2026-05-01,Basmati Rice 2kg,Pantry,1,8.99
+2026-05-02,Basmati Rice 2kg,Pantry,7,8.99
+2026-05-03,Basmati Rice 2kg,Pantry,7,8.99
+2026-05-04,Basmati Rice 2kg,Pantry,3,8.99
+2026-05-05,Basmati Rice 2kg,Pantry,8,8.99
+2026-05-06,Basmati Rice 2kg,Pantry,2,8.99
+2026-05-07,Basmati Rice 2kg,Pantry,4,8.99
+2026-05-08,Basmati Rice 2kg,Pantry,5,8.99
+2026-05-09,Basmati Rice 2kg,Pantry,8,8.99
+2026-05-10,Basmati Rice 2kg,Pantry,3,8.99
+2026-05-11,Basmati Rice 2kg,Pantry,7,8.99
+2026-05-12,Basmati Rice 2kg,Pantry,3,8.99
+2026-05-13,Basmati Rice 2kg,Pantry,5,8.99
+2026-05-14,Basmati Rice 2kg,Pantry,2,8.99
+2026-05-15,Basmati Rice 2kg,Pantry,6,8.99
+2026-05-16,Basmati Rice 2kg,Pantry,2,8.99
+2026-05-17,Basmati Rice 2kg,Pantry,2,8.99
+2026-05-18,Basmati Rice 2kg,Pantry,2,8.99
+2026-05-19,Basmati Rice 2kg,Pantry,3,8.99
+2026-05-20,Basmati Rice 2kg,Pantry,5,8.99
+2026-05-21,Basmati Rice 2kg,Pantry,9,8.99
+2026-05-22,Basmati Rice 2kg,Pantry,6,8.99
+2026-05-23,Basmati Rice 2kg,Pantry,4,8.99
+2026-05-24,Basmati Rice 2kg,Pantry,1,8.99
+2026-05-25,Basmati Rice 2kg,Pantry,4,8.99
+2026-05-26,Basmati Rice 2kg,Pantry,4,8.99
+2026-05-27,Basmati Rice 2kg,Pantry,2,8.99
+2026-05-28,Basmati Rice 2kg,Pantry,5,8.99
+2026-05-29,Basmati Rice 2kg,Pantry,6,8.99
+2026-05-30,Basmati Rice 2kg,Pantry,6,8.99
+2026-05-31,Basmati Rice 2kg,Pantry,10,8.99
+2026-06-01,Basmati Rice 2kg,Pantry,2,8.99
+2026-06-02,Basmati Rice 2kg,Pantry,5,8.99
+2026-06-03,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-04,Basmati Rice 2kg,Pantry,2,8.99
+2026-06-05,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-06,Basmati Rice 2kg,Pantry,5,8.99
+2026-06-07,Basmati Rice 2kg,Pantry,1,8.99
+2026-06-08,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-09,Basmati Rice 2kg,Pantry,8,8.99
+2026-06-10,Basmati Rice 2kg,Pantry,3,8.99
+2026-06-11,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-12,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-13,Basmati Rice 2kg,Pantry,1,8.99
+2026-06-14,Basmati Rice 2kg,Pantry,3,8.99
+2026-06-15,Basmati Rice 2kg,Pantry,2,8.99
+2026-06-16,Basmati Rice 2kg,Pantry,3,8.99
+2026-06-17,Basmati Rice 2kg,Pantry,6,8.99
+2026-06-18,Basmati Rice 2kg,Pantry,6,8.99
+2026-06-19,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-20,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-21,Basmati Rice 2kg,Pantry,3,8.99
+2026-06-22,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-23,Basmati Rice 2kg,Pantry,4,8.99
+2026-06-24,Basmati Rice 2kg,Pantry,3,8.99
+2026-06-25,Basmati Rice 2kg,Pantry,2,8.99
+2026-06-26,Basmati Rice 2kg,Pantry,1,8.99
+2026-06-27,Basmati Rice 2kg,Pantry,10,8.99
+2026-06-28,Basmati Rice 2kg,Pantry,1,8.99
+2026-06-29,Basmati Rice 2kg,Pantry,2,8.99
+2026-06-30,Basmati Rice 2kg,Pantry,7,8.99
+2026-07-01,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-02,Basmati Rice 2kg,Pantry,1,8.99
+2026-07-03,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-04,Basmati Rice 2kg,Pantry,5,8.99
+2026-07-05,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-06,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-07,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-08,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-09,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-10,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-11,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-12,Basmati Rice 2kg,Pantry,5,8.99
+2026-07-13,Basmati Rice 2kg,Pantry,6,8.99
+2026-07-14,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-15,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-16,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-17,Basmati Rice 2kg,Pantry,7,8.99
+2026-07-18,Basmati Rice 2kg,Pantry,5,8.99
+2026-07-19,Basmati Rice 2kg,Pantry,10,8.99
+2026-07-20,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-21,Basmati Rice 2kg,Pantry,1,8.99
+2026-07-22,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-23,Basmati Rice 2kg,Pantry,5,8.99
+2026-07-24,Basmati Rice 2kg,Pantry,5,8.99
+2026-07-25,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-26,Basmati Rice 2kg,Pantry,9,8.99
+2026-07-27,Basmati Rice 2kg,Pantry,3,8.99
+2026-07-28,Basmati Rice 2kg,Pantry,1,8.99
+2026-07-29,Basmati Rice 2kg,Pantry,2,8.99
+2026-07-30,Basmati Rice 2kg,Pantry,4,8.99
+2026-07-31,Basmati Rice 2kg,Pantry,7,8.99
+2026-08-01,Basmati Rice 2kg,Pantry,8,8.99
+2026-08-02,Basmati Rice 2kg,Pantry,7,8.99
+2026-08-03,Basmati Rice 2kg,Pantry,1,8.99
+2026-08-04,Basmati Rice 2kg,Pantry,4,8.99
+2026-08-05,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-06,Basmati Rice 2kg,Pantry,4,8.99
+2026-08-07,Basmati Rice 2kg,Pantry,5,8.99
+2026-08-08,Basmati Rice 2kg,Pantry,9,8.99
+2026-08-09,Basmati Rice 2kg,Pantry,2,8.99
+2026-08-10,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-11,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-12,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-13,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-14,Basmati Rice 2kg,Pantry,5,8.99
+2026-08-15,Basmati Rice 2kg,Pantry,5,8.99
+2026-08-16,Basmati Rice 2kg,Pantry,4,8.99
+2026-08-17,Basmati Rice 2kg,Pantry,5,8.99
+2026-08-18,Basmati Rice 2kg,Pantry,2,8.99
+2026-08-19,Basmati Rice 2kg,Pantry,4,8.99
+2026-08-20,Basmati Rice 2kg,Pantry,6,8.99
+2026-08-21,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-22,Basmati Rice 2kg,Pantry,5,8.99
+2026-08-23,Basmati Rice 2kg,Pantry,4,8.99
+2026-08-24,Basmati Rice 2kg,Pantry,3,8.99
+2026-08-25,Basmati Rice 2kg,Pantry,1,8.99
+2026-08-26,Basmati Rice 2kg,Pantry,6,8.99
+2026-08-27,Basmati Rice 2kg,Pantry,2,8.99
+2026-08-28,Basmati Rice 2kg,Pantry,2,8.99
+2026-08-29,Basmati Rice 2kg,Pantry,5,8.99
+2026-08-30,Basmati Rice 2kg,Pantry,2,8.99
+2026-08-31,Basmati Rice 2kg,Pantry,4,8.99
+2026-09-01,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-02,Basmati Rice 2kg,Pantry,4,8.99
+2026-09-03,Basmati Rice 2kg,Pantry,1,8.99
+2026-09-04,Basmati Rice 2kg,Pantry,6,8.99
+2026-09-05,Basmati Rice 2kg,Pantry,6,8.99
+2026-09-06,Basmati Rice 2kg,Pantry,3,8.99
+2026-09-07,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-08,Basmati Rice 2kg,Pantry,6,8.99
+2026-09-09,Basmati Rice 2kg,Pantry,3,8.99
+2026-09-10,Basmati Rice 2kg,Pantry,1,8.99
+2026-09-11,Basmati Rice 2kg,Pantry,3,8.99
+2026-09-12,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-13,Basmati Rice 2kg,Pantry,2,8.99
+2026-09-14,Basmati Rice 2kg,Pantry,1,8.99
+2026-09-15,Basmati Rice 2kg,Pantry,2,8.99
+2026-09-16,Basmati Rice 2kg,Pantry,7,8.99
+2026-09-17,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-18,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-19,Basmati Rice 2kg,Pantry,3,8.99
+2026-09-20,Basmati Rice 2kg,Pantry,2,8.99
+2026-09-21,Basmati Rice 2kg,Pantry,3,8.99
+2026-09-22,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-23,Basmati Rice 2kg,Pantry,6,8.99
+2026-09-24,Basmati Rice 2kg,Pantry,4,8.99
+2026-09-25,Basmati Rice 2kg,Pantry,3,8.99
+2026-09-26,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-27,Basmati Rice 2kg,Pantry,2,8.99
+2026-09-28,Basmati Rice 2kg,Pantry,4,8.99
+2026-09-29,Basmati Rice 2kg,Pantry,5,8.99
+2026-09-30,Basmati Rice 2kg,Pantry,3,8.99
+2026-04-01,Pasta 900g,Pantry,5,2.99
+2026-04-02,Pasta 900g,Pantry,12,2.99
+2026-04-03,Pasta 900g,Pantry,7,2.99
+2026-04-04,Pasta 900g,Pantry,9,2.99
+2026-04-05,Pasta 900g,Pantry,9,2.99
+2026-04-06,Pasta 900g,Pantry,6,2.99
+2026-04-07,Pasta 900g,Pantry,4,2.99
+2026-04-08,Pasta 900g,Pantry,8,2.99
+2026-04-09,Pasta 900g,Pantry,3,2.99
+2026-04-10,Pasta 900g,Pantry,5,2.99
+2026-04-11,Pasta 900g,Pantry,16,2.99
+2026-04-12,Pasta 900g,Pantry,8,2.99
+2026-04-13,Pasta 900g,Pantry,8,2.99
+2026-04-14,Pasta 900g,Pantry,3,2.99
+2026-04-15,Pasta 900g,Pantry,4,2.99
+2026-04-16,Pasta 900g,Pantry,7,2.99
+2026-04-17,Pasta 900g,Pantry,5,2.99
+2026-04-18,Pasta 900g,Pantry,11,2.99
+2026-04-19,Pasta 900g,Pantry,9,2.99
+2026-04-20,Pasta 900g,Pantry,5,2.99
+2026-04-21,Pasta 900g,Pantry,5,2.99
+2026-04-22,Pasta 900g,Pantry,8,2.99
+2026-04-23,Pasta 900g,Pantry,7,2.99
+2026-04-24,Pasta 900g,Pantry,12,2.99
+2026-04-25,Pasta 900g,Pantry,9,2.99
+2026-04-26,Pasta 900g,Pantry,8,2.99
+2026-04-27,Pasta 900g,Pantry,7,2.99
+2026-04-28,Pasta 900g,Pantry,4,2.99
+2026-04-29,Pasta 900g,Pantry,4,2.99
+2026-04-30,Pasta 900g,Pantry,3,2.99
+2026-05-01,Pasta 900g,Pantry,4,2.99
+2026-05-02,Pasta 900g,Pantry,8,2.99
+2026-05-03,Pasta 900g,Pantry,7,2.99
+2026-05-04,Pasta 900g,Pantry,7,2.99
+2026-05-05,Pasta 900g,Pantry,4,2.99
+2026-05-06,Pasta 900g,Pantry,10,2.99
+2026-05-07,Pasta 900g,Pantry,4,2.99
+2026-05-08,Pasta 900g,Pantry,4,2.99
+2026-05-09,Pasta 900g,Pantry,8,2.99
+2026-05-10,Pasta 900g,Pantry,14,2.99
+2026-05-11,Pasta 900g,Pantry,5,2.99
+2026-05-12,Pasta 900g,Pantry,5,2.99
+2026-05-13,Pasta 900g,Pantry,6,2.99
+2026-05-14,Pasta 900g,Pantry,6,2.99
+2026-05-15,Pasta 900g,Pantry,10,2.99
+2026-05-16,Pasta 900g,Pantry,6,2.99
+2026-05-17,Pasta 900g,Pantry,5,2.99
+2026-05-18,Pasta 900g,Pantry,10,2.99
+2026-05-19,Pasta 900g,Pantry,8,2.99
+2026-05-20,Pasta 900g,Pantry,6,2.99
+2026-05-21,Pasta 900g,Pantry,6,2.99
+2026-05-22,Pasta 900g,Pantry,7,2.99
+2026-05-23,Pasta 900g,Pantry,7,2.99
+2026-05-24,Pasta 900g,Pantry,8,2.99
+2026-05-25,Pasta 900g,Pantry,4,2.99
+2026-05-26,Pasta 900g,Pantry,10,2.99
+2026-05-27,Pasta 900g,Pantry,4,2.99
+2026-05-28,Pasta 900g,Pantry,6,2.99
+2026-05-29,Pasta 900g,Pantry,9,2.99
+2026-05-30,Pasta 900g,Pantry,14,2.99
+2026-05-31,Pasta 900g,Pantry,8,2.99
+2026-06-01,Pasta 900g,Pantry,4,2.99
+2026-06-02,Pasta 900g,Pantry,9,2.99
+2026-06-03,Pasta 900g,Pantry,9,2.99
+2026-06-04,Pasta 900g,Pantry,12,2.99
+2026-06-05,Pasta 900g,Pantry,9,2.99
+2026-06-06,Pasta 900g,Pantry,9,2.99
+2026-06-07,Pasta 900g,Pantry,4,2.99
+2026-06-08,Pasta 900g,Pantry,6,2.99
+2026-06-09,Pasta 900g,Pantry,5,2.99
+2026-06-10,Pasta 900g,Pantry,1,2.99
+2026-06-11,Pasta 900g,Pantry,8,2.99
+2026-06-12,Pasta 900g,Pantry,5,2.99
+2026-06-13,Pasta 900g,Pantry,10,2.99
+2026-06-14,Pasta 900g,Pantry,7,2.99
+2026-06-15,Pasta 900g,Pantry,9,2.99
+2026-06-16,Pasta 900g,Pantry,4,2.99
+2026-06-17,Pasta 900g,Pantry,8,2.99
+2026-06-18,Pasta 900g,Pantry,4,2.99
+2026-06-19,Pasta 900g,Pantry,6,2.99
+2026-06-20,Pasta 900g,Pantry,12,2.99
+2026-06-21,Pasta 900g,Pantry,9,2.99
+2026-06-22,Pasta 900g,Pantry,2,2.99
+2026-06-23,Pasta 900g,Pantry,15,2.99
+2026-06-24,Pasta 900g,Pantry,6,2.99
+2026-06-25,Pasta 900g,Pantry,11,2.99
+2026-06-26,Pasta 900g,Pantry,14,2.99
+2026-06-27,Pasta 900g,Pantry,5,2.99
+2026-06-28,Pasta 900g,Pantry,5,2.99
+2026-06-29,Pasta 900g,Pantry,6,2.99
+2026-06-30,Pasta 900g,Pantry,1,2.99
+2026-07-01,Pasta 900g,Pantry,5,2.99
+2026-07-02,Pasta 900g,Pantry,8,2.99
+2026-07-03,Pasta 900g,Pantry,11,2.99
+2026-07-04,Pasta 900g,Pantry,9,2.99
+2026-07-05,Pasta 900g,Pantry,7,2.99
+2026-07-06,Pasta 900g,Pantry,5,2.99
+2026-07-07,Pasta 900g,Pantry,7,2.99
+2026-07-08,Pasta 900g,Pantry,3,2.99
+2026-07-09,Pasta 900g,Pantry,9,2.99
+2026-07-10,Pasta 900g,Pantry,4,2.99
+2026-07-11,Pasta 900g,Pantry,11,2.99
+2026-07-12,Pasta 900g,Pantry,6,2.99
+2026-07-13,Pasta 900g,Pantry,6,2.99
+2026-07-14,Pasta 900g,Pantry,7,2.99
+2026-07-15,Pasta 900g,Pantry,8,2.99
+2026-07-17,Pasta 900g,Pantry,3,2.99
+2026-07-18,Pasta 900g,Pantry,16,2.99
+2026-07-19,Pasta 900g,Pantry,7,2.99
+2026-07-20,Pasta 900g,Pantry,5,2.99
+2026-07-21,Pasta 900g,Pantry,5,2.99
+2026-07-22,Pasta 900g,Pantry,4,2.99
+2026-07-23,Pasta 900g,Pantry,7,2.99
+2026-07-24,Pasta 900g,Pantry,11,2.99
+2026-07-25,Pasta 900g,Pantry,11,2.99
+2026-07-26,Pasta 900g,Pantry,5,2.99
+2026-07-27,Pasta 900g,Pantry,5,2.99
+2026-07-28,Pasta 900g,Pantry,9,2.99
+2026-07-29,Pasta 900g,Pantry,10,2.99
+2026-07-30,Pasta 900g,Pantry,7,2.99
+2026-07-31,Pasta 900g,Pantry,9,2.99
+2026-08-01,Pasta 900g,Pantry,5,2.99
+2026-08-02,Pasta 900g,Pantry,5,2.99
+2026-08-03,Pasta 900g,Pantry,9,2.99
+2026-08-04,Pasta 900g,Pantry,4,2.99
+2026-08-05,Pasta 900g,Pantry,9,2.99
+2026-08-06,Pasta 900g,Pantry,3,2.99
+2026-08-07,Pasta 900g,Pantry,8,2.99
+2026-08-08,Pasta 900g,Pantry,12,2.99
+2026-08-09,Pasta 900g,Pantry,8,2.99
+2026-08-10,Pasta 900g,Pantry,10,2.99
+2026-08-11,Pasta 900g,Pantry,5,2.99
+2026-08-12,Pasta 900g,Pantry,3,2.99
+2026-08-13,Pasta 900g,Pantry,10,2.99
+2026-08-14,Pasta 900g,Pantry,6,2.99
+2026-08-15,Pasta 900g,Pantry,12,2.99
+2026-08-16,Pasta 900g,Pantry,7,2.99
+2026-08-17,Pasta 900g,Pantry,11,2.99
+2026-08-18,Pasta 900g,Pantry,8,2.99
+2026-08-19,Pasta 900g,Pantry,7,2.99
+2026-08-20,Pasta 900g,Pantry,7,2.99
+2026-08-21,Pasta 900g,Pantry,6,2.99
+2026-08-22,Pasta 900g,Pantry,11,2.99
+2026-08-23,Pasta 900g,Pantry,2,2.99
+2026-08-24,Pasta 900g,Pantry,6,2.99
+2026-08-25,Pasta 900g,Pantry,8,2.99
+2026-08-26,Pasta 900g,Pantry,6,2.99
+2026-08-27,Pasta 900g,Pantry,6,2.99
+2026-08-28,Pasta 900g,Pantry,9,2.99
+2026-08-29,Pasta 900g,Pantry,7,2.99
+2026-08-30,Pasta 900g,Pantry,4,2.99
+2026-08-31,Pasta 900g,Pantry,9,2.99
+2026-09-01,Pasta 900g,Pantry,4,2.99
+2026-09-02,Pasta 900g,Pantry,5,2.99
+2026-09-03,Pasta 900g,Pantry,4,2.99
+2026-09-04,Pasta 900g,Pantry,12,2.99
+2026-09-05,Pasta 900g,Pantry,6,2.99
+2026-09-06,Pasta 900g,Pantry,1,2.99
+2026-09-07,Pasta 900g,Pantry,2,2.99
+2026-09-08,Pasta 900g,Pantry,7,2.99
+2026-09-09,Pasta 900g,Pantry,11,2.99
+2026-09-10,Pasta 900g,Pantry,6,2.99
+2026-09-11,Pasta 900g,Pantry,11,2.99
+2026-09-12,Pasta 900g,Pantry,14,2.99
+2026-09-13,Pasta 900g,Pantry,8,2.99
+2026-09-14,Pasta 900g,Pantry,5,2.99
+2026-09-15,Pasta 900g,Pantry,7,2.99
+2026-09-16,Pasta 900g,Pantry,5,2.99
+2026-09-17,Pasta 900g,Pantry,6,2.99
+2026-09-18,Pasta 900g,Pantry,12,2.99
+2026-09-19,Pasta 900g,Pantry,13,2.99
+2026-09-20,Pasta 900g,Pantry,11,2.99
+2026-09-21,Pasta 900g,Pantry,5,2.99
+2026-09-22,Pasta 900g,Pantry,8,2.99
+2026-09-23,Pasta 900g,Pantry,4,2.99
+2026-09-24,Pasta 900g,Pantry,4,2.99
+2026-09-25,Pasta 900g,Pantry,12,2.99
+2026-09-26,Pasta 900g,Pantry,8,2.99
+2026-09-27,Pasta 900g,Pantry,14,2.99
+2026-09-28,Pasta 900g,Pantry,5,2.99
+2026-09-29,Pasta 900g,Pantry,7,2.99
+2026-09-30,Pasta 900g,Pantry,7,2.99
+2026-04-01,Canned Tomatoes,Pantry,4,1.79
+2026-04-02,Canned Tomatoes,Pantry,5,1.79
+2026-04-03,Canned Tomatoes,Pantry,7,1.79
+2026-04-04,Canned Tomatoes,Pantry,8,1.79
+2026-04-05,Canned Tomatoes,Pantry,4,1.79
+2026-04-06,Canned Tomatoes,Pantry,5,1.79
+2026-04-07,Canned Tomatoes,Pantry,2,1.79
+2026-04-08,Canned Tomatoes,Pantry,5,1.79
+2026-04-09,Canned Tomatoes,Pantry,8,1.79
+2026-04-10,Canned Tomatoes,Pantry,5,1.79
+2026-04-11,Canned Tomatoes,Pantry,9,1.79
+2026-04-12,Canned Tomatoes,Pantry,8,1.79
+2026-04-13,Canned Tomatoes,Pantry,8,1.79
+2026-04-14,Canned Tomatoes,Pantry,6,1.79
+2026-04-15,Canned Tomatoes,Pantry,8,1.79
+2026-04-16,Canned Tomatoes,Pantry,7,1.79
+2026-04-17,Canned Tomatoes,Pantry,7,1.79
+2026-04-18,Canned Tomatoes,Pantry,8,1.79
+2026-04-19,Canned Tomatoes,Pantry,6,1.79
+2026-04-20,Canned Tomatoes,Pantry,3,1.79
+2026-04-21,Canned Tomatoes,Pantry,5,1.79
+2026-04-22,Canned Tomatoes,Pantry,3,1.79
+2026-04-23,Canned Tomatoes,Pantry,1,1.79
+2026-04-24,Canned Tomatoes,Pantry,7,1.79
+2026-04-25,Canned Tomatoes,Pantry,7,1.79
+2026-04-26,Canned Tomatoes,Pantry,4,1.79
+2026-04-27,Canned Tomatoes,Pantry,4,1.79
+2026-04-28,Canned Tomatoes,Pantry,8,1.79
+2026-04-29,Canned Tomatoes,Pantry,2,1.79
+2026-04-30,Canned Tomatoes,Pantry,6,1.79
+2026-05-01,Canned Tomatoes,Pantry,9,1.79
+2026-05-02,Canned Tomatoes,Pantry,12,1.79
+2026-05-03,Canned Tomatoes,Pantry,2,1.79
+2026-05-04,Canned Tomatoes,Pantry,4,1.79
+2026-05-05,Canned Tomatoes,Pantry,4,1.79
+2026-05-06,Canned Tomatoes,Pantry,7,1.79
+2026-05-07,Canned Tomatoes,Pantry,6,1.79
+2026-05-08,Canned Tomatoes,Pantry,4,1.79
+2026-05-09,Canned Tomatoes,Pantry,8,1.79
+2026-05-10,Canned Tomatoes,Pantry,9,1.79
+2026-05-11,Canned Tomatoes,Pantry,5,1.79
+2026-05-12,Canned Tomatoes,Pantry,4,1.79
+2026-05-13,Canned Tomatoes,Pantry,5,1.79
+2026-05-14,Canned Tomatoes,Pantry,6,1.79
+2026-05-15,Canned Tomatoes,Pantry,6,1.79
+2026-05-16,Canned Tomatoes,Pantry,12,1.79
+2026-05-17,Canned Tomatoes,Pantry,6,1.79
+2026-05-18,Canned Tomatoes,Pantry,7,1.79
+2026-05-19,Canned Tomatoes,Pantry,2,1.79
+2026-05-20,Canned Tomatoes,Pantry,5,1.79
+2026-05-21,Canned Tomatoes,Pantry,9,1.79
+2026-05-22,Canned Tomatoes,Pantry,7,1.79
+2026-05-23,Canned Tomatoes,Pantry,6,1.79
+2026-05-24,Canned Tomatoes,Pantry,4,1.79
+2026-05-25,Canned Tomatoes,Pantry,1,1.79
+2026-05-26,Canned Tomatoes,Pantry,6,1.79
+2026-05-27,Canned Tomatoes,Pantry,4,1.79
+2026-05-28,Canned Tomatoes,Pantry,11,1.79
+2026-05-29,Canned Tomatoes,Pantry,6,1.79
+2026-05-30,Canned Tomatoes,Pantry,7,1.79
+2026-05-31,Canned Tomatoes,Pantry,4,1.79
+2026-06-01,Canned Tomatoes,Pantry,5,1.79
+2026-06-03,Canned Tomatoes,Pantry,3,1.79
+2026-06-04,Canned Tomatoes,Pantry,10,1.79
+2026-06-05,Canned Tomatoes,Pantry,4,1.79
+2026-06-06,Canned Tomatoes,Pantry,15,1.79
+2026-06-07,Canned Tomatoes,Pantry,7,1.79
+2026-06-08,Canned Tomatoes,Pantry,1,1.79
+2026-06-09,Canned Tomatoes,Pantry,5,1.79
+2026-06-10,Canned Tomatoes,Pantry,7,1.79
+2026-06-11,Canned Tomatoes,Pantry,4,1.79
+2026-06-12,Canned Tomatoes,Pantry,7,1.79
+2026-06-13,Canned Tomatoes,Pantry,5,1.79
+2026-06-14,Canned Tomatoes,Pantry,5,1.79
+2026-06-15,Canned Tomatoes,Pantry,6,1.79
+2026-06-16,Canned Tomatoes,Pantry,2,1.79
+2026-06-17,Canned Tomatoes,Pantry,8,1.79
+2026-06-18,Canned Tomatoes,Pantry,6,1.79
+2026-06-19,Canned Tomatoes,Pantry,9,1.79
+2026-06-20,Canned Tomatoes,Pantry,9,1.79
+2026-06-21,Canned Tomatoes,Pantry,7,1.79
+2026-06-22,Canned Tomatoes,Pantry,5,1.79
+2026-06-23,Canned Tomatoes,Pantry,4,1.79
+2026-06-24,Canned Tomatoes,Pantry,1,1.79
+2026-06-25,Canned Tomatoes,Pantry,10,1.79
+2026-06-26,Canned Tomatoes,Pantry,5,1.79
+2026-06-27,Canned Tomatoes,Pantry,7,1.79
+2026-06-28,Canned Tomatoes,Pantry,5,1.79
+2026-06-29,Canned Tomatoes,Pantry,3,1.79
+2026-06-30,Canned Tomatoes,Pantry,6,1.79
+2026-07-01,Canned Tomatoes,Pantry,4,1.79
+2026-07-02,Canned Tomatoes,Pantry,4,1.79
+2026-07-03,Canned Tomatoes,Pantry,7,1.79
+2026-07-04,Canned Tomatoes,Pantry,7,1.79
+2026-07-05,Canned Tomatoes,Pantry,4,1.79
+2026-07-06,Canned Tomatoes,Pantry,4,1.79
+2026-07-07,Canned Tomatoes,Pantry,5,1.79
+2026-07-08,Canned Tomatoes,Pantry,2,1.79
+2026-07-09,Canned Tomatoes,Pantry,13,1.79
+2026-07-10,Canned Tomatoes,Pantry,10,1.79
+2026-07-11,Canned Tomatoes,Pantry,6,1.79
+2026-07-12,Canned Tomatoes,Pantry,3,1.79
+2026-07-13,Canned Tomatoes,Pantry,4,1.79
+2026-07-14,Canned Tomatoes,Pantry,6,1.79
+2026-07-15,Canned Tomatoes,Pantry,9,1.79
+2026-07-16,Canned Tomatoes,Pantry,2,1.79
+2026-07-17,Canned Tomatoes,Pantry,11,1.79
+2026-07-18,Canned Tomatoes,Pantry,13,1.79
+2026-07-19,Canned Tomatoes,Pantry,5,1.79
+2026-07-20,Canned Tomatoes,Pantry,6,1.79
+2026-07-21,Canned Tomatoes,Pantry,4,1.79
+2026-07-22,Canned Tomatoes,Pantry,9,1.79
+2026-07-23,Canned Tomatoes,Pantry,4,1.79
+2026-07-24,Canned Tomatoes,Pantry,7,1.79
+2026-07-25,Canned Tomatoes,Pantry,8,1.79
+2026-07-26,Canned Tomatoes,Pantry,7,1.79
+2026-07-27,Canned Tomatoes,Pantry,2,1.79
+2026-07-28,Canned Tomatoes,Pantry,5,1.79
+2026-07-29,Canned Tomatoes,Pantry,6,1.79
+2026-07-30,Canned Tomatoes,Pantry,9,1.79
+2026-07-31,Canned Tomatoes,Pantry,9,1.79
+2026-08-01,Canned Tomatoes,Pantry,6,1.79
+2026-08-02,Canned Tomatoes,Pantry,7,1.79
+2026-08-03,Canned Tomatoes,Pantry,2,1.79
+2026-08-04,Canned Tomatoes,Pantry,4,1.79
+2026-08-05,Canned Tomatoes,Pantry,5,1.79
+2026-08-06,Canned Tomatoes,Pantry,10,1.79
+2026-08-07,Canned Tomatoes,Pantry,5,1.79
+2026-08-08,Canned Tomatoes,Pantry,4,1.79
+2026-08-09,Canned Tomatoes,Pantry,5,1.79
+2026-08-10,Canned Tomatoes,Pantry,7,1.79
+2026-08-11,Canned Tomatoes,Pantry,9,1.79
+2026-08-12,Canned Tomatoes,Pantry,8,1.79
+2026-08-13,Canned Tomatoes,Pantry,6,1.79
+2026-08-14,Canned Tomatoes,Pantry,6,1.79
+2026-08-15,Canned Tomatoes,Pantry,11,1.79
+2026-08-16,Canned Tomatoes,Pantry,12,1.79
+2026-08-17,Canned Tomatoes,Pantry,10,1.79
+2026-08-18,Canned Tomatoes,Pantry,2,1.79
+2026-08-19,Canned Tomatoes,Pantry,1,1.79
+2026-08-20,Canned Tomatoes,Pantry,3,1.79
+2026-08-21,Canned Tomatoes,Pantry,11,1.79
+2026-08-22,Canned Tomatoes,Pantry,7,1.79
+2026-08-23,Canned Tomatoes,Pantry,11,1.79
+2026-08-24,Canned Tomatoes,Pantry,1,1.79
+2026-08-25,Canned Tomatoes,Pantry,6,1.79
+2026-08-26,Canned Tomatoes,Pantry,3,1.79
+2026-08-27,Canned Tomatoes,Pantry,4,1.79
+2026-08-28,Canned Tomatoes,Pantry,5,1.79
+2026-08-29,Canned Tomatoes,Pantry,11,1.79
+2026-08-30,Canned Tomatoes,Pantry,10,1.79
+2026-08-31,Canned Tomatoes,Pantry,6,1.79
+2026-09-01,Canned Tomatoes,Pantry,6,1.79
+2026-09-02,Canned Tomatoes,Pantry,4,1.79
+2026-09-03,Canned Tomatoes,Pantry,5,1.79
+2026-09-04,Canned Tomatoes,Pantry,7,1.79
+2026-09-05,Canned Tomatoes,Pantry,5,1.79
+2026-09-06,Canned Tomatoes,Pantry,8,1.79
+2026-09-07,Canned Tomatoes,Pantry,7,1.79
+2026-09-08,Canned Tomatoes,Pantry,10,1.79
+2026-09-09,Canned Tomatoes,Pantry,9,1.79
+2026-09-10,Canned Tomatoes,Pantry,8,1.79
+2026-09-11,Canned Tomatoes,Pantry,7,1.79
+2026-09-12,Canned Tomatoes,Pantry,3,1.79
+2026-09-13,Canned Tomatoes,Pantry,3,1.79
+2026-09-14,Canned Tomatoes,Pantry,3,1.79
+2026-09-15,Canned Tomatoes,Pantry,6,1.79
+2026-09-16,Canned Tomatoes,Pantry,7,1.79
+2026-09-17,Canned Tomatoes,Pantry,2,1.79
+2026-09-18,Canned Tomatoes,Pantry,8,1.79
+2026-09-19,Canned Tomatoes,Pantry,9,1.79
+2026-09-20,Canned Tomatoes,Pantry,9,1.79
+2026-09-21,Canned Tomatoes,Pantry,5,1.79
+2026-09-22,Canned Tomatoes,Pantry,4,1.79
+2026-09-23,Canned Tomatoes,Pantry,3,1.79
+2026-09-24,Canned Tomatoes,Pantry,6,1.79
+2026-09-25,Canned Tomatoes,Pantry,9,1.79
+2026-09-26,Canned Tomatoes,Pantry,8,1.79
+2026-09-27,Canned Tomatoes,Pantry,4,1.79
+2026-09-28,Canned Tomatoes,Pantry,2,1.79
+2026-09-29,Canned Tomatoes,Pantry,7,1.79
+2026-09-30,Canned Tomatoes,Pantry,5,1.79
+2026-04-01,Orange Juice 1.5L,Beverages,11,5.29
+2026-04-02,Orange Juice 1.5L,Beverages,9,5.29
+2026-04-03,Orange Juice 1.5L,Beverages,12,5.29
+2026-04-04,Orange Juice 1.5L,Beverages,8,5.29
+2026-04-05,Orange Juice 1.5L,Beverages,12,5.29
+2026-04-06,Orange Juice 1.5L,Beverages,7,5.29
+2026-04-07,Orange Juice 1.5L,Beverages,9,5.29
+2026-04-08,Orange Juice 1.5L,Beverages,11,5.29
+2026-04-09,Orange Juice 1.5L,Beverages,10,5.29
+2026-04-10,Orange Juice 1.5L,Beverages,9,5.29
+2026-04-11,Orange Juice 1.5L,Beverages,13,5.29
+2026-04-12,Orange Juice 1.5L,Beverages,15,5.29
+2026-04-13,Orange Juice 1.5L,Beverages,8,5.29
+2026-04-14,Orange Juice 1.5L,Beverages,12,5.29
+2026-04-15,Orange Juice 1.5L,Beverages,7,5.29
+2026-04-16,Orange Juice 1.5L,Beverages,13,5.29
+2026-04-17,Orange Juice 1.5L,Beverages,11,5.29
+2026-04-18,Orange Juice 1.5L,Beverages,18,5.29
+2026-04-19,Orange Juice 1.5L,Beverages,11,5.29
+2026-04-20,Orange Juice 1.5L,Beverages,13,5.29
+2026-04-21,Orange Juice 1.5L,Beverages,5,5.29
+2026-04-22,Orange Juice 1.5L,Beverages,12,5.29
+2026-04-23,Orange Juice 1.5L,Beverages,10,5.29
+2026-04-24,Orange Juice 1.5L,Beverages,11,5.29
+2026-04-25,Orange Juice 1.5L,Beverages,22,5.29
+2026-04-26,Orange Juice 1.5L,Beverages,11,5.29
+2026-04-27,Orange Juice 1.5L,Beverages,7,5.29
+2026-04-28,Orange Juice 1.5L,Beverages,14,5.29
+2026-04-29,Orange Juice 1.5L,Beverages,7,5.29
+2026-04-30,Orange Juice 1.5L,Beverages,9,5.29
+2026-05-01,Orange Juice 1.5L,Beverages,15,5.29
+2026-05-02,Orange Juice 1.5L,Beverages,19,5.29
+2026-05-03,Orange Juice 1.5L,Beverages,14,5.29
+2026-05-04,Orange Juice 1.5L,Beverages,10,5.29
+2026-05-05,Orange Juice 1.5L,Beverages,3,5.29
+2026-05-06,Orange Juice 1.5L,Beverages,7,5.29
+2026-05-07,Orange Juice 1.5L,Beverages,8,5.29
+2026-05-08,Orange Juice 1.5L,Beverages,12,5.29
+2026-05-09,Orange Juice 1.5L,Beverages,11,5.29
+2026-05-10,Orange Juice 1.5L,Beverages,20,5.29
+2026-05-11,Orange Juice 1.5L,Beverages,8,5.29
+2026-05-12,Orange Juice 1.5L,Beverages,9,5.29
+2026-05-13,Orange Juice 1.5L,Beverages,14,5.29
+2026-05-14,Orange Juice 1.5L,Beverages,14,5.29
+2026-05-15,Orange Juice 1.5L,Beverages,13,5.29
+2026-05-16,Orange Juice 1.5L,Beverages,18,5.29
+2026-05-17,Orange Juice 1.5L,Beverages,14,5.29
+2026-05-18,Orange Juice 1.5L,Beverages,9,5.29
+2026-05-19,Orange Juice 1.5L,Beverages,12,5.29
+2026-05-20,Orange Juice 1.5L,Beverages,7,5.29
+2026-05-21,Orange Juice 1.5L,Beverages,17,5.29
+2026-05-22,Orange Juice 1.5L,Beverages,17,5.29
+2026-05-23,Orange Juice 1.5L,Beverages,13,5.29
+2026-05-24,Orange Juice 1.5L,Beverages,13,5.29
+2026-05-25,Orange Juice 1.5L,Beverages,9,5.29
+2026-05-26,Orange Juice 1.5L,Beverages,11,5.29
+2026-05-27,Orange Juice 1.5L,Beverages,11,5.29
+2026-05-28,Orange Juice 1.5L,Beverages,16,5.29
+2026-05-29,Orange Juice 1.5L,Beverages,17,5.29
+2026-05-30,Orange Juice 1.5L,Beverages,23,5.29
+2026-05-31,Orange Juice 1.5L,Beverages,10,5.29
+2026-06-01,Orange Juice 1.5L,Beverages,17,5.29
+2026-06-02,Orange Juice 1.5L,Beverages,6,5.29
+2026-06-03,Orange Juice 1.5L,Beverages,11,5.29
+2026-06-04,Orange Juice 1.5L,Beverages,9,5.29
+2026-06-05,Orange Juice 1.5L,Beverages,18,5.29
+2026-06-06,Orange Juice 1.5L,Beverages,17,5.29
+2026-06-07,Orange Juice 1.5L,Beverages,13,5.29
+2026-06-08,Orange Juice 1.5L,Beverages,11,5.29
+2026-06-09,Orange Juice 1.5L,Beverages,6,5.29
+2026-06-10,Orange Juice 1.5L,Beverages,9,5.29
+2026-06-11,Orange Juice 1.5L,Beverages,17,5.29
+2026-06-12,Orange Juice 1.5L,Beverages,11,5.29
+2026-06-13,Orange Juice 1.5L,Beverages,8,5.29
+2026-06-14,Orange Juice 1.5L,Beverages,13,5.29
+2026-06-15,Orange Juice 1.5L,Beverages,11,5.29
+2026-06-16,Orange Juice 1.5L,Beverages,13,5.29
+2026-06-17,Orange Juice 1.5L,Beverages,15,5.29
+2026-06-18,Orange Juice 1.5L,Beverages,15,5.29
+2026-06-19,Orange Juice 1.5L,Beverages,7,5.29
+2026-06-20,Orange Juice 1.5L,Beverages,16,5.29
+2026-06-21,Orange Juice 1.5L,Beverages,11,5.29
+2026-06-22,Orange Juice 1.5L,Beverages,8,5.29
+2026-06-23,Orange Juice 1.5L,Beverages,12,5.29
+2026-06-24,Orange Juice 1.5L,Beverages,6,5.29
+2026-06-25,Orange Juice 1.5L,Beverages,15,5.29
+2026-06-26,Orange Juice 1.5L,Beverages,15,5.29
+2026-06-27,Orange Juice 1.5L,Beverages,17,5.29
+2026-06-28,Orange Juice 1.5L,Beverages,15,5.29
+2026-06-29,Orange Juice 1.5L,Beverages,9,5.29
+2026-06-30,Orange Juice 1.5L,Beverages,12,5.29
+2026-07-01,Orange Juice 1.5L,Beverages,8,5.29
+2026-07-02,Orange Juice 1.5L,Beverages,5,5.29
+2026-07-03,Orange Juice 1.5L,Beverages,15,5.29
+2026-07-04,Orange Juice 1.5L,Beverages,20,5.29
+2026-07-05,Orange Juice 1.5L,Beverages,16,5.29
+2026-07-06,Orange Juice 1.5L,Beverages,17,5.29
+2026-07-07,Orange Juice 1.5L,Beverages,15,5.29
+2026-07-08,Orange Juice 1.5L,Beverages,9,5.29
+2026-07-09,Orange Juice 1.5L,Beverages,16,5.29
+2026-07-10,Orange Juice 1.5L,Beverages,15,5.29
+2026-07-11,Orange Juice 1.5L,Beverages,21,5.29
+2026-07-12,Orange Juice 1.5L,Beverages,16,5.29
+2026-07-13,Orange Juice 1.5L,Beverages,7,5.29
+2026-07-14,Orange Juice 1.5L,Beverages,9,5.29
+2026-07-15,Orange Juice 1.5L,Beverages,8,5.29
+2026-07-16,Orange Juice 1.5L,Beverages,11,5.29
+2026-07-17,Orange Juice 1.5L,Beverages,15,5.29
+2026-07-18,Orange Juice 1.5L,Beverages,17,5.29
+2026-07-19,Orange Juice 1.5L,Beverages,14,5.29
+2026-07-20,Orange Juice 1.5L,Beverages,10,5.29
+2026-07-21,Orange Juice 1.5L,Beverages,10,5.29
+2026-07-22,Orange Juice 1.5L,Beverages,12,5.29
+2026-07-23,Orange Juice 1.5L,Beverages,14,5.29
+2026-07-24,Orange Juice 1.5L,Beverages,14,5.29
+2026-07-25,Orange Juice 1.5L,Beverages,21,5.29
+2026-07-26,Orange Juice 1.5L,Beverages,10,5.29
+2026-07-27,Orange Juice 1.5L,Beverages,8,5.29
+2026-07-28,Orange Juice 1.5L,Beverages,10,5.29
+2026-07-29,Orange Juice 1.5L,Beverages,13,5.29
+2026-07-30,Orange Juice 1.5L,Beverages,13,5.29
+2026-07-31,Orange Juice 1.5L,Beverages,12,5.29
+2026-08-01,Orange Juice 1.5L,Beverages,15,5.29
+2026-08-02,Orange Juice 1.5L,Beverages,13,5.29
+2026-08-03,Orange Juice 1.5L,Beverages,10,5.29
+2026-08-04,Orange Juice 1.5L,Beverages,12,5.29
+2026-08-05,Orange Juice 1.5L,Beverages,13,5.29
+2026-08-06,Orange Juice 1.5L,Beverages,12,5.29
+2026-08-07,Orange Juice 1.5L,Beverages,12,5.29
+2026-08-08,Orange Juice 1.5L,Beverages,18,5.29
+2026-08-09,Orange Juice 1.5L,Beverages,8,5.29
+2026-08-10,Orange Juice 1.5L,Beverages,14,5.29
+2026-08-11,Orange Juice 1.5L,Beverages,8,5.29
+2026-08-12,Orange Juice 1.5L,Beverages,14,5.29
+2026-08-13,Orange Juice 1.5L,Beverages,9,5.29
+2026-08-14,Orange Juice 1.5L,Beverages,14,5.29
+2026-08-15,Orange Juice 1.5L,Beverages,13,5.29
+2026-08-16,Orange Juice 1.5L,Beverages,17,5.29
+2026-08-17,Orange Juice 1.5L,Beverages,13,5.29
+2026-08-18,Orange Juice 1.5L,Beverages,12,5.29
+2026-08-19,Orange Juice 1.5L,Beverages,11,5.29
+2026-08-20,Orange Juice 1.5L,Beverages,16,5.29
+2026-08-21,Orange Juice 1.5L,Beverages,21,5.29
+2026-08-22,Orange Juice 1.5L,Beverages,15,5.29
+2026-08-23,Orange Juice 1.5L,Beverages,15,5.29
+2026-08-24,Orange Juice 1.5L,Beverages,8,5.29
+2026-08-25,Orange Juice 1.5L,Beverages,9,5.29
+2026-08-26,Orange Juice 1.5L,Beverages,3,5.29
+2026-08-27,Orange Juice 1.5L,Beverages,14,5.29
+2026-08-28,Orange Juice 1.5L,Beverages,10,5.29
+2026-08-29,Orange Juice 1.5L,Beverages,16,5.29
+2026-08-30,Orange Juice 1.5L,Beverages,13,5.29
+2026-08-31,Orange Juice 1.5L,Beverages,5,5.29
+2026-09-01,Orange Juice 1.5L,Beverages,12,5.29
+2026-09-02,Orange Juice 1.5L,Beverages,7,5.29
+2026-09-03,Orange Juice 1.5L,Beverages,11,5.29
+2026-09-04,Orange Juice 1.5L,Beverages,13,5.29
+2026-09-05,Orange Juice 1.5L,Beverages,12,5.29
+2026-09-06,Orange Juice 1.5L,Beverages,12,5.29
+2026-09-07,Orange Juice 1.5L,Beverages,5,5.29
+2026-09-08,Orange Juice 1.5L,Beverages,13,5.29
+2026-09-09,Orange Juice 1.5L,Beverages,9,5.29
+2026-09-10,Orange Juice 1.5L,Beverages,12,5.29
+2026-09-11,Orange Juice 1.5L,Beverages,16,5.29
+2026-09-12,Orange Juice 1.5L,Beverages,16,5.29
+2026-09-13,Orange Juice 1.5L,Beverages,16,5.29
+2026-09-14,Orange Juice 1.5L,Beverages,7,5.29
+2026-09-15,Orange Juice 1.5L,Beverages,8,5.29
+2026-09-16,Orange Juice 1.5L,Beverages,16,5.29
+2026-09-17,Orange Juice 1.5L,Beverages,15,5.29
+2026-09-18,Orange Juice 1.5L,Beverages,10,5.29
+2026-09-19,Orange Juice 1.5L,Beverages,9,5.29
+2026-09-20,Orange Juice 1.5L,Beverages,10,5.29
+2026-09-21,Orange Juice 1.5L,Beverages,14,5.29
+2026-09-22,Orange Juice 1.5L,Beverages,12,5.29
+2026-09-23,Orange Juice 1.5L,Beverages,10,5.29
+2026-09-24,Orange Juice 1.5L,Beverages,6,5.29
+2026-09-25,Orange Juice 1.5L,Beverages,8,5.29
+2026-09-26,Orange Juice 1.5L,Beverages,10,5.29
+2026-09-27,Orange Juice 1.5L,Beverages,13,5.29
+2026-09-28,Orange Juice 1.5L,Beverages,8,5.29
+2026-09-29,Orange Juice 1.5L,Beverages,8,5.29
+2026-09-30,Orange Juice 1.5L,Beverages,13,5.29
+2026-04-01,Cold Brew Coffee,Beverages,7,4.99
+2026-04-02,Cold Brew Coffee,Beverages,5,4.99
+2026-04-03,Cold Brew Coffee,Beverages,1,4.99
+2026-04-04,Cold Brew Coffee,Beverages,6,4.99
+2026-04-05,Cold Brew Coffee,Beverages,9,4.99
+2026-04-06,Cold Brew Coffee,Beverages,3,4.99
+2026-04-07,Cold Brew Coffee,Beverages,4,4.99
+2026-04-08,Cold Brew Coffee,Beverages,2,4.99
+2026-04-09,Cold Brew Coffee,Beverages,1,4.99
+2026-04-10,Cold Brew Coffee,Beverages,2,4.99
+2026-04-11,Cold Brew Coffee,Beverages,2,4.99
+2026-04-12,Cold Brew Coffee,Beverages,11,4.99
+2026-04-13,Cold Brew Coffee,Beverages,3,4.99
+2026-04-14,Cold Brew Coffee,Beverages,3,4.99
+2026-04-15,Cold Brew Coffee,Beverages,3,4.99
+2026-04-16,Cold Brew Coffee,Beverages,9,4.99
+2026-04-17,Cold Brew Coffee,Beverages,7,4.99
+2026-04-18,Cold Brew Coffee,Beverages,9,4.99
+2026-04-19,Cold Brew Coffee,Beverages,8,4.99
+2026-04-20,Cold Brew Coffee,Beverages,7,4.99
+2026-04-21,Cold Brew Coffee,Beverages,3,4.99
+2026-04-23,Cold Brew Coffee,Beverages,7,4.99
+2026-04-24,Cold Brew Coffee,Beverages,8,4.99
+2026-04-25,Cold Brew Coffee,Beverages,6,4.99
+2026-04-26,Cold Brew Coffee,Beverages,6,4.99
+2026-04-27,Cold Brew Coffee,Beverages,4,4.99
+2026-04-28,Cold Brew Coffee,Beverages,3,4.99
+2026-04-29,Cold Brew Coffee,Beverages,4,4.99
+2026-04-30,Cold Brew Coffee,Beverages,6,4.99
+2026-05-01,Cold Brew Coffee,Beverages,7,4.99
+2026-05-02,Cold Brew Coffee,Beverages,6,4.99
+2026-05-03,Cold Brew Coffee,Beverages,9,4.99
+2026-05-04,Cold Brew Coffee,Beverages,3,4.99
+2026-05-05,Cold Brew Coffee,Beverages,4,4.99
+2026-05-06,Cold Brew Coffee,Beverages,5,4.99
+2026-05-07,Cold Brew Coffee,Beverages,10,4.99
+2026-05-08,Cold Brew Coffee,Beverages,3,4.99
+2026-05-09,Cold Brew Coffee,Beverages,6,4.99
+2026-05-10,Cold Brew Coffee,Beverages,6,4.99
+2026-05-11,Cold Brew Coffee,Beverages,5,4.99
+2026-05-12,Cold Brew Coffee,Beverages,5,4.99
+2026-05-13,Cold Brew Coffee,Beverages,4,4.99
+2026-05-14,Cold Brew Coffee,Beverages,7,4.99
+2026-05-15,Cold Brew Coffee,Beverages,11,4.99
+2026-05-16,Cold Brew Coffee,Beverages,16,4.99
+2026-05-17,Cold Brew Coffee,Beverages,6,4.99
+2026-05-18,Cold Brew Coffee,Beverages,10,4.99
+2026-05-19,Cold Brew Coffee,Beverages,4,4.99
+2026-05-20,Cold Brew Coffee,Beverages,2,4.99
+2026-05-21,Cold Brew Coffee,Beverages,4,4.99
+2026-05-22,Cold Brew Coffee,Beverages,9,4.99
+2026-05-23,Cold Brew Coffee,Beverages,9,4.99
+2026-05-24,Cold Brew Coffee,Beverages,4,4.99
+2026-05-25,Cold Brew Coffee,Beverages,2,4.99
+2026-05-26,Cold Brew Coffee,Beverages,4,4.99
+2026-05-27,Cold Brew Coffee,Beverages,5,4.99
+2026-05-28,Cold Brew Coffee,Beverages,7,4.99
+2026-05-29,Cold Brew Coffee,Beverages,4,4.99
+2026-05-30,Cold Brew Coffee,Beverages,8,4.99
+2026-05-31,Cold Brew Coffee,Beverages,7,4.99
+2026-06-01,Cold Brew Coffee,Beverages,7,4.99
+2026-06-02,Cold Brew Coffee,Beverages,6,4.99
+2026-06-03,Cold Brew Coffee,Beverages,5,4.99
+2026-06-04,Cold Brew Coffee,Beverages,9,4.99
+2026-06-05,Cold Brew Coffee,Beverages,9,4.99
+2026-06-06,Cold Brew Coffee,Beverages,8,4.99
+2026-06-07,Cold Brew Coffee,Beverages,5,4.99
+2026-06-08,Cold Brew Coffee,Beverages,6,4.99
+2026-06-09,Cold Brew Coffee,Beverages,4,4.99
+2026-06-10,Cold Brew Coffee,Beverages,4,4.99
+2026-06-11,Cold Brew Coffee,Beverages,3,4.99
+2026-06-12,Cold Brew Coffee,Beverages,5,4.99
+2026-06-13,Cold Brew Coffee,Beverages,8,4.99
+2026-06-14,Cold Brew Coffee,Beverages,4,4.99
+2026-06-15,Cold Brew Coffee,Beverages,8,4.99
+2026-06-16,Cold Brew Coffee,Beverages,3,4.99
+2026-06-17,Cold Brew Coffee,Beverages,3,4.99
+2026-06-18,Cold Brew Coffee,Beverages,8,4.99
+2026-06-19,Cold Brew Coffee,Beverages,7,4.99
+2026-06-20,Cold Brew Coffee,Beverages,9,4.99
+2026-06-21,Cold Brew Coffee,Beverages,6,4.99
+2026-06-22,Cold Brew Coffee,Beverages,3,4.99
+2026-06-23,Cold Brew Coffee,Beverages,5,4.99
+2026-06-24,Cold Brew Coffee,Beverages,8,4.99
+2026-06-25,Cold Brew Coffee,Beverages,6,4.99
+2026-06-26,Cold Brew Coffee,Beverages,12,4.99
+2026-06-27,Cold Brew Coffee,Beverages,10,4.99
+2026-06-28,Cold Brew Coffee,Beverages,7,4.99
+2026-06-29,Cold Brew Coffee,Beverages,9,4.99
+2026-06-30,Cold Brew Coffee,Beverages,6,4.99
+2026-07-01,Cold Brew Coffee,Beverages,8,4.99
+2026-07-02,Cold Brew Coffee,Beverages,8,4.99
+2026-07-03,Cold Brew Coffee,Beverages,4,4.99
+2026-07-04,Cold Brew Coffee,Beverages,4,4.99
+2026-07-05,Cold Brew Coffee,Beverages,8,4.99
+2026-07-06,Cold Brew Coffee,Beverages,2,4.99
+2026-07-07,Cold Brew Coffee,Beverages,2,4.99
+2026-07-08,Cold Brew Coffee,Beverages,4,4.99
+2026-07-09,Cold Brew Coffee,Beverages,3,4.99
+2026-07-10,Cold Brew Coffee,Beverages,9,4.99
+2026-07-11,Cold Brew Coffee,Beverages,13,4.99
+2026-07-12,Cold Brew Coffee,Beverages,8,4.99
+2026-07-13,Cold Brew Coffee,Beverages,9,4.99
+2026-07-14,Cold Brew Coffee,Beverages,4,4.99
+2026-07-15,Cold Brew Coffee,Beverages,5,4.99
+2026-07-16,Cold Brew Coffee,Beverages,7,4.99
+2026-07-17,Cold Brew Coffee,Beverages,4,4.99
+2026-07-18,Cold Brew Coffee,Beverages,6,4.99
+2026-07-19,Cold Brew Coffee,Beverages,7,4.99
+2026-07-20,Cold Brew Coffee,Beverages,7,4.99
+2026-07-21,Cold Brew Coffee,Beverages,8,4.99
+2026-07-22,Cold Brew Coffee,Beverages,3,4.99
+2026-07-23,Cold Brew Coffee,Beverages,5,4.99
+2026-07-24,Cold Brew Coffee,Beverages,13,4.99
+2026-07-25,Cold Brew Coffee,Beverages,11,4.99
+2026-07-26,Cold Brew Coffee,Beverages,7,4.99
+2026-07-27,Cold Brew Coffee,Beverages,4,4.99
+2026-07-28,Cold Brew Coffee,Beverages,9,4.99
+2026-07-29,Cold Brew Coffee,Beverages,6,4.99
+2026-07-30,Cold Brew Coffee,Beverages,8,4.99
+2026-07-31,Cold Brew Coffee,Beverages,10,4.99
+2026-08-01,Cold Brew Coffee,Beverages,8,4.99
+2026-08-02,Cold Brew Coffee,Beverages,5,4.99
+2026-08-03,Cold Brew Coffee,Beverages,8,4.99
+2026-08-04,Cold Brew Coffee,Beverages,4,4.99
+2026-08-05,Cold Brew Coffee,Beverages,6,4.99
+2026-08-06,Cold Brew Coffee,Beverages,3,4.99
+2026-08-07,Cold Brew Coffee,Beverages,9,4.99
+2026-08-08,Cold Brew Coffee,Beverages,9,4.99
+2026-08-09,Cold Brew Coffee,Beverages,8,4.99
+2026-08-10,Cold Brew Coffee,Beverages,4,4.99
+2026-08-11,Cold Brew Coffee,Beverages,3,4.99
+2026-08-12,Cold Brew Coffee,Beverages,2,4.99
+2026-08-13,Cold Brew Coffee,Beverages,11,4.99
+2026-08-14,Cold Brew Coffee,Beverages,8,4.99
+2026-08-15,Cold Brew Coffee,Beverages,11,4.99
+2026-08-16,Cold Brew Coffee,Beverages,9,4.99
+2026-08-17,Cold Brew Coffee,Beverages,7,4.99
+2026-08-18,Cold Brew Coffee,Beverages,2,4.99
+2026-08-19,Cold Brew Coffee,Beverages,7,4.99
+2026-08-20,Cold Brew Coffee,Beverages,8,4.99
+2026-08-21,Cold Brew Coffee,Beverages,3,4.99
+2026-08-22,Cold Brew Coffee,Beverages,10,4.99
+2026-08-23,Cold Brew Coffee,Beverages,8,4.99
+2026-08-24,Cold Brew Coffee,Beverages,10,4.99
+2026-08-25,Cold Brew Coffee,Beverages,4,4.99
+2026-08-26,Cold Brew Coffee,Beverages,3,4.99
+2026-08-27,Cold Brew Coffee,Beverages,2,4.99
+2026-08-28,Cold Brew Coffee,Beverages,11,4.99
+2026-08-29,Cold Brew Coffee,Beverages,7,4.99
+2026-08-30,Cold Brew Coffee,Beverages,7,4.99
+2026-08-31,Cold Brew Coffee,Beverages,3,4.99
+2026-09-01,Cold Brew Coffee,Beverages,5,4.99
+2026-09-02,Cold Brew Coffee,Beverages,7,4.99
+2026-09-03,Cold Brew Coffee,Beverages,9,4.99
+2026-09-04,Cold Brew Coffee,Beverages,6,4.99
+2026-09-05,Cold Brew Coffee,Beverages,9,4.99
+2026-09-06,Cold Brew Coffee,Beverages,11,4.99
+2026-09-07,Cold Brew Coffee,Beverages,7,4.99
+2026-09-08,Cold Brew Coffee,Beverages,2,4.99
+2026-09-09,Cold Brew Coffee,Beverages,6,4.99
+2026-09-10,Cold Brew Coffee,Beverages,6,4.99
+2026-09-11,Cold Brew Coffee,Beverages,5,4.99
+2026-09-12,Cold Brew Coffee,Beverages,4,4.99
+2026-09-13,Cold Brew Coffee,Beverages,2,4.99
+2026-09-14,Cold Brew Coffee,Beverages,4,4.99
+2026-09-15,Cold Brew Coffee,Beverages,6,4.99
+2026-09-16,Cold Brew Coffee,Beverages,2,4.99
+2026-09-17,Cold Brew Coffee,Beverages,5,4.99
+2026-09-18,Cold Brew Coffee,Beverages,5,4.99
+2026-09-19,Cold Brew Coffee,Beverages,4,4.99
+2026-09-20,Cold Brew Coffee,Beverages,3,4.99
+2026-09-21,Cold Brew Coffee,Beverages,5,4.99
+2026-09-22,Cold Brew Coffee,Beverages,2,4.99
+2026-09-23,Cold Brew Coffee,Beverages,6,4.99
+2026-09-24,Cold Brew Coffee,Beverages,8,4.99
+2026-09-25,Cold Brew Coffee,Beverages,8,4.99
+2026-09-26,Cold Brew Coffee,Beverages,4,4.99
+2026-09-27,Cold Brew Coffee,Beverages,6,4.99
+2026-09-28,Cold Brew Coffee,Beverages,2,4.99
+2026-09-29,Cold Brew Coffee,Beverages,4,4.99
+2026-09-30,Cold Brew Coffee,Beverages,8,4.99
+2026-04-03,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-04,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-05,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-06,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-08,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-09,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-11,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-12,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-14,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-16,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-18,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-19,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-21,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-22,Premium Olive Oil 1L,Specialty,3,24.99
+2026-04-24,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-25,Premium Olive Oil 1L,Specialty,2,24.99
+2026-04-29,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-30,Premium Olive Oil 1L,Specialty,2,24.99
+2026-05-01,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-03,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-04,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-07,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-08,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-09,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-13,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-16,Premium Olive Oil 1L,Specialty,2,24.99
+2026-05-17,Premium Olive Oil 1L,Specialty,2,24.99
+2026-05-21,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-23,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-24,Premium Olive Oil 1L,Specialty,2,24.99
+2026-05-27,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-28,Premium Olive Oil 1L,Specialty,2,24.99
+2026-05-29,Premium Olive Oil 1L,Specialty,1,24.99
+2026-05-31,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-01,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-06,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-07,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-11,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-12,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-17,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-19,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-20,Premium Olive Oil 1L,Specialty,3,24.99
+2026-06-23,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-25,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-26,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-27,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-28,Premium Olive Oil 1L,Specialty,1,24.99
+2026-06-29,Premium Olive Oil 1L,Specialty,2,24.99
+2026-06-30,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-03,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-04,Premium Olive Oil 1L,Specialty,2,24.99
+2026-07-09,Premium Olive Oil 1L,Specialty,2,24.99
+2026-07-17,Premium Olive Oil 1L,Specialty,2,24.99
+2026-07-19,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-20,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-21,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-22,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-23,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-25,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-26,Premium Olive Oil 1L,Specialty,1,24.99
+2026-07-27,Premium Olive Oil 1L,Specialty,2,24.99
+2026-07-28,Premium Olive Oil 1L,Specialty,2,24.99
+2026-08-01,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-02,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-03,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-05,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-06,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-08,Premium Olive Oil 1L,Specialty,2,24.99
+2026-08-09,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-12,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-14,Premium Olive Oil 1L,Specialty,2,24.99
+2026-08-18,Premium Olive Oil 1L,Specialty,2,24.99
+2026-08-28,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-29,Premium Olive Oil 1L,Specialty,1,24.99
+2026-08-30,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-04,Premium Olive Oil 1L,Specialty,2,24.99
+2026-09-06,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-08,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-12,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-18,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-19,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-20,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-22,Premium Olive Oil 1L,Specialty,2,24.99
+2026-09-24,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-26,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-27,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-28,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-29,Premium Olive Oil 1L,Specialty,1,24.99
+2026-09-30,Premium Olive Oil 1L,Specialty,1,24.99
+2026-04-03,Gift Basket,Specialty,1,49.99
+2026-04-15,Gift Basket,Specialty,1,49.99
+2026-04-19,Gift Basket,Specialty,1,49.99
+2026-04-20,Gift Basket,Specialty,1,49.99
+2026-04-28,Gift Basket,Specialty,1,49.99
+2026-05-10,Gift Basket,Specialty,2,49.99
+2026-05-11,Gift Basket,Specialty,1,49.99
+2026-05-15,Gift Basket,Specialty,1,49.99
+2026-05-16,Gift Basket,Specialty,1,49.99
+2026-05-20,Gift Basket,Specialty,1,49.99
+2026-05-28,Gift Basket,Specialty,1,49.99
+2026-06-05,Gift Basket,Specialty,1,49.99
+2026-06-08,Gift Basket,Specialty,1,49.99
+2026-06-14,Gift Basket,Specialty,1,49.99
+2026-06-16,Gift Basket,Specialty,1,49.99
+2026-07-04,Gift Basket,Specialty,1,49.99
+2026-07-12,Gift Basket,Specialty,1,49.99
+2026-07-14,Gift Basket,Specialty,1,49.99
+2026-07-17,Gift Basket,Specialty,1,49.99
+2026-07-21,Gift Basket,Specialty,2,49.99
+2026-07-28,Gift Basket,Specialty,1,49.99
+2026-07-30,Gift Basket,Specialty,1,49.99
+2026-08-21,Gift Basket,Specialty,1,49.99
+2026-08-23,Gift Basket,Specialty,1,49.99
+2026-08-28,Gift Basket,Specialty,1,49.99
+2026-09-05,Gift Basket,Specialty,1,49.99
+2026-09-10,Gift Basket,Specialty,1,49.99
+2026-09-20,Gift Basket,Specialty,1,49.99
+2026-09-22,Gift Basket,Specialty,1,49.99
