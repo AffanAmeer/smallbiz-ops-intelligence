@@ -1,0 +1,8 @@
+date,product,category,units_sold,unit_price
+2026-09-01,Milk 2L,Dairy,31,5.49
+2026-09-01,,Dairy,12,4.99
+2026-09-02,Pasta 900g,Pantry,-3,2.99
+2026-13-40,Spinach 312g,Produce,6,4.49
+2026-09-03,Bananas (bunch),Produce,20,abc
+2026-09-04,Milk 2L,Dairy,2.5,5.49
+2026-09-01,Milk 2L,Dairy,29,5.49

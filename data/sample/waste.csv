@@ -1,0 +1,954 @@
+date,product,units_wasted,reason
+2026-04-01,Milk 2L,2,Damaged
+2026-04-03,Milk 2L,3,Expired
+2026-04-04,Milk 2L,3,Damaged
+2026-04-06,Milk 2L,1,Spoiled
+2026-04-07,Milk 2L,1,Expired
+2026-04-09,Milk 2L,2,Spoiled
+2026-04-12,Milk 2L,2,Expired
+2026-04-13,Milk 2L,4,Expired
+2026-04-14,Milk 2L,1,Expired
+2026-04-16,Milk 2L,2,Expired
+2026-04-19,Milk 2L,2,Expired
+2026-04-23,Milk 2L,1,Expired
+2026-04-24,Milk 2L,2,Expired
+2026-04-25,Milk 2L,1,Expired
+2026-04-27,Milk 2L,3,Expired
+2026-04-28,Milk 2L,1,Expired
+2026-04-29,Milk 2L,1,Expired
+2026-04-30,Milk 2L,1,Spoiled
+2026-05-01,Milk 2L,1,Expired
+2026-05-02,Milk 2L,2,Damaged
+2026-05-03,Milk 2L,1,Spoiled
+2026-05-04,Milk 2L,3,Damaged
+2026-05-05,Milk 2L,3,Damaged
+2026-05-06,Milk 2L,1,Expired
+2026-05-07,Milk 2L,1,Damaged
+2026-05-08,Milk 2L,1,Expired
+2026-05-10,Milk 2L,2,Expired
+2026-05-11,Milk 2L,1,Expired
+2026-05-13,Milk 2L,1,Expired
+2026-05-15,Milk 2L,1,Damaged
+2026-05-17,Milk 2L,3,Spoiled
+2026-05-18,Milk 2L,4,Expired
+2026-05-19,Milk 2L,1,Expired
+2026-05-20,Milk 2L,1,Spoiled
+2026-05-21,Milk 2L,1,Expired
+2026-05-24,Milk 2L,1,Expired
+2026-05-25,Milk 2L,1,Expired
+2026-05-26,Milk 2L,1,Expired
+2026-05-27,Milk 2L,1,Spoiled
+2026-05-28,Milk 2L,2,Expired
+2026-05-29,Milk 2L,1,Expired
+2026-05-30,Milk 2L,1,Expired
+2026-05-31,Milk 2L,1,Expired
+2026-06-01,Milk 2L,3,Spoiled
+2026-06-03,Milk 2L,2,Expired
+2026-06-05,Milk 2L,4,Damaged
+2026-06-07,Milk 2L,2,Expired
+2026-06-08,Milk 2L,1,Expired
+2026-06-09,Milk 2L,2,Expired
+2026-06-12,Milk 2L,3,Expired
+2026-06-13,Milk 2L,1,Expired
+2026-06-14,Milk 2L,2,Expired
+2026-06-15,Milk 2L,2,Damaged
+2026-06-16,Milk 2L,1,Damaged
+2026-06-20,Milk 2L,1,Spoiled
+2026-06-21,Milk 2L,2,Expired
+2026-06-22,Milk 2L,3,Spoiled
+2026-06-23,Milk 2L,3,Expired
+2026-06-25,Milk 2L,2,Damaged
+2026-06-26,Milk 2L,3,Expired
+2026-06-28,Milk 2L,1,Expired
+2026-06-29,Milk 2L,1,Expired
+2026-06-30,Milk 2L,1,Expired
+2026-07-01,Milk 2L,2,Expired
+2026-07-02,Milk 2L,1,Expired
+2026-07-03,Milk 2L,3,Spoiled
+2026-07-04,Milk 2L,1,Expired
+2026-07-06,Milk 2L,2,Spoiled
+2026-07-08,Milk 2L,3,Expired
+2026-07-09,Milk 2L,1,Expired
+2026-07-11,Milk 2L,1,Spoiled
+2026-07-13,Milk 2L,2,Expired
+2026-07-14,Milk 2L,3,Spoiled
+2026-07-15,Milk 2L,1,Spoiled
+2026-07-16,Milk 2L,3,Damaged
+2026-07-17,Milk 2L,1,Expired
+2026-07-20,Milk 2L,2,Expired
+2026-07-21,Milk 2L,2,Spoiled
+2026-07-22,Milk 2L,3,Spoiled
+2026-07-23,Milk 2L,3,Spoiled
+2026-07-26,Milk 2L,2,Expired
+2026-07-27,Milk 2L,6,Expired
+2026-07-30,Milk 2L,1,Damaged
+2026-08-03,Milk 2L,3,Expired
+2026-08-04,Milk 2L,2,Expired
+2026-08-06,Milk 2L,3,Expired
+2026-08-07,Milk 2L,1,Expired
+2026-08-08,Milk 2L,1,Expired
+2026-08-09,Milk 2L,1,Expired
+2026-08-10,Milk 2L,4,Damaged
+2026-08-11,Milk 2L,1,Expired
+2026-08-12,Milk 2L,1,Damaged
+2026-08-14,Milk 2L,1,Expired
+2026-08-16,Milk 2L,1,Expired
+2026-08-17,Milk 2L,2,Expired
+2026-08-22,Milk 2L,1,Expired
+2026-08-23,Milk 2L,1,Expired
+2026-08-27,Milk 2L,2,Spoiled
+2026-08-28,Milk 2L,1,Expired
+2026-08-31,Milk 2L,4,Expired
+2026-09-01,Milk 2L,2,Expired
+2026-09-02,Milk 2L,1,Expired
+2026-09-03,Milk 2L,2,Expired
+2026-09-05,Milk 2L,1,Spoiled
+2026-09-06,Milk 2L,2,Expired
+2026-09-07,Milk 2L,1,Damaged
+2026-09-10,Milk 2L,2,Expired
+2026-09-11,Milk 2L,2,Damaged
+2026-09-12,Milk 2L,1,Damaged
+2026-09-13,Milk 2L,2,Expired
+2026-09-14,Milk 2L,3,Expired
+2026-09-16,Milk 2L,1,Expired
+2026-09-19,Milk 2L,1,Expired
+2026-09-20,Milk 2L,5,Expired
+2026-09-22,Milk 2L,1,Expired
+2026-09-23,Milk 2L,2,Expired
+2026-09-24,Milk 2L,1,Damaged
+2026-09-28,Milk 2L,2,Expired
+2026-09-29,Milk 2L,1,Expired
+2026-04-01,Eggs (dozen),1,Expired
+2026-04-13,Eggs (dozen),1,Expired
+2026-04-16,Eggs (dozen),2,Expired
+2026-04-19,Eggs (dozen),1,Expired
+2026-04-23,Eggs (dozen),1,Expired
+2026-04-27,Eggs (dozen),1,Damaged
+2026-04-30,Eggs (dozen),1,Expired
+2026-05-04,Eggs (dozen),1,Expired
+2026-05-11,Eggs (dozen),1,Damaged
+2026-05-13,Eggs (dozen),1,Spoiled
+2026-05-14,Eggs (dozen),1,Expired
+2026-05-15,Eggs (dozen),1,Expired
+2026-05-21,Eggs (dozen),1,Expired
+2026-05-22,Eggs (dozen),1,Expired
+2026-05-23,Eggs (dozen),1,Damaged
+2026-05-25,Eggs (dozen),2,Expired
+2026-05-26,Eggs (dozen),1,Expired
+2026-05-28,Eggs (dozen),1,Expired
+2026-06-08,Eggs (dozen),2,Expired
+2026-06-10,Eggs (dozen),1,Expired
+2026-06-12,Eggs (dozen),1,Expired
+2026-06-15,Eggs (dozen),1,Expired
+2026-06-21,Eggs (dozen),1,Expired
+2026-06-24,Eggs (dozen),1,Expired
+2026-06-25,Eggs (dozen),1,Expired
+2026-06-26,Eggs (dozen),1,Damaged
+2026-06-29,Eggs (dozen),1,Expired
+2026-07-02,Eggs (dozen),1,Expired
+2026-07-08,Eggs (dozen),2,Expired
+2026-07-13,Eggs (dozen),1,Expired
+2026-07-14,Eggs (dozen),1,Expired
+2026-07-15,Eggs (dozen),1,Damaged
+2026-07-16,Eggs (dozen),2,Expired
+2026-07-19,Eggs (dozen),1,Expired
+2026-07-20,Eggs (dozen),1,Expired
+2026-07-29,Eggs (dozen),1,Damaged
+2026-08-06,Eggs (dozen),1,Spoiled
+2026-08-07,Eggs (dozen),1,Expired
+2026-08-08,Eggs (dozen),1,Expired
+2026-08-10,Eggs (dozen),2,Expired
+2026-08-14,Eggs (dozen),1,Expired
+2026-08-20,Eggs (dozen),2,Damaged
+2026-08-25,Eggs (dozen),3,Expired
+2026-08-30,Eggs (dozen),1,Damaged
+2026-08-31,Eggs (dozen),1,Expired
+2026-09-02,Eggs (dozen),1,Expired
+2026-09-12,Eggs (dozen),2,Expired
+2026-09-16,Eggs (dozen),1,Damaged
+2026-09-17,Eggs (dozen),1,Expired
+2026-09-18,Eggs (dozen),2,Expired
+2026-09-19,Eggs (dozen),1,Spoiled
+2026-09-21,Eggs (dozen),1,Spoiled
+2026-09-22,Eggs (dozen),1,Expired
+2026-09-23,Eggs (dozen),1,Damaged
+2026-09-24,Eggs (dozen),1,Expired
+2026-09-25,Eggs (dozen),1,Damaged
+2026-09-26,Eggs (dozen),1,Expired
+2026-09-28,Eggs (dozen),1,Expired
+2026-04-01,Greek Yogurt 750g,2,Spoiled
+2026-04-04,Greek Yogurt 750g,1,Spoiled
+2026-04-05,Greek Yogurt 750g,1,Expired
+2026-04-08,Greek Yogurt 750g,1,Expired
+2026-04-11,Greek Yogurt 750g,1,Expired
+2026-04-13,Greek Yogurt 750g,4,Expired
+2026-04-16,Greek Yogurt 750g,1,Expired
+2026-04-20,Greek Yogurt 750g,1,Expired
+2026-04-21,Greek Yogurt 750g,2,Damaged
+2026-04-22,Greek Yogurt 750g,4,Expired
+2026-04-25,Greek Yogurt 750g,1,Damaged
+2026-04-30,Greek Yogurt 750g,1,Expired
+2026-05-02,Greek Yogurt 750g,1,Damaged
+2026-05-04,Greek Yogurt 750g,1,Expired
+2026-05-05,Greek Yogurt 750g,1,Expired
+2026-05-06,Greek Yogurt 750g,1,Expired
+2026-05-08,Greek Yogurt 750g,1,Spoiled
+2026-05-09,Greek Yogurt 750g,1,Damaged
+2026-05-10,Greek Yogurt 750g,1,Expired
+2026-05-13,Greek Yogurt 750g,2,Expired
+2026-05-17,Greek Yogurt 750g,1,Damaged
+2026-05-18,Greek Yogurt 750g,2,Expired
+2026-05-19,Greek Yogurt 750g,2,Expired
+2026-05-22,Greek Yogurt 750g,1,Damaged
+2026-05-24,Greek Yogurt 750g,1,Expired
+2026-05-27,Greek Yogurt 750g,2,Expired
+2026-05-31,Greek Yogurt 750g,1,Damaged
+2026-06-03,Greek Yogurt 750g,1,Spoiled
+2026-06-14,Greek Yogurt 750g,1,Spoiled
+2026-06-15,Greek Yogurt 750g,1,Expired
+2026-06-16,Greek Yogurt 750g,1,Expired
+2026-06-18,Greek Yogurt 750g,1,Expired
+2026-06-19,Greek Yogurt 750g,1,Spoiled
+2026-06-20,Greek Yogurt 750g,2,Expired
+2026-06-21,Greek Yogurt 750g,2,Expired
+2026-06-23,Greek Yogurt 750g,1,Damaged
+2026-06-26,Greek Yogurt 750g,1,Expired
+2026-06-27,Greek Yogurt 750g,1,Spoiled
+2026-06-29,Greek Yogurt 750g,1,Expired
+2026-07-02,Greek Yogurt 750g,1,Damaged
+2026-07-03,Greek Yogurt 750g,1,Expired
+2026-07-04,Greek Yogurt 750g,4,Damaged
+2026-07-06,Greek Yogurt 750g,2,Spoiled
+2026-07-09,Greek Yogurt 750g,1,Expired
+2026-07-10,Greek Yogurt 750g,3,Spoiled
+2026-07-11,Greek Yogurt 750g,1,Expired
+2026-07-15,Greek Yogurt 750g,1,Spoiled
+2026-07-16,Greek Yogurt 750g,2,Damaged
+2026-07-20,Greek Yogurt 750g,1,Damaged
+2026-07-23,Greek Yogurt 750g,1,Damaged
+2026-07-26,Greek Yogurt 750g,1,Expired
+2026-07-27,Greek Yogurt 750g,1,Expired
+2026-08-03,Greek Yogurt 750g,1,Expired
+2026-08-11,Greek Yogurt 750g,2,Expired
+2026-08-13,Greek Yogurt 750g,1,Expired
+2026-08-14,Greek Yogurt 750g,1,Expired
+2026-08-15,Greek Yogurt 750g,1,Expired
+2026-08-17,Greek Yogurt 750g,1,Expired
+2026-08-18,Greek Yogurt 750g,1,Expired
+2026-08-19,Greek Yogurt 750g,1,Expired
+2026-08-20,Greek Yogurt 750g,1,Expired
+2026-08-21,Greek Yogurt 750g,1,Spoiled
+2026-08-23,Greek Yogurt 750g,1,Damaged
+2026-08-24,Greek Yogurt 750g,1,Expired
+2026-08-26,Greek Yogurt 750g,1,Spoiled
+2026-08-27,Greek Yogurt 750g,1,Spoiled
+2026-08-28,Greek Yogurt 750g,1,Expired
+2026-08-31,Greek Yogurt 750g,2,Expired
+2026-09-01,Greek Yogurt 750g,1,Expired
+2026-09-05,Greek Yogurt 750g,1,Spoiled
+2026-09-06,Greek Yogurt 750g,1,Expired
+2026-09-12,Greek Yogurt 750g,1,Spoiled
+2026-09-14,Greek Yogurt 750g,2,Expired
+2026-09-22,Greek Yogurt 750g,1,Expired
+2026-09-24,Greek Yogurt 750g,1,Damaged
+2026-09-28,Greek Yogurt 750g,2,Expired
+2026-09-29,Greek Yogurt 750g,1,Expired
+2026-04-04,Cheddar Block 400g,1,Expired
+2026-05-15,Cheddar Block 400g,1,Spoiled
+2026-05-19,Cheddar Block 400g,1,Expired
+2026-05-28,Cheddar Block 400g,2,Expired
+2026-05-30,Cheddar Block 400g,1,Expired
+2026-06-02,Cheddar Block 400g,3,Expired
+2026-06-08,Cheddar Block 400g,1,Spoiled
+2026-06-10,Cheddar Block 400g,1,Spoiled
+2026-06-21,Cheddar Block 400g,1,Expired
+2026-06-23,Cheddar Block 400g,1,Damaged
+2026-07-06,Cheddar Block 400g,1,Expired
+2026-08-03,Cheddar Block 400g,1,Expired
+2026-08-30,Cheddar Block 400g,1,Expired
+2026-09-03,Cheddar Block 400g,1,Expired
+2026-09-07,Cheddar Block 400g,1,Expired
+2026-09-09,Cheddar Block 400g,1,Expired
+2026-04-01,Sourdough Loaf,1,Expired
+2026-04-02,Sourdough Loaf,1,Spoiled
+2026-04-03,Sourdough Loaf,3,Expired
+2026-04-04,Sourdough Loaf,1,Expired
+2026-04-05,Sourdough Loaf,2,Damaged
+2026-04-06,Sourdough Loaf,4,Expired
+2026-04-07,Sourdough Loaf,2,Spoiled
+2026-04-09,Sourdough Loaf,2,Spoiled
+2026-04-10,Sourdough Loaf,1,Spoiled
+2026-04-11,Sourdough Loaf,2,Expired
+2026-04-13,Sourdough Loaf,3,Expired
+2026-04-14,Sourdough Loaf,2,Expired
+2026-04-15,Sourdough Loaf,1,Spoiled
+2026-04-16,Sourdough Loaf,3,Damaged
+2026-04-17,Sourdough Loaf,2,Damaged
+2026-04-18,Sourdough Loaf,4,Expired
+2026-04-19,Sourdough Loaf,1,Expired
+2026-04-20,Sourdough Loaf,4,Damaged
+2026-04-22,Sourdough Loaf,1,Spoiled
+2026-04-23,Sourdough Loaf,1,Damaged
+2026-04-24,Sourdough Loaf,3,Expired
+2026-04-25,Sourdough Loaf,2,Damaged
+2026-04-26,Sourdough Loaf,3,Spoiled
+2026-04-27,Sourdough Loaf,1,Expired
+2026-04-28,Sourdough Loaf,1,Damaged
+2026-04-29,Sourdough Loaf,3,Spoiled
+2026-04-30,Sourdough Loaf,3,Expired
+2026-05-02,Sourdough Loaf,2,Spoiled
+2026-05-03,Sourdough Loaf,2,Spoiled
+2026-05-04,Sourdough Loaf,3,Expired
+2026-05-06,Sourdough Loaf,1,Damaged
+2026-05-07,Sourdough Loaf,1,Expired
+2026-05-11,Sourdough Loaf,5,Expired
+2026-05-13,Sourdough Loaf,1,Spoiled
+2026-05-16,Sourdough Loaf,3,Expired
+2026-05-17,Sourdough Loaf,1,Spoiled
+2026-05-18,Sourdough Loaf,8,Spoiled
+2026-05-21,Sourdough Loaf,2,Expired
+2026-05-22,Sourdough Loaf,3,Expired
+2026-05-23,Sourdough Loaf,2,Expired
+2026-05-24,Sourdough Loaf,1,Expired
+2026-05-25,Sourdough Loaf,2,Damaged
+2026-05-28,Sourdough Loaf,2,Expired
+2026-05-29,Sourdough Loaf,3,Expired
+2026-05-31,Sourdough Loaf,1,Damaged
+2026-06-01,Sourdough Loaf,6,Spoiled
+2026-06-02,Sourdough Loaf,6,Expired
+2026-06-03,Sourdough Loaf,1,Spoiled
+2026-06-04,Sourdough Loaf,1,Expired
+2026-06-05,Sourdough Loaf,1,Damaged
+2026-06-06,Sourdough Loaf,3,Expired
+2026-06-08,Sourdough Loaf,2,Spoiled
+2026-06-09,Sourdough Loaf,1,Expired
+2026-06-10,Sourdough Loaf,1,Expired
+2026-06-11,Sourdough Loaf,2,Expired
+2026-06-12,Sourdough Loaf,4,Expired
+2026-06-13,Sourdough Loaf,1,Spoiled
+2026-06-15,Sourdough Loaf,4,Spoiled
+2026-06-16,Sourdough Loaf,2,Spoiled
+2026-06-17,Sourdough Loaf,1,Expired
+2026-06-18,Sourdough Loaf,2,Expired
+2026-06-20,Sourdough Loaf,1,Expired
+2026-06-21,Sourdough Loaf,1,Expired
+2026-06-22,Sourdough Loaf,4,Spoiled
+2026-06-23,Sourdough Loaf,1,Spoiled
+2026-06-24,Sourdough Loaf,1,Expired
+2026-06-25,Sourdough Loaf,2,Expired
+2026-06-27,Sourdough Loaf,1,Damaged
+2026-06-29,Sourdough Loaf,3,Damaged
+2026-06-30,Sourdough Loaf,4,Expired
+2026-07-01,Sourdough Loaf,1,Damaged
+2026-07-02,Sourdough Loaf,2,Damaged
+2026-07-03,Sourdough Loaf,1,Expired
+2026-07-04,Sourdough Loaf,2,Expired
+2026-07-05,Sourdough Loaf,2,Expired
+2026-07-06,Sourdough Loaf,2,Spoiled
+2026-07-07,Sourdough Loaf,2,Expired
+2026-07-08,Sourdough Loaf,2,Damaged
+2026-07-09,Sourdough Loaf,2,Spoiled
+2026-07-10,Sourdough Loaf,3,Spoiled
+2026-07-13,Sourdough Loaf,1,Spoiled
+2026-07-14,Sourdough Loaf,1,Expired
+2026-07-16,Sourdough Loaf,2,Spoiled
+2026-07-17,Sourdough Loaf,1,Expired
+2026-07-18,Sourdough Loaf,1,Spoiled
+2026-07-19,Sourdough Loaf,2,Expired
+2026-07-20,Sourdough Loaf,3,Spoiled
+2026-07-21,Sourdough Loaf,1,Spoiled
+2026-07-22,Sourdough Loaf,1,Expired
+2026-07-23,Sourdough Loaf,1,Spoiled
+2026-07-24,Sourdough Loaf,2,Damaged
+2026-07-25,Sourdough Loaf,3,Expired
+2026-07-27,Sourdough Loaf,3,Expired
+2026-07-28,Sourdough Loaf,1,Damaged
+2026-07-29,Sourdough Loaf,1,Expired
+2026-07-30,Sourdough Loaf,3,Spoiled
+2026-07-31,Sourdough Loaf,2,Expired
+2026-08-01,Sourdough Loaf,1,Expired
+2026-08-02,Sourdough Loaf,2,Expired
+2026-08-03,Sourdough Loaf,8,Spoiled
+2026-08-04,Sourdough Loaf,3,Expired
+2026-08-07,Sourdough Loaf,2,Spoiled
+2026-08-08,Sourdough Loaf,1,Spoiled
+2026-08-10,Sourdough Loaf,5,Spoiled
+2026-08-12,Sourdough Loaf,3,Expired
+2026-08-13,Sourdough Loaf,3,Spoiled
+2026-08-14,Sourdough Loaf,1,Spoiled
+2026-08-15,Sourdough Loaf,2,Expired
+2026-08-16,Sourdough Loaf,2,Expired
+2026-08-17,Sourdough Loaf,4,Expired
+2026-08-19,Sourdough Loaf,1,Expired
+2026-08-20,Sourdough Loaf,4,Expired
+2026-08-21,Sourdough Loaf,1,Spoiled
+2026-08-22,Sourdough Loaf,1,Spoiled
+2026-08-23,Sourdough Loaf,3,Expired
+2026-08-24,Sourdough Loaf,1,Expired
+2026-08-26,Sourdough Loaf,1,Spoiled
+2026-08-28,Sourdough Loaf,1,Damaged
+2026-08-29,Sourdough Loaf,1,Spoiled
+2026-08-30,Sourdough Loaf,1,Spoiled
+2026-08-31,Sourdough Loaf,4,Damaged
+2026-09-01,Sourdough Loaf,1,Spoiled
+2026-09-02,Sourdough Loaf,1,Spoiled
+2026-09-04,Sourdough Loaf,2,Expired
+2026-09-05,Sourdough Loaf,1,Spoiled
+2026-09-06,Sourdough Loaf,1,Spoiled
+2026-09-07,Sourdough Loaf,3,Expired
+2026-09-10,Sourdough Loaf,2,Spoiled
+2026-09-11,Sourdough Loaf,2,Expired
+2026-09-12,Sourdough Loaf,1,Spoiled
+2026-09-13,Sourdough Loaf,2,Expired
+2026-09-14,Sourdough Loaf,3,Damaged
+2026-09-15,Sourdough Loaf,2,Spoiled
+2026-09-18,Sourdough Loaf,5,Spoiled
+2026-09-20,Sourdough Loaf,3,Expired
+2026-09-21,Sourdough Loaf,2,Expired
+2026-09-22,Sourdough Loaf,1,Expired
+2026-09-24,Sourdough Loaf,3,Expired
+2026-09-25,Sourdough Loaf,4,Expired
+2026-09-26,Sourdough Loaf,2,Expired
+2026-09-28,Sourdough Loaf,2,Spoiled
+2026-09-29,Sourdough Loaf,1,Expired
+2026-09-30,Sourdough Loaf,1,Spoiled
+2026-04-01,Bagels (6 pack),1,Expired
+2026-04-05,Bagels (6 pack),1,Expired
+2026-04-06,Bagels (6 pack),1,Expired
+2026-04-08,Bagels (6 pack),2,Expired
+2026-04-10,Bagels (6 pack),1,Expired
+2026-04-13,Bagels (6 pack),2,Expired
+2026-04-14,Bagels (6 pack),1,Expired
+2026-04-16,Bagels (6 pack),1,Expired
+2026-04-17,Bagels (6 pack),1,Expired
+2026-04-18,Bagels (6 pack),1,Spoiled
+2026-04-19,Bagels (6 pack),1,Expired
+2026-04-20,Bagels (6 pack),1,Spoiled
+2026-04-21,Bagels (6 pack),1,Expired
+2026-04-22,Bagels (6 pack),2,Spoiled
+2026-04-24,Bagels (6 pack),4,Expired
+2026-04-25,Bagels (6 pack),3,Expired
+2026-04-27,Bagels (6 pack),1,Expired
+2026-04-29,Bagels (6 pack),2,Expired
+2026-04-30,Bagels (6 pack),1,Spoiled
+2026-05-01,Bagels (6 pack),1,Spoiled
+2026-05-02,Bagels (6 pack),1,Spoiled
+2026-05-03,Bagels (6 pack),1,Expired
+2026-05-04,Bagels (6 pack),4,Expired
+2026-05-05,Bagels (6 pack),1,Spoiled
+2026-05-06,Bagels (6 pack),2,Expired
+2026-05-07,Bagels (6 pack),2,Spoiled
+2026-05-09,Bagels (6 pack),2,Spoiled
+2026-05-12,Bagels (6 pack),1,Expired
+2026-05-13,Bagels (6 pack),1,Spoiled
+2026-05-15,Bagels (6 pack),1,Expired
+2026-05-16,Bagels (6 pack),1,Expired
+2026-05-22,Bagels (6 pack),2,Expired
+2026-05-24,Bagels (6 pack),1,Expired
+2026-05-25,Bagels (6 pack),2,Damaged
+2026-05-26,Bagels (6 pack),1,Spoiled
+2026-05-28,Bagels (6 pack),3,Expired
+2026-05-29,Bagels (6 pack),2,Expired
+2026-05-30,Bagels (6 pack),1,Expired
+2026-06-01,Bagels (6 pack),4,Damaged
+2026-06-05,Bagels (6 pack),2,Spoiled
+2026-06-06,Bagels (6 pack),1,Expired
+2026-06-07,Bagels (6 pack),1,Expired
+2026-06-11,Bagels (6 pack),2,Expired
+2026-06-12,Bagels (6 pack),1,Expired
+2026-06-13,Bagels (6 pack),2,Spoiled
+2026-06-15,Bagels (6 pack),3,Expired
+2026-06-19,Bagels (6 pack),2,Spoiled
+2026-06-21,Bagels (6 pack),1,Spoiled
+2026-06-22,Bagels (6 pack),1,Spoiled
+2026-06-23,Bagels (6 pack),1,Damaged
+2026-06-27,Bagels (6 pack),2,Spoiled
+2026-06-28,Bagels (6 pack),1,Damaged
+2026-06-29,Bagels (6 pack),2,Expired
+2026-06-30,Bagels (6 pack),2,Expired
+2026-07-01,Bagels (6 pack),3,Expired
+2026-07-05,Bagels (6 pack),4,Spoiled
+2026-07-06,Bagels (6 pack),1,Expired
+2026-07-08,Bagels (6 pack),1,Expired
+2026-07-09,Bagels (6 pack),2,Damaged
+2026-07-13,Bagels (6 pack),2,Spoiled
+2026-07-14,Bagels (6 pack),2,Expired
+2026-07-17,Bagels (6 pack),2,Expired
+2026-07-18,Bagels (6 pack),1,Spoiled
+2026-07-20,Bagels (6 pack),4,Expired
+2026-07-21,Bagels (6 pack),2,Spoiled
+2026-07-23,Bagels (6 pack),1,Spoiled
+2026-07-25,Bagels (6 pack),1,Spoiled
+2026-07-26,Bagels (6 pack),1,Expired
+2026-07-27,Bagels (6 pack),1,Expired
+2026-07-28,Bagels (6 pack),1,Spoiled
+2026-08-01,Bagels (6 pack),2,Expired
+2026-08-03,Bagels (6 pack),1,Expired
+2026-08-04,Bagels (6 pack),1,Damaged
+2026-08-05,Bagels (6 pack),1,Expired
+2026-08-06,Bagels (6 pack),3,Spoiled
+2026-08-09,Bagels (6 pack),1,Spoiled
+2026-08-11,Bagels (6 pack),1,Expired
+2026-08-13,Bagels (6 pack),1,Expired
+2026-08-14,Bagels (6 pack),2,Expired
+2026-08-15,Bagels (6 pack),1,Expired
+2026-08-17,Bagels (6 pack),2,Spoiled
+2026-08-22,Bagels (6 pack),1,Expired
+2026-08-25,Bagels (6 pack),1,Spoiled
+2026-08-26,Bagels (6 pack),2,Expired
+2026-08-28,Bagels (6 pack),1,Damaged
+2026-08-29,Bagels (6 pack),1,Spoiled
+2026-08-30,Bagels (6 pack),1,Spoiled
+2026-09-01,Bagels (6 pack),1,Spoiled
+2026-09-05,Bagels (6 pack),1,Expired
+2026-09-07,Bagels (6 pack),3,Expired
+2026-09-08,Bagels (6 pack),1,Spoiled
+2026-09-09,Bagels (6 pack),1,Expired
+2026-09-10,Bagels (6 pack),1,Spoiled
+2026-09-12,Bagels (6 pack),1,Spoiled
+2026-09-14,Bagels (6 pack),1,Expired
+2026-09-15,Bagels (6 pack),1,Expired
+2026-09-16,Bagels (6 pack),1,Expired
+2026-09-20,Bagels (6 pack),1,Expired
+2026-09-21,Bagels (6 pack),5,Damaged
+2026-09-25,Bagels (6 pack),2,Expired
+2026-09-26,Bagels (6 pack),2,Spoiled
+2026-09-28,Bagels (6 pack),1,Expired
+2026-09-29,Bagels (6 pack),2,Spoiled
+2026-04-01,Bananas (bunch),1,Damaged
+2026-04-02,Bananas (bunch),2,Damaged
+2026-04-03,Bananas (bunch),2,Expired
+2026-04-04,Bananas (bunch),1,Spoiled
+2026-04-05,Bananas (bunch),3,Spoiled
+2026-04-06,Bananas (bunch),7,Spoiled
+2026-04-07,Bananas (bunch),3,Expired
+2026-04-08,Bananas (bunch),3,Expired
+2026-04-10,Bananas (bunch),2,Expired
+2026-04-12,Bananas (bunch),2,Expired
+2026-04-13,Bananas (bunch),1,Expired
+2026-04-14,Bananas (bunch),2,Damaged
+2026-04-15,Bananas (bunch),3,Spoiled
+2026-04-16,Bananas (bunch),1,Damaged
+2026-04-17,Bananas (bunch),3,Damaged
+2026-04-18,Bananas (bunch),1,Spoiled
+2026-04-19,Bananas (bunch),1,Expired
+2026-04-20,Bananas (bunch),3,Expired
+2026-04-21,Bananas (bunch),4,Expired
+2026-04-22,Bananas (bunch),1,Expired
+2026-04-23,Bananas (bunch),2,Expired
+2026-04-25,Bananas (bunch),2,Expired
+2026-04-27,Bananas (bunch),6,Damaged
+2026-04-28,Bananas (bunch),1,Expired
+2026-04-29,Bananas (bunch),2,Expired
+2026-04-30,Bananas (bunch),3,Damaged
+2026-05-01,Bananas (bunch),1,Spoiled
+2026-05-02,Bananas (bunch),3,Damaged
+2026-05-03,Bananas (bunch),1,Damaged
+2026-05-04,Bananas (bunch),4,Damaged
+2026-05-05,Bananas (bunch),1,Damaged
+2026-05-08,Bananas (bunch),3,Spoiled
+2026-05-09,Bananas (bunch),2,Spoiled
+2026-05-10,Bananas (bunch),3,Expired
+2026-05-11,Bananas (bunch),4,Spoiled
+2026-05-12,Bananas (bunch),2,Expired
+2026-05-13,Bananas (bunch),2,Expired
+2026-05-14,Bananas (bunch),3,Expired
+2026-05-15,Bananas (bunch),1,Expired
+2026-05-16,Bananas (bunch),4,Expired
+2026-05-17,Bananas (bunch),3,Expired
+2026-05-18,Bananas (bunch),6,Expired
+2026-05-19,Bananas (bunch),1,Spoiled
+2026-05-20,Bananas (bunch),2,Spoiled
+2026-05-21,Bananas (bunch),3,Expired
+2026-05-22,Bananas (bunch),2,Spoiled
+2026-05-23,Bananas (bunch),2,Spoiled
+2026-05-25,Bananas (bunch),3,Spoiled
+2026-05-26,Bananas (bunch),2,Expired
+2026-05-27,Bananas (bunch),3,Spoiled
+2026-05-28,Bananas (bunch),2,Expired
+2026-05-29,Bananas (bunch),3,Spoiled
+2026-05-30,Bananas (bunch),4,Spoiled
+2026-05-31,Bananas (bunch),4,Expired
+2026-06-01,Bananas (bunch),4,Damaged
+2026-06-03,Bananas (bunch),5,Spoiled
+2026-06-04,Bananas (bunch),2,Expired
+2026-06-05,Bananas (bunch),2,Expired
+2026-06-07,Bananas (bunch),5,Expired
+2026-06-08,Bananas (bunch),4,Expired
+2026-06-09,Bananas (bunch),1,Expired
+2026-06-10,Bananas (bunch),3,Spoiled
+2026-06-11,Bananas (bunch),4,Expired
+2026-06-13,Bananas (bunch),2,Expired
+2026-06-14,Bananas (bunch),3,Damaged
+2026-06-15,Bananas (bunch),2,Damaged
+2026-06-16,Bananas (bunch),4,Spoiled
+2026-06-17,Bananas (bunch),2,Expired
+2026-06-18,Bananas (bunch),1,Expired
+2026-06-19,Bananas (bunch),4,Spoiled
+2026-06-20,Bananas (bunch),1,Spoiled
+2026-06-21,Bananas (bunch),2,Spoiled
+2026-06-22,Bananas (bunch),8,Damaged
+2026-06-23,Bananas (bunch),1,Expired
+2026-06-24,Bananas (bunch),1,Spoiled
+2026-06-25,Bananas (bunch),2,Expired
+2026-06-26,Bananas (bunch),3,Expired
+2026-06-27,Bananas (bunch),3,Expired
+2026-06-29,Bananas (bunch),2,Spoiled
+2026-06-30,Bananas (bunch),1,Damaged
+2026-07-01,Bananas (bunch),2,Expired
+2026-07-02,Bananas (bunch),3,Spoiled
+2026-07-03,Bananas (bunch),1,Expired
+2026-07-04,Bananas (bunch),2,Expired
+2026-07-05,Bananas (bunch),2,Expired
+2026-07-06,Bananas (bunch),3,Expired
+2026-07-07,Bananas (bunch),4,Expired
+2026-07-08,Bananas (bunch),4,Spoiled
+2026-07-09,Bananas (bunch),2,Spoiled
+2026-07-11,Bananas (bunch),1,Expired
+2026-07-12,Bananas (bunch),1,Expired
+2026-07-14,Bananas (bunch),2,Expired
+2026-07-15,Bananas (bunch),1,Spoiled
+2026-07-16,Bananas (bunch),4,Expired
+2026-07-17,Bananas (bunch),2,Spoiled
+2026-07-18,Bananas (bunch),3,Spoiled
+2026-07-19,Bananas (bunch),2,Spoiled
+2026-07-20,Bananas (bunch),4,Expired
+2026-07-21,Bananas (bunch),1,Spoiled
+2026-07-22,Bananas (bunch),2,Spoiled
+2026-07-23,Bananas (bunch),4,Expired
+2026-07-25,Bananas (bunch),2,Spoiled
+2026-07-26,Bananas (bunch),4,Spoiled
+2026-07-27,Bananas (bunch),2,Expired
+2026-07-28,Bananas (bunch),2,Spoiled
+2026-07-29,Bananas (bunch),5,Spoiled
+2026-07-30,Bananas (bunch),2,Expired
+2026-07-31,Bananas (bunch),2,Spoiled
+2026-08-01,Bananas (bunch),1,Expired
+2026-08-02,Bananas (bunch),6,Expired
+2026-08-03,Bananas (bunch),4,Expired
+2026-08-04,Bananas (bunch),2,Expired
+2026-08-05,Bananas (bunch),2,Spoiled
+2026-08-06,Bananas (bunch),1,Spoiled
+2026-08-10,Bananas (bunch),3,Expired
+2026-08-11,Bananas (bunch),1,Damaged
+2026-08-12,Bananas (bunch),2,Spoiled
+2026-08-13,Bananas (bunch),2,Expired
+2026-08-14,Bananas (bunch),1,Spoiled
+2026-08-15,Bananas (bunch),1,Expired
+2026-08-16,Bananas (bunch),3,Spoiled
+2026-08-17,Bananas (bunch),4,Expired
+2026-08-21,Bananas (bunch),2,Expired
+2026-08-23,Bananas (bunch),2,Expired
+2026-08-24,Bananas (bunch),6,Expired
+2026-08-25,Bananas (bunch),4,Spoiled
+2026-08-26,Bananas (bunch),3,Expired
+2026-08-28,Bananas (bunch),6,Expired
+2026-08-29,Bananas (bunch),1,Expired
+2026-08-30,Bananas (bunch),3,Damaged
+2026-08-31,Bananas (bunch),6,Spoiled
+2026-09-01,Bananas (bunch),1,Expired
+2026-09-02,Bananas (bunch),2,Expired
+2026-09-03,Bananas (bunch),1,Expired
+2026-09-04,Bananas (bunch),2,Expired
+2026-09-05,Bananas (bunch),7,Spoiled
+2026-09-06,Bananas (bunch),1,Expired
+2026-09-07,Bananas (bunch),2,Spoiled
+2026-09-11,Bananas (bunch),2,Expired
+2026-09-12,Bananas (bunch),1,Expired
+2026-09-13,Bananas (bunch),2,Expired
+2026-09-14,Bananas (bunch),4,Damaged
+2026-09-15,Bananas (bunch),3,Spoiled
+2026-09-16,Bananas (bunch),4,Damaged
+2026-09-17,Bananas (bunch),2,Spoiled
+2026-09-19,Bananas (bunch),2,Expired
+2026-09-20,Bananas (bunch),1,Spoiled
+2026-09-21,Bananas (bunch),2,Expired
+2026-09-22,Bananas (bunch),1,Expired
+2026-09-23,Bananas (bunch),4,Spoiled
+2026-09-24,Bananas (bunch),1,Spoiled
+2026-09-25,Bananas (bunch),1,Expired
+2026-09-26,Bananas (bunch),6,Expired
+2026-09-27,Bananas (bunch),1,Expired
+2026-09-28,Bananas (bunch),2,Damaged
+2026-09-30,Bananas (bunch),1,Spoiled
+2026-04-01,Spinach 312g,4,Damaged
+2026-04-04,Spinach 312g,2,Spoiled
+2026-04-05,Spinach 312g,1,Expired
+2026-04-06,Spinach 312g,1,Expired
+2026-04-08,Spinach 312g,3,Spoiled
+2026-04-12,Spinach 312g,2,Spoiled
+2026-04-13,Spinach 312g,2,Spoiled
+2026-04-15,Spinach 312g,2,Spoiled
+2026-04-16,Spinach 312g,2,Spoiled
+2026-04-18,Spinach 312g,2,Expired
+2026-04-19,Spinach 312g,3,Spoiled
+2026-04-20,Spinach 312g,3,Expired
+2026-04-22,Spinach 312g,1,Expired
+2026-04-23,Spinach 312g,1,Spoiled
+2026-04-25,Spinach 312g,2,Expired
+2026-04-26,Spinach 312g,1,Damaged
+2026-04-27,Spinach 312g,1,Spoiled
+2026-04-28,Spinach 312g,1,Spoiled
+2026-04-29,Spinach 312g,2,Expired
+2026-04-30,Spinach 312g,1,Expired
+2026-05-01,Spinach 312g,1,Spoiled
+2026-05-04,Spinach 312g,3,Expired
+2026-05-05,Spinach 312g,2,Damaged
+2026-05-07,Spinach 312g,1,Spoiled
+2026-05-08,Spinach 312g,1,Spoiled
+2026-05-09,Spinach 312g,1,Expired
+2026-05-10,Spinach 312g,1,Spoiled
+2026-05-11,Spinach 312g,3,Spoiled
+2026-05-13,Spinach 312g,1,Expired
+2026-05-15,Spinach 312g,1,Expired
+2026-05-16,Spinach 312g,2,Expired
+2026-05-17,Spinach 312g,1,Expired
+2026-05-18,Spinach 312g,3,Spoiled
+2026-05-19,Spinach 312g,1,Expired
+2026-05-20,Spinach 312g,1,Expired
+2026-05-21,Spinach 312g,1,Damaged
+2026-05-24,Spinach 312g,2,Expired
+2026-05-26,Spinach 312g,2,Expired
+2026-05-27,Spinach 312g,2,Expired
+2026-05-28,Spinach 312g,1,Expired
+2026-05-30,Spinach 312g,1,Expired
+2026-05-31,Spinach 312g,1,Spoiled
+2026-06-01,Spinach 312g,1,Spoiled
+2026-06-02,Spinach 312g,2,Expired
+2026-06-03,Spinach 312g,1,Spoiled
+2026-06-04,Spinach 312g,1,Expired
+2026-06-05,Spinach 312g,2,Spoiled
+2026-06-06,Spinach 312g,1,Expired
+2026-06-07,Spinach 312g,1,Spoiled
+2026-06-08,Spinach 312g,3,Expired
+2026-06-10,Spinach 312g,1,Spoiled
+2026-06-11,Spinach 312g,3,Spoiled
+2026-06-13,Spinach 312g,2,Expired
+2026-06-15,Spinach 312g,2,Expired
+2026-06-16,Spinach 312g,1,Expired
+2026-06-18,Spinach 312g,3,Spoiled
+2026-06-19,Spinach 312g,1,Spoiled
+2026-06-20,Spinach 312g,2,Expired
+2026-06-21,Spinach 312g,3,Damaged
+2026-06-22,Spinach 312g,2,Expired
+2026-06-23,Spinach 312g,2,Expired
+2026-06-25,Spinach 312g,1,Expired
+2026-06-26,Spinach 312g,1,Expired
+2026-06-27,Spinach 312g,2,Expired
+2026-06-28,Spinach 312g,4,Expired
+2026-06-29,Spinach 312g,2,Spoiled
+2026-07-01,Spinach 312g,1,Damaged
+2026-07-03,Spinach 312g,2,Spoiled
+2026-07-04,Spinach 312g,3,Expired
+2026-07-06,Spinach 312g,1,Expired
+2026-07-07,Spinach 312g,4,Spoiled
+2026-07-11,Spinach 312g,1,Expired
+2026-07-13,Spinach 312g,4,Spoiled
+2026-07-16,Spinach 312g,1,Spoiled
+2026-07-18,Spinach 312g,2,Expired
+2026-07-19,Spinach 312g,2,Spoiled
+2026-07-20,Spinach 312g,3,Expired
+2026-07-21,Spinach 312g,2,Expired
+2026-07-22,Spinach 312g,2,Expired
+2026-07-23,Spinach 312g,1,Spoiled
+2026-07-24,Spinach 312g,3,Expired
+2026-07-25,Spinach 312g,1,Expired
+2026-07-26,Spinach 312g,2,Spoiled
+2026-07-27,Spinach 312g,3,Expired
+2026-07-28,Spinach 312g,1,Spoiled
+2026-07-29,Spinach 312g,3,Expired
+2026-08-01,Spinach 312g,3,Expired
+2026-08-03,Spinach 312g,3,Expired
+2026-08-06,Spinach 312g,1,Expired
+2026-08-07,Spinach 312g,1,Expired
+2026-08-08,Spinach 312g,4,Expired
+2026-08-09,Spinach 312g,3,Expired
+2026-08-10,Spinach 312g,3,Expired
+2026-08-12,Spinach 312g,1,Spoiled
+2026-08-14,Spinach 312g,2,Spoiled
+2026-08-16,Spinach 312g,1,Spoiled
+2026-08-17,Spinach 312g,2,Spoiled
+2026-08-19,Spinach 312g,1,Spoiled
+2026-08-21,Spinach 312g,2,Expired
+2026-08-22,Spinach 312g,1,Expired
+2026-08-24,Spinach 312g,4,Spoiled
+2026-08-25,Spinach 312g,1,Spoiled
+2026-08-26,Spinach 312g,1,Expired
+2026-08-29,Spinach 312g,3,Spoiled
+2026-08-31,Spinach 312g,1,Expired
+2026-09-01,Spinach 312g,1,Spoiled
+2026-09-05,Spinach 312g,4,Spoiled
+2026-09-06,Spinach 312g,1,Expired
+2026-09-07,Spinach 312g,4,Damaged
+2026-09-08,Spinach 312g,5,Damaged
+2026-09-09,Spinach 312g,2,Spoiled
+2026-09-11,Spinach 312g,3,Expired
+2026-09-12,Spinach 312g,3,Expired
+2026-09-13,Spinach 312g,3,Expired
+2026-09-14,Spinach 312g,3,Expired
+2026-09-17,Spinach 312g,1,Expired
+2026-09-18,Spinach 312g,1,Expired
+2026-09-20,Spinach 312g,1,Expired
+2026-09-21,Spinach 312g,1,Spoiled
+2026-09-23,Spinach 312g,1,Expired
+2026-09-24,Spinach 312g,1,Expired
+2026-09-25,Spinach 312g,3,Spoiled
+2026-09-26,Spinach 312g,2,Expired
+2026-09-28,Spinach 312g,1,Expired
+2026-09-29,Spinach 312g,1,Expired
+2026-09-30,Spinach 312g,1,Expired
+2026-04-01,Gala Apples 3lb,1,Spoiled
+2026-04-02,Gala Apples 3lb,1,Expired
+2026-04-20,Gala Apples 3lb,2,Expired
+2026-04-25,Gala Apples 3lb,1,Expired
+2026-04-30,Gala Apples 3lb,1,Spoiled
+2026-05-02,Gala Apples 3lb,2,Spoiled
+2026-05-05,Gala Apples 3lb,1,Expired
+2026-05-30,Gala Apples 3lb,1,Spoiled
+2026-06-08,Gala Apples 3lb,1,Spoiled
+2026-06-19,Gala Apples 3lb,1,Damaged
+2026-06-20,Gala Apples 3lb,1,Spoiled
+2026-06-21,Gala Apples 3lb,1,Expired
+2026-06-25,Gala Apples 3lb,2,Spoiled
+2026-07-01,Gala Apples 3lb,1,Expired
+2026-07-02,Gala Apples 3lb,1,Expired
+2026-07-03,Gala Apples 3lb,1,Expired
+2026-07-07,Gala Apples 3lb,1,Expired
+2026-07-09,Gala Apples 3lb,1,Spoiled
+2026-07-11,Gala Apples 3lb,1,Spoiled
+2026-07-13,Gala Apples 3lb,1,Expired
+2026-07-18,Gala Apples 3lb,1,Expired
+2026-07-20,Gala Apples 3lb,1,Spoiled
+2026-07-21,Gala Apples 3lb,1,Spoiled
+2026-07-22,Gala Apples 3lb,1,Spoiled
+2026-08-03,Gala Apples 3lb,2,Spoiled
+2026-08-10,Gala Apples 3lb,1,Spoiled
+2026-08-24,Gala Apples 3lb,2,Expired
+2026-09-03,Gala Apples 3lb,1,Expired
+2026-09-05,Gala Apples 3lb,1,Expired
+2026-09-10,Gala Apples 3lb,1,Expired
+2026-09-19,Gala Apples 3lb,1,Expired
+2026-09-23,Gala Apples 3lb,1,Expired
+2026-09-25,Gala Apples 3lb,1,Spoiled
+2026-04-06,Chicken Breast 1kg,1,Expired
+2026-04-10,Chicken Breast 1kg,1,Expired
+2026-04-13,Chicken Breast 1kg,2,Expired
+2026-04-19,Chicken Breast 1kg,1,Expired
+2026-04-22,Chicken Breast 1kg,1,Expired
+2026-04-30,Chicken Breast 1kg,2,Expired
+2026-05-02,Chicken Breast 1kg,1,Damaged
+2026-05-03,Chicken Breast 1kg,1,Expired
+2026-05-04,Chicken Breast 1kg,1,Spoiled
+2026-05-10,Chicken Breast 1kg,1,Expired
+2026-05-20,Chicken Breast 1kg,1,Expired
+2026-05-24,Chicken Breast 1kg,1,Expired
+2026-05-29,Chicken Breast 1kg,1,Damaged
+2026-06-01,Chicken Breast 1kg,1,Expired
+2026-06-09,Chicken Breast 1kg,1,Damaged
+2026-06-11,Chicken Breast 1kg,1,Expired
+2026-06-18,Chicken Breast 1kg,1,Expired
+2026-06-22,Chicken Breast 1kg,2,Expired
+2026-06-28,Chicken Breast 1kg,1,Damaged
+2026-06-29,Chicken Breast 1kg,2,Expired
+2026-06-30,Chicken Breast 1kg,2,Expired
+2026-07-01,Chicken Breast 1kg,1,Expired
+2026-07-02,Chicken Breast 1kg,1,Expired
+2026-07-04,Chicken Breast 1kg,1,Expired
+2026-07-07,Chicken Breast 1kg,1,Spoiled
+2026-07-08,Chicken Breast 1kg,1,Expired
+2026-07-12,Chicken Breast 1kg,1,Expired
+2026-07-20,Chicken Breast 1kg,1,Expired
+2026-07-21,Chicken Breast 1kg,1,Expired
+2026-07-27,Chicken Breast 1kg,1,Expired
+2026-07-30,Chicken Breast 1kg,1,Spoiled
+2026-08-03,Chicken Breast 1kg,1,Expired
+2026-08-09,Chicken Breast 1kg,1,Expired
+2026-08-12,Chicken Breast 1kg,1,Expired
+2026-08-13,Chicken Breast 1kg,1,Damaged
+2026-08-15,Chicken Breast 1kg,2,Spoiled
+2026-08-18,Chicken Breast 1kg,1,Damaged
+2026-08-19,Chicken Breast 1kg,1,Expired
+2026-08-27,Chicken Breast 1kg,1,Expired
+2026-08-31,Chicken Breast 1kg,1,Expired
+2026-09-03,Chicken Breast 1kg,1,Expired
+2026-09-04,Chicken Breast 1kg,1,Damaged
+2026-09-06,Chicken Breast 1kg,1,Spoiled
+2026-09-14,Chicken Breast 1kg,1,Expired
+2026-09-16,Chicken Breast 1kg,1,Damaged
+2026-09-21,Chicken Breast 1kg,1,Expired
+2026-09-23,Chicken Breast 1kg,1,Expired
+2026-09-28,Chicken Breast 1kg,1,Expired
+2026-09-30,Chicken Breast 1kg,1,Expired
+2026-04-18,Canned Tomatoes,1,Expired
+2026-04-29,Canned Tomatoes,1,Expired
+2026-05-09,Canned Tomatoes,1,Damaged
+2026-05-13,Canned Tomatoes,1,Expired
+2026-05-25,Canned Tomatoes,1,Damaged
+2026-07-04,Canned Tomatoes,1,Damaged
+2026-07-20,Canned Tomatoes,2,Damaged
+2026-08-09,Canned Tomatoes,1,Expired
+2026-08-17,Canned Tomatoes,1,Damaged
+2026-08-23,Canned Tomatoes,1,Damaged
+2026-09-06,Canned Tomatoes,1,Damaged
+2026-04-06,Orange Juice 1.5L,1,Expired
+2026-04-08,Orange Juice 1.5L,1,Damaged
+2026-04-12,Orange Juice 1.5L,1,Expired
+2026-04-13,Orange Juice 1.5L,1,Damaged
+2026-04-14,Orange Juice 1.5L,1,Expired
+2026-04-15,Orange Juice 1.5L,1,Damaged
+2026-04-16,Orange Juice 1.5L,1,Expired
+2026-04-19,Orange Juice 1.5L,1,Damaged
+2026-04-22,Orange Juice 1.5L,1,Damaged
+2026-04-29,Orange Juice 1.5L,1,Damaged
+2026-05-02,Orange Juice 1.5L,1,Damaged
+2026-05-11,Orange Juice 1.5L,1,Damaged
+2026-05-12,Orange Juice 1.5L,1,Damaged
+2026-05-13,Orange Juice 1.5L,1,Expired
+2026-05-15,Orange Juice 1.5L,1,Expired
+2026-05-16,Orange Juice 1.5L,1,Damaged
+2026-05-19,Orange Juice 1.5L,1,Damaged
+2026-05-24,Orange Juice 1.5L,1,Damaged
+2026-06-01,Orange Juice 1.5L,1,Damaged
+2026-06-06,Orange Juice 1.5L,1,Damaged
+2026-06-11,Orange Juice 1.5L,1,Damaged
+2026-06-12,Orange Juice 1.5L,1,Expired
+2026-06-14,Orange Juice 1.5L,1,Damaged
+2026-06-15,Orange Juice 1.5L,2,Damaged
+2026-06-21,Orange Juice 1.5L,2,Expired
+2026-06-22,Orange Juice 1.5L,1,Damaged
+2026-07-01,Orange Juice 1.5L,1,Damaged
+2026-07-06,Orange Juice 1.5L,1,Expired
+2026-07-10,Orange Juice 1.5L,1,Damaged
+2026-07-15,Orange Juice 1.5L,1,Damaged
+2026-07-19,Orange Juice 1.5L,1,Damaged
+2026-07-20,Orange Juice 1.5L,1,Expired
+2026-07-26,Orange Juice 1.5L,1,Damaged
+2026-07-27,Orange Juice 1.5L,1,Damaged
+2026-07-31,Orange Juice 1.5L,1,Damaged
+2026-08-02,Orange Juice 1.5L,3,Expired
+2026-08-14,Orange Juice 1.5L,1,Damaged
+2026-08-17,Orange Juice 1.5L,1,Damaged
+2026-08-20,Orange Juice 1.5L,2,Damaged
+2026-08-23,Orange Juice 1.5L,1,Damaged
+2026-08-24,Orange Juice 1.5L,1,Damaged
+2026-08-26,Orange Juice 1.5L,1,Damaged
+2026-08-27,Orange Juice 1.5L,2,Damaged
+2026-09-08,Orange Juice 1.5L,1,Damaged
+2026-09-09,Orange Juice 1.5L,1,Damaged
+2026-09-11,Orange Juice 1.5L,2,Damaged
+2026-09-14,Orange Juice 1.5L,1,Expired
+2026-09-22,Orange Juice 1.5L,1,Damaged
+2026-09-26,Orange Juice 1.5L,1,Damaged
+2026-09-29,Orange Juice 1.5L,1,Damaged
+2026-09-30,Orange Juice 1.5L,1,Damaged
+2026-04-03,Cold Brew Coffee,1,Expired
+2026-04-27,Cold Brew Coffee,1,Damaged
+2026-05-13,Cold Brew Coffee,1,Expired
+2026-06-29,Cold Brew Coffee,1,Damaged
+2026-07-20,Cold Brew Coffee,1,Expired
+2026-07-21,Cold Brew Coffee,1,Damaged
+2026-08-08,Cold Brew Coffee,1,Expired
+2026-08-22,Cold Brew Coffee,1,Damaged
+2026-09-03,Cold Brew Coffee,1,Damaged
+2026-09-25,Cold Brew Coffee,1,Damaged
+2026-09-28,Cold Brew Coffee,1,Damaged

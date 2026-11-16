@@ -1,0 +1,18 @@
+product,category,on_hand,unit_cost,lead_time_days
+Milk 2L,Dairy,45,3.7,2
+Eggs (dozen),Dairy,120,3.2,3
+Greek Yogurt 750g,Dairy,20,4.1,3
+Cheddar Block 400g,Dairy,70,5.1,5
+Sourdough Loaf,Bakery,30,3.4,1
+Bagels (6 pack),Bakery,22,2.1,1
+Bananas (bunch),Produce,55,0.95,2
+Spinach 312g,Produce,30,2.6,2
+Gala Apples 3lb,Produce,60,3.3,4
+Chicken Breast 1kg,Meat,14,9.8,3
+Basmati Rice 2kg,Pantry,70,5.4,7
+Pasta 900g,Pantry,90,1.4,7
+Canned Tomatoes,Pantry,35,0.85,7
+Orange Juice 1.5L,Beverages,60,3.3,3
+Cold Brew Coffee,Beverages,40,2.4,5
+Premium Olive Oil 1L,Specialty,70,15.5,10
+Gift Basket,Specialty,25,31.0,14
